@@ -6,20 +6,23 @@
 */ -->
 <!doctype html>
 <html lang="en">
+
 <head>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<meta name="author" content="Untree.co">
 	<link rel="shortcut icon" href="favicon.png">
 
 	<meta name="description" content="" />
 	<meta name="keywords" content="bootstrap, bootstrap5" />
-	
+
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+	<link
+		href="https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;700&display=swap"
+		rel="stylesheet">
 
 	<link rel="stylesheet" href="fonts/icomoon/style.css">
 	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
@@ -33,6 +36,7 @@
 
 	<title>Sterial &mdash; Free Bootstrap 5 Website Template by Untree.co </title>
 </head>
+
 <body>
 
 	<div class="site-mobile-menu site-navbar-target">
@@ -81,17 +85,18 @@
 							<li class="cta-button"><a href="contact.html">Contact Us</a></li>
 						</ul>
 
-						<a href="#" class="burger ms-auto float-end site-menu-toggle js-menu-toggle d-inline-block d-lg-none light" data-toggle="collapse" data-target="#main-navbar">
+						<a href="#" class="burger ms-auto float-end site-menu-toggle js-menu-toggle d-inline-block d-lg-none light"
+							data-toggle="collapse" data-target="#main-navbar">
 							<span></span>
 						</a>
 					</div>
 				</div>
 			</div>
-			
+
 		</div>
 	</nav>
 
-	
+
 
 	<div class="hero overlay">
 
@@ -103,10 +108,12 @@
 				<div class="col-lg-6 mx-auto text-center">
 
 					<h1 class="heading" data-aos="fade-up">Blog</h1>
-					<p class="mb-4" data-aos="fade-up">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+					<p class="mb-4" data-aos="fade-up">A small river named Duden flows by their place and supplies it with the
+						necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your
+						mouth.</p>
 
 					<div data-aos="fade-up">
-						<a href="https://www.youtube.com/watch?v=5n-e6lOhVq0" class="play-button glightbox3 w-100 text-center" >
+						<a href="https://www.youtube.com/watch?v=5n-e6lOhVq0" class="play-button glightbox3 w-100 text-center">
 							<div class="d-inline-flex align-items-center ">
 								<span class="icon-button me-3">
 									<span class="icon-play"></span>
@@ -119,7 +126,7 @@
 			</div>
 		</div>
 
-		
+
 	</div>
 
 
@@ -127,7 +134,7 @@
 	<div class="section">
 		<div class="container">
 
-			
+
 			<div class="row align-items-stretch">
 				<div class="col-6 col-sm-6 col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="100">
 					<div class="media-entry">
@@ -274,8 +281,8 @@
 						<li class="page-item next"><a class="page-link" href="#">Next</a></li>
 					</ul>
 				</nav>
-			</div>	
-		</div>		
+			</div>
+		</div>
 	</div>
 
 
@@ -286,7 +293,8 @@
 				<div class="col-lg-4">
 					<div class="widget">
 						<h3>About Passport<span class="text-primary">.</span> </h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
+							blind texts.</p>
 					</div> <!-- /.widget -->
 					<div class="widget">
 						<h3>Connect</h3>
@@ -344,7 +352,11 @@
 
 			<div class="row mt-5">
 				<div class="col-12 text-center">
-					<p class="mb-0">Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a> <!-- License information: https://untree.co/license/ --> Distributed By <a href="https:/themewagon.com" target="_blank">ThemeWagon</a>
+					<p class="mb-0">Copyright &copy;<script>
+							document.write(new Date().getFullYear());
+						</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a>
+						<!-- License information: https://untree.co/license/ --> Distributed By <a href="https:/themewagon.com"
+							target="_blank">ThemeWagon</a>
 					</p>
 				</div>
 			</div> <!-- /.container -->
@@ -368,5 +380,6 @@
 		<script src="js/flatpickr.js"></script>
 		<script src="js/glightbox.min.js"></script>
 		<script src="js/custom.js"></script>
-	</body>
-	</html>
+</body>
+
+</html>
