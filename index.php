@@ -1,57 +1,51 @@
 <?php require("navbar.php")    ?>
-
-<!-- INICIO DO Carousel Start -->
-<div class="container-fluid px-0 mb-5">
-  <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img class="w-100" src="img/carousel-1.jpg" alt="Image">
-        <div class="carousel-caption">
-          <div class="container">
-            <div class="row justify-content-start">
-              <div class="col-lg-7 text-start">
-                <p class="fs-4 text-white animated slideInRight">Welcome to
-                  <strong>GrowMark</strong>
-                </p>
-                <h1 class="display-1 text-white mb-4 animated slideInRight">Unlock Your Business
-                  Growth</h1>
-                <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInRight">Explore
-                  More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img class="w-100" src="img/carousel-2.jpg" alt="Image">
-        <div class="carousel-caption">
-          <div class="container">
-            <div class="row justify-content-end">
-              <div class="col-lg-7 text-end">
-                <p class="fs-4 text-white animated slideInLeft">Welcome to <strong>GrowMark</strong>
-                </p>
-                <h1 class="display-1 text-white mb-5 animated slideInLeft">Ready to Grow Your
-                  Business</h1>
-                <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">Explore
-                  More</a>
-              </div>
-            </div>
-          </div>
+<div class="container my-5">
+  <div class="row g-4">
+    <!-- Card 1 -->
+    <div class="col-lg-4 col-md-6">
+      <div class="card h-100">
+        <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
+        <div class="card-body">
+          <h5 class="card-title">Antigo Testamento</h5>
+          <p class="card-text">
+            O Antigo Testamento é a primeira parte da Bíblia cristã, composta por 39 livros (no cânon protestante). Ele
+            foi escrito antes do nascimento de Jesus Cristo e contém a história, as leis, os profetas e os ensinamentos
+            do povo de Israel.
+          </p>
+          <a href="#" class="btn btn-primary">Learn More</a>
         </div>
       </div>
     </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
+    <!-- Card 2 -->
+    <div class="col-lg-4 col-md-6">
+      <div class="card h-100">
+        <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 2 Image">
+        <div class="card-body">
+          <h5 class="card-title">Novo Testamento</h5>
+          <p class="card-text">
+            O Novo Testamento é a segunda parte da Bíblia cristã, composta por 27 livros que narram a vida,
+            ensinamentos, morte e ressurreição de Jesus Cristo, além do nascimento e expansão da Igreja primitiva.
+          </p>
+          <a href="#" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+    </div>
+    <!-- Card 3 -->
+    <div class="col-lg-4 col-md-6">
+      <div class="card h-100">
+        <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
+        <div class="card-body">
+          <h5 class="card-title">A graça de Deus</h5>
+          <p class="card-text">
+            A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
+            humanos pela fé em Jesus Cristo.
+          </p>
+          <a href="#" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-<!-- Carousel End -->
-
 
 <!-- Features Start -->
 <div class="container-xxl py-5">
@@ -59,37 +53,75 @@
     <div class="row g-0 feature-row">
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="feature-item border h-100 p-5">
-          <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-            <img class="img-fluid" src="img/icon/icon-1.png" alt="Icon">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3">Award Winning</h5>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
           <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
         <div class="feature-item border h-100 p-5">
-          <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-            <img class="img-fluid" src="img/icon/icon-2.png" alt="Icon">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3">Professional Staff</h5>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
           <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
         <div class="feature-item border h-100 p-5">
-          <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-            <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3">Fair Prices</h5>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
           <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
         <div class="feature-item border h-100 p-5">
-          <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-            <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3">24/7 Support</h5>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
+          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+        </div>
+      </div>
+    </div>
+    <div class="row g-0 feature-row">
+      <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
+        <div class="feature-item border h-100 p-5">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
+          </div>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
+          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
+        <div class="feature-item border h-100 p-5">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
+          </div>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
+          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
+        <div class="feature-item border h-100 p-5">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
+          </div>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
+          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
+        <div class="feature-item border h-100 p-5">
+          <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
+            <img class="img-fluid" src="img/carousel-2.jpg" alt="Icon">
+          </div>
+          <h5 class="mb-3"><a href="">Award Winning</a></h5>
           <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
         </div>
       </div>
@@ -100,43 +132,43 @@
 
 
 <!-- About Start -->
-<div class="container-xxl about my-5">
-  <div class="container">
-    <div class="row g-0">
-      <div class="col-lg-6">
-        <div class="h-100 d-flex align-items-center justify-content-center" style="min-height: 300px;">
-          <button type="button" class="btn-play" data-bs-toggle="modal"
-            data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
-            <span></span>
-          </button>
+<div class="container my-5">
+  <div class="row g-4">
+    <!-- Card 1 -->
+    <div class="col-lg-4 col-md-6">
+      <div class="card text-center h-100">
+        <div class="card-body">
+          <img src="img/icon/icon-1.png" class="mb-3" alt="Icon 1" style="width: 60px;">
+          <h5 class="card-title">Marketing Strategies</h5>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor felis eu odio
+            efficitur.</p>
         </div>
       </div>
-      <div class="col-lg-6 pt-lg-5 wow fadeIn" data-wow-delay="0.5s">
-        <div class="bg-white rounded-top p-5 mt-lg-5">
-          <p class="fs-5 fw-medium text-primary">About Us</p>
-          <h1 class="display-6 mb-4">The Best Marketing Agency to Improve Your Business</h1>
-          <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
-            diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
-          <div class="row g-5 pt-2 mb-5">
-            <div class="col-sm-6">
-              <img class="img-fluid mb-4" src="img/icon/icon-5.png" alt="">
-              <h5 class="mb-3">Managed Services</h5>
-              <span>Clita erat ipsum et lorem et sit sed stet lorem</span>
-            </div>
-            <div class="col-sm-6">
-              <img class="img-fluid mb-4" src="img/icon/icon-2.png" alt="">
-              <h5 class="mb-3">Dedicated Experts</h5>
-              <span>Clita erat ipsum et lorem et sit sed stet lorem</span>
-            </div>
-          </div>
-          <a class="btn btn-primary rounded-pill py-3 px-5" href="">Explore More</a>
+    </div>
+    <!-- Card 2 -->
+    <div class="col-lg-4 col-md-6">
+      <div class="card text-center h-100">
+        <div class="card-body">
+          <img src="img/icon/icon-2.png" class="mb-3" alt="Icon 2" style="width: 60px;">
+          <h5 class="card-title">Business Growth</h5>
+          <p class="card-text">Pellentesque a metus a neque viverra porttitor in vel lectus. Proin efficitur lacus a
+            elit.</p>
+        </div>
+      </div>
+    </div>
+    <!-- Card 3 -->
+    <div class="col-lg-4 col-md-6">
+      <div class="card text-center h-100">
+        <div class="card-body">
+          <img src="img/icon/icon-3.png" class="mb-3" alt="Icon 3" style="width: 60px;">
+          <h5 class="card-title">Expert Support</h5>
+          <p class="card-text">Vestibulum ut sem non libero consequat rhoncus. Cras dictum mauris et est pharetra, vel
+            viverra risus.</p>
         </div>
       </div>
     </div>
   </div>
 </div>
-<!-- About End -->
-
 
 <!-- Video Modal Start -->
 <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel"
