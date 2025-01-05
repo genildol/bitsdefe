@@ -71,54 +71,54 @@
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Quem sou</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="quote.php" class="dropdown-item">História</a>
-                <a href="feature.php" class="dropdown-item">Credo</a>
+                <a href="sobre.php" class="dropdown-item">História</a>
+                <a href="credo.php" class="dropdown-item">Credo</a>
                 <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
                                 <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->
                 <!-- <a href="404.html" class="dropdown-item">Doutrina</a> -->
               </div>
             </div>
-            <a href="service.php" class="nav-item nav-link">Escritos</a>
+            <a href="temas.php" class="nav-item nav-link">Temas</a>
             <!-- <a href="project.html" class="nav-item nav-link">Projects</a> -->
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="quote.php" class="dropdown-item">A Palavra</a>
-                <a href="feature.php" class="dropdown-item">A história da Igreja</a>
-                <a href="team.php" class="dropdown-item">Ministério e Liderança</a>
-                <a href="testimonial.php" class="dropdown-item">Louvor e Adoração</a>
-                <a href="404.php" class="dropdown-item">Doutrina</a>
-                <a href="404.php" class="dropdown-item">Conselhos diversos</a>
+                <a href="palavra.php" class="dropdown-item">A Palavra</a>
+                <a href="historiaigreja.php" class="dropdown-item">A história da Igreja</a>
+                <a href="ministerio.php" class="dropdown-item">Ministério e Liderança</a>
+                <a href="louvoradoracao.php" class="dropdown-item">Louvor e Adoração</a>
+                <a href="doutrina.php" class="dropdown-item">Doutrina</a>
+                <a href="conselhos.php" class="dropdown-item">Conselhos diversos</a>
               </div>
             </div>
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Estudos</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="quote.php" class="dropdown-item">A Bíblia</a>
-                <a href="feature.php" class="dropdown-item">O que é</a>
-                <a href="feature.php" class="dropdown-item">Quem foi</a>
-                <a href="team.php" class="dropdown-item">Antigo Testamento</a>
-                <a href="testimonial.php" class="dropdown-item">Novo Testamento</a>
+                <a href="bibilia.php" class="dropdown-item">A Bíblia</a>
+                <a href="oquee.php" class="dropdown-item">O que é</a>
+                <a href="queme.php" class="dropdown-item">Quem foi</a>
+                <a href="novotestamento.php" class="dropdown-item">Novo Testamento</a>
+                <a href="velhotestamento.php" class="dropdown-item">Antigo Testamento</a>
                 <a href="404.php" class="dropdown-item">404 Page</a>
               </div>
             </div>
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Família</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="feature.php" class="dropdown-item">Casamento</a>
-                <a href="testimonial.php" class="dropdown-item">Mocidade</a>
+                <a href="credo.php" class="dropdown-item">Casamento</a>
+                <a href="louvoradoracao.php" class="dropdown-item">Mocidade</a>
                 <a href="team.php" class="dropdown-item">Conselhos</a>
-                <a href="quote.php" class="dropdown-item">Santidade</a>
+                <a href="sobre.php" class="dropdown-item">Santidade</a>
                 <a href="404.php" class="dropdown-item">Variados</a>
               </div>
             </div>
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Mais</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="feature.php" class="dropdown-item">Vida cristã</a>
-                <a href="testimonial.php" class="dropdown-item">Salvação</a>
+                <a href="credo.php" class="dropdown-item">Vida cristã</a>
+                <a href="louvoradoracao.php" class="dropdown-item">Salvação</a>
                 <a href="team.php" class="dropdown-item">Curiosidades</a>
-                <a href="quote.php" class="dropdown-item">Frases</a>
+                <a href="sobre.php" class="dropdown-item">Frases</a>
                 <a href="404.php" class="dropdown-item">Inspirações</a>
               </div>
             </div>
