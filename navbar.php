@@ -69,7 +69,7 @@
             <a href="index.php" class="nav-item nav-link active">Inicio </a>
             <!-- <a href="about.html" class="nav-item nav-link">Sobre</a> -->
             <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Quem sou</a>
+              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="sobre.php" class="dropdown-item">História</a>
                 <a href="credo.php" class="dropdown-item">Credo</a>
@@ -88,7 +88,7 @@
                 <a href="ministerio.php" class="dropdown-item">Ministério e Liderança</a>
                 <a href="louvoradoracao.php" class="dropdown-item">Louvor e Adoração</a>
                 <a href="doutrina.php" class="dropdown-item">Doutrina</a>
-                <a href="conselhos.php" class="dropdown-item">Conselhos diversos</a>
+                <a href="ensinamentos.php" class="dropdown-item">Ensinamentos</a>
               </div>
             </div>
             <div class="nav-item dropdown">
@@ -105,21 +105,23 @@
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Família</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="credo.php" class="dropdown-item">Casamento</a>
-                <a href="louvoradoracao.php" class="dropdown-item">Mocidade</a>
-                <a href="team.php" class="dropdown-item">Conselhos</a>
-                <a href="sobre.php" class="dropdown-item">Santidade</a>
-                <a href="404.php" class="dropdown-item">Variados</a>
+                <a href="casamento.php" class="dropdown-item">Casamento</a>
+                <a href="mocidade.php" class="dropdown-item">Mocidade</a>
+                <a href="conselhos.php" class="dropdown-item">Conselhos</a>
+                <a href="vidacomdeus.php" class="dropdown-item">Vida com Deus</a>
+                <a href="homem.php" class="dropdown-item">O Homem</a>
+                <a href="mulher.php" class="dropdown-item">A Mulher</a>
+                <a href="filhos.php" class="dropdown-item">Os Filhos</a>
               </div>
             </div>
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Mais</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="credo.php" class="dropdown-item">Vida cristã</a>
-                <a href="louvoradoracao.php" class="dropdown-item">Salvação</a>
-                <a href="team.php" class="dropdown-item">Curiosidades</a>
-                <a href="sobre.php" class="dropdown-item">Frases</a>
-                <a href="404.php" class="dropdown-item">Inspirações</a>
+                <a href="vidacrista.php" class="dropdown-item">Vida cristã</a>
+                <a href="salvacao.php" class="dropdown-item">Salvação</a>
+                <a href="curiosidades.php" class="dropdown-item">Curiosidades</a>
+                <a href="versos.php" class="dropdown-item">Versículos</a>
+                <a href="404.php" class="dropdown-item"></a>
               </div>
             </div>
             <!-- <a href="contact.html" class="nav-item nav-link">Contact</a> -->
