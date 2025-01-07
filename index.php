@@ -1,4 +1,7 @@
-<?php require("navbar.php")    ?>
+<?php
+require __DIR__ . './navbar.php';
+
+?>
 <div class="container my-5">
   <div class="row g-4">
     <!-- Card 1 -->
