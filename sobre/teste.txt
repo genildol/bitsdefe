@@ -1,0 +1,21 @@
+index.php
+
+
+index.php/sobre
+
+header.php
+navbar.php
+if($page) {
+  require_once('pages/' . $page);
+}
+footer.php
+
+index.php
+
+pages/
+  sobre.php
+  home.php
+  contato.php
+templates/
+  header.php
+  navbar.php
