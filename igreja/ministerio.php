@@ -1,4 +1,3 @@
-<?php require("navbar.php")    ?>
 <div class="container-xxl py-5">
   <div class="container">
     <div class="row g-5">
@@ -228,4 +227,3 @@
   </div>
 </div>
 <!-- Testimonial End -->
-<?php require("footer.php")    ?>

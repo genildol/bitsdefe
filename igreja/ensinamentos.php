@@ -1,10 +1,9 @@
-<?php require("navbar.php")    ?>
 <div class="container-xxl py-5">
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
 
-        <h1>Doutrina</h1>
+        <h1>Ensinamentos bíblicos</h1>
 
         <!-- <p>This part is inside a .container class.</p> -->
 
@@ -97,13 +96,57 @@
           de criação geneticamente determinado (Gn.2:18; Jo.2:1,2; Gn.2:24; 1:27).</p>
 
       </div>
+
+
+
+
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Aumente seu conhecimento</h2>
+        <div class="row g-4">
+
+          <!-- Card 1 -->
+          <div class="col-lg-4 col-md-6">
+            <div class="card h-100">
+              <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
+              <div class="card-body">
+                <p class="card-text">
+                  O Antigo Testamento é a primeira parte da Bíblia cristã.
+                </p>
+                <a href="#" class="btn btn-primary">Learn More</a>
+              </div>
+            </div>
+          </div>
+          <!-- Card 2 -->
+          <div class="col-lg-4 col-md-6">
+            <div class="card h-100">
+              <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 2 Image">
+              <div class="card-body">
+                <p class="card-text">
+                  O Novo Testamento é a segunda parte da Bíblia cristã.
+                </p>
+                <a href="#" class="btn btn-primary">Learn More</a>
+              </div>
+            </div>
+          </div>
+          <!-- Card 3 -->
+          <div class="col-lg-4 col-md-6">
+            <div class="card h-100">
+              <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
+              <div class="card-body">
+                <p class="card-text">
+                  A graça de Deus é amor e misericórdia que salva e transforma.
+                </p>
+                <a href="#" class="btn btn-primary">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
 
         <section class="noticias bg-light py-5">
           <div class="container">
             <!-- <h2 class="mb-4">Notícias</h2> -->
-            <div class="row g-4">
+            <div class="row g-2">
               <div class="col-md-4">
                 <div class="card h-100">
                   <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
@@ -208,71 +251,16 @@
               </div>
             </div>
         </section>
+
+
       </div>
     </div>
   </div>
-  <div class="container my-5">
-    <div class="row g-4">
 
-      <!-- Card 1 -->
-      <div class="col-lg-3 col-md-6">
-        <div class="card h-100">
-          <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
-          <div class="card-body">
-            <h5 class="card-title">Antigo Testamento</h5>
-            <p class="card-text">
-              O Antigo Testamento é a primeira parte da Bíblia cristã, composta por 39 livros (no cânon protestante).
-              Ele
-              foi escrito antes do nascimento de Jesus Cristo e contém a história, as leis, os profetas e os
-              ensinamentos
-              do povo de Israel.
-            </p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
-        </div>
-      </div>
-      <!-- Card 2 -->
-      <div class="col-lg-3 col-md-6">
-        <div class="card h-100">
-          <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 2 Image">
-          <div class="card-body">
-            <h5 class="card-title">Novo Testamento</h5>
-            <p class="card-text">
-              O Novo Testamento é a segunda parte da Bíblia cristã, composta por 27 livros que narram a vida,
-              ensinamentos, morte e ressurreição de Jesus Cristo, além do nascimento e expansão da Igreja primitiva.
-            </p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
-        </div>
-      </div>
-      <!-- Card 3 -->
-      <div class="col-lg-3 col-md-6">
-        <div class="card h-100">
-          <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
-          <div class="card-body">
-            <h5 class="card-title">A graça de Deus</h5>
-            <p class="card-text">
-              A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
-              humanos pela fé em Jesus Cristo.
-            </p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6">
-        <div class="card h-100">
-          <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
-          <div class="card-body">
-            <h5 class="card-title">A graça de Deus</h5>
-            <p class="card-text">
-              A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
-              humanos pela fé em Jesus Cristo.
-            </p>
-            <a href="#" class="btn btn-primary">Learn More</a>
-          </div>
-        </div>
-      </div>
-    </div>
+
+
+  <div class="container my-5">
+
   </div>
 
   <!-- Features Start -->
@@ -323,4 +311,3 @@
     </div>
   </div>
 </div>
-<?php require("footer.php")    ?>

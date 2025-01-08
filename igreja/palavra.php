@@ -1,5 +1,3 @@
-<?php require("navbar.php")    ?>
-
 <!-- Quote Start -->
 <div class="container-xxl py-5">
   <div class="container">
@@ -160,4 +158,3 @@
   </div>
 </div>
 <!-- Quote Start -->
-<?php require("footer.php")    ?>

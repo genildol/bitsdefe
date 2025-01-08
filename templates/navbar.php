@@ -78,7 +78,7 @@
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="./sobre/sobre.php" class="dropdown-item">História</a>
+                <a href="./sobre/sobre.php" class="dropdown-item">Sobre</a>
                 <a href="credo.php" class="dropdown-item">Credo</a>
                 <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
                                 <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->

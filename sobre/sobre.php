@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . "/../navbar.php";
+require_once(__DIR__ . '/../templates/navbar.php');
 
 ?>
 <!-- Quote Start -->
