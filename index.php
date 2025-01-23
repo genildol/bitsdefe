@@ -1,5 +1,4 @@
 <?php
-
 function loadContent()
 {
   if (isset($_GET['page'])) {
