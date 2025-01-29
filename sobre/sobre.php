@@ -1,5 +1,5 @@
 <?php
-require_once(__DIR__ . '/../templates/navbar.php');
+// require_once(__DIR__ . '/../templates/navbar.php');
 
 ?>
 <!-- Quote Start -->
@@ -165,4 +165,4 @@ require_once(__DIR__ . '/../templates/navbar.php');
     </div>
   </div>
 </div>
-<?php require("footer.php")    ?>
+<!-- <?php require("footer.php")    ?> -->

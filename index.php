@@ -1,20 +1,40 @@
 <?php
 function loadContent()
 {
-  if (isset($_GET['page'])) {
-    $page = $_GET['page'];
-  } else {
-    $page = 'home';
+  $page = isset($_GET['page']) ? basename($_GET['page']) : 'home'; // Evita ataques
+
+  $paths = [
+    __DIR__ . "/pages/{$page}.php",
+    __DIR__ . "/modules/{$page}.php"
+  ];
+
+  foreach ($paths as $path) {
+    if (file_exists($path)) {
+      require_once($path);
+      return;
+    }
   }
 
-  if (file_exists(__DIR__ . "/pages/{$page}.php")) {
-    require_once(__DIR__ . "/pages/{$page}.php");
-
-    return;
-  }
-
-  require_once(__DIR__ . '/404.php');
+  require_once(__DIR__ . '/404.php'); // Página de erro
 }
+
+
+// function loadContent()
+// {
+//   if (isset($_GET['page'])) {
+//     $page = $_GET['page'];
+//   } else {
+//     $page = 'home';
+//   }
+
+//   if (file_exists(__DIR__ . "/pages/{$page}.php")) {
+//     require_once(__DIR__ . "/pages/{$page}.php");
+
+//     return;
+//   }
+
+//   require_once(__DIR__ . '/404.php');
+// }
 
 function bootstrap()
 {
