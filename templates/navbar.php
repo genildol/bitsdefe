@@ -1,10 +1,3 @@
-<?php
-// if (file_exists('./navbar.php')) {
-//   require './navbar.php';
-// } else {
-//   die('Arquivo navbar.php não encontrado');
-// }
-?>
 <!DOCTYPE html>
 <html lang="pt-br">
 

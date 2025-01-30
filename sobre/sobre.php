@@ -1,5 +1,8 @@
 <?php
-// require_once(__DIR__ . '/../templates/navbar.php');
+// require_once(__DIR__ . './../templates/navbar.php');
+// require_once(__DIR__ . './../templates/navbar.php');
+// include('./../templates/header.php');
+require("./../templates/navbar.php");
 
 ?>
 <!-- Quote Start -->
