@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Bits de Fé</title>
+  <title>Navbar</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -24,6 +24,7 @@
   <!-- Libraries Stylesheet -->
   <link href="./../lib/animate/animate.min.css" rel="stylesheet">
   <link href="./../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="./../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
   <link href="./../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Customized Bootstrap Stylesheet -->
@@ -71,7 +72,7 @@
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="./sobre/sobre.php" class="dropdown-item">Sobre</a>
+                <a href="sobre.php" class="dropdown-item">Sobre</a>
                 <a href="credo.php" class="dropdown-item">Credo</a>
                 <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
                                 <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->
@@ -134,15 +135,14 @@
 
   <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
 
-
   <!-- JavaScript Libraries -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/waypoints/waypoints.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="../lib/wow/wow.min.js"></script>
+  <script src="../lib/easing/easing.min.js"></script>
+  <script src="../lib/waypoints/waypoints.min.js"></script>
+  <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="../lib/lightbox/js/lightbox.min.js"></script>
 
   <!-- Template Javascript -->
-  <script src="js/main.js"></script>
+  <script src="../js/main.js "></script>
