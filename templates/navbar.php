@@ -22,15 +22,15 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
   <!-- Libraries Stylesheet -->
-  <link href="./../lib/animate/animate.min.css" rel="stylesheet">
-  <link href="./../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="./../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+  <link href="./lib/animate/animate.min.css" rel="stylesheet">
+  <link href="./lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="./lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Customized Bootstrap Stylesheet -->
-  <link href="./../css/bootstrap.min.css" rel="stylesheet">
+  <link href="./css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Template Stylesheet -->
-  <link href="./../css/style.css" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -73,7 +73,7 @@
                 <!-- <a href="404.html" class="dropdown-item">Doutrina</a> -->
               </div>
             </div>
-            <a href="temas.php" class="nav-item nav-link">Temas</a>
+            <a href="./../mais/temas.php" class="nav-item nav-link">Temas</a>
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
@@ -130,11 +130,11 @@
   <!-- JavaScript Libraries -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="../lib/wow/wow.min.js"></script>
-  <script src="../lib/easing/easing.min.js"></script>
-  <script src="../lib/waypoints/waypoints.min.js"></script>
-  <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="../lib/lightbox/js/lightbox.min.js"></script>
+  <script src="./lib/wow/wow.min.js"></script>
+  <script src="./lib/easing/easing.min.js"></script>
+  <script src="./lib/waypoints/waypoints.min.js"></script>
+  <script src="./lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="./lib/lightbox/js/lightbox.min.js"></script>
 
   <!-- Template Javascript -->
-  <script src="../js/main.js "></script>
+  <script src="./js/main.js "></script>
