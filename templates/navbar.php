@@ -25,7 +25,6 @@
   <link href="./../lib/animate/animate.min.css" rel="stylesheet">
   <link href="./../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="./../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-  <link href="./../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Customized Bootstrap Stylesheet -->
   <link href="./../css/bootstrap.min.css" rel="stylesheet">
@@ -59,28 +58,22 @@
   <div class="container-fluid bg-white sticky-top">
     <div class="container">
       <nav class="navbar navbar-expand-lg bg-white navbar-light p-lg-0">
-        <!-- <a href="index.html" class="navbar-brand d-lg-none">
-                    <h1 class="fw-bold m-0">GrowMark</h1>
-                </a> -->
-        <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <div class="navbar-nav">
-            <a href="index.php" class="nav-item nav-link active">Inicio </a>
+            <a href="./../index.php" class="nav-item nav-link active">Inicio </a>
             <!-- <a href="about.html" class="nav-item nav-link">Sobre</a> -->
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="sobre.php" class="dropdown-item">Sobre</a>
-                <a href="credo.php" class="dropdown-item">Credo</a>
+                <a href="./../sobre/sobre.php" class="dropdown-item">Sobre</a>
+                <a href="./../sobre/credo.php" class="dropdown-item">Credo</a>
                 <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
                                 <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->
                 <!-- <a href="404.html" class="dropdown-item">Doutrina</a> -->
               </div>
             </div>
             <a href="temas.php" class="nav-item nav-link">Temas</a>
-            <!-- <a href="project.html" class="nav-item nav-link">Projects</a> -->
             <div class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
@@ -125,7 +118,6 @@
                 <a href="404.php" class="dropdown-item"></a>
               </div>
             </div>
-            <!-- <a href="contact.html" class="nav-item nav-link">Contact</a> -->
           </div>
         </div>
       </nav>

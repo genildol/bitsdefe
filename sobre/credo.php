@@ -1,5 +1,5 @@
 <?php
-require("./../templates/navbar.php");
+include "./../templates/navbar.php";
 ?>
 <div class="container-fluid">
   <div class="row">
@@ -314,5 +314,5 @@ require("./../templates/navbar.php");
   </div>
   <!-- Features End -->
   <?php
-  require("./../templates/footer.php");
+  include "./../templates/footer.php";
   ?>
