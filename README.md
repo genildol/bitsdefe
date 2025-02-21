@@ -16,7 +16,7 @@ Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versí
 
 <h3>:large_blue_circle: Site em desenvolvimento...</h3>
 <hr>
-## Linguagens de Marcação e Estilo
+:white_check_mark:Linguagens de Marcação e Estilo
 <table>
   <thead>
     <tr align="left">
