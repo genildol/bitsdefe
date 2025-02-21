@@ -15,6 +15,17 @@ Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versí
 <h2>:large_blue_circle: Site em desenvolvimento...</h2><br/>
 <hr>
 
+ * Item 1;            
+    * Item 1.1;
+    * Item
+    * Item
+    * Item
+ * Item 2;
+   * Item 2.1;
+   * Item 2.2;
+  
+   <h4>	[Google](https://www.bitsdefe.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive</h4>
+
 <h3> :white_check_mark: Linguagens de Marcação e Estilo<h3/>
 <table>
   <thead>
