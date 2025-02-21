@@ -1,7 +1,7 @@
-<div align="center" style="background-color:#f1c40f" width="500px" heigth="200px">
+<div align="center" style="background-color:#f1c40f" width="500px" heigth="200px" font-size="200px">
  <h1>Bits de Fé</h1>
-<hr>
- 
+<div/>
+ #Markdown - Extras
 <div align="left"> 
 
 <h3>  Bits de Fé : Explorando Todos os Temas da Palavra de Deus</h3>
@@ -14,9 +14,11 @@ Nosso objetivo não é apenas estudar, mas também debater e aprender juntos. Ca
 Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versículo nos aproximam mais da verdade.
 <div> 
 
-<h3>:large_blue_circle: Site em desenvolvimento...</h3>
+<h2>:large_blue_circle: Site em desenvolvimento...</h2>
+
 <hr>
-:white_check_mark:Linguagens de Marcação e Estilo
+
+<h3> :white_check_mark: Linguagens de Marcação e Estilo<h3/>
 <table>
   <thead>
     <tr align="left">
