@@ -1,21 +1,18 @@
-<div align="center" style="background-color:#f1c40f" width="500px" heigth="200px" font-size="200px">
- <h1>Bits de Fé</h1>
-<div/>
- #Markdown - Extras
-<div align="left"> 
+
+# Bits de Fé
 
 <h3>  Bits de Fé : Explorando Todos os Temas da Palavra de Deus</h3>
+
 A Bíblia é um livro vivo, repleto de sabedoria para todas as áreas da vida. No bitsdefe, queremos explorar cada tema da Palavra de Deus de forma profunda e acessível, trazendo reflexões que nos ajudem a crescer espiritualmente.
-
+<br/><br/>
 Neste espaço, tecnologia e fé caminham juntas. Assim como a tecnologia evolui e transforma o mundo, a Palavra de Deus nos transforma por dentro. Vamos abordar temas essenciais como graça, salvação, amor, justiça, ética e muitos outros, sempre com base na Bíblia e em uma visão equilibrada.
-
+<br/><br/>
 Nosso objetivo não é apenas estudar, mas também debater e aprender juntos. Cada tema será explorado com perguntas, desafios e aplicações práticas, para que possamos viver a fé no dia a dia.
-
 Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versículo nos aproximam mais da verdade.
 <div> 
+<br/><br/>
 
-<h2>:large_blue_circle: Site em desenvolvimento...</h2>
-
+<h2>:large_blue_circle: Site em desenvolvimento...</h2><br/>
 <hr>
 
 <h3> :white_check_mark: Linguagens de Marcação e Estilo<h3/>
