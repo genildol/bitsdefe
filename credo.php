@@ -314,5 +314,5 @@ include "./templates/navbar.php";
   </div>
   <!-- Features End -->
   <?php
-  include "./../templates/footer.php";
+  include "./templates/footer.php";
   ?>

@@ -1,6 +1,6 @@
 <?php
 
-require("./../templates/navbar.php");
+require("./templates/navbar.php");
 
 ?>
 <!-- Quote Start -->
@@ -167,5 +167,5 @@ require("./../templates/navbar.php");
   </div>
 </div>
 <?php
-require("./../templates/footer.php");
+require("./templates/footer.php");
 ?>

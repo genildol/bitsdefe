@@ -1,5 +1,5 @@
 <?php
-include "./../templates/navbar.php";
+require("./../templates/navbar.php");
 ?>
 <div class="container-xxl py-5">
   <div class="container">
@@ -231,5 +231,5 @@ include "./../templates/navbar.php";
 </div>
 <!-- Testimonial End -->
 <?php
-include "./../templates/footer.php";
+require("./../templates/footer.php");
 ?>
