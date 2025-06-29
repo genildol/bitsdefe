@@ -1,6 +1,4 @@
-<?php
-require("./../templates/navbar.php");
-?>
+<?php require("navbar.php")    ?>
 <div class="container-xxl py-5">
   <div class="container">
     <div class="row g-5">
@@ -230,6 +228,4 @@ require("./../templates/navbar.php");
   </div>
 </div>
 <!-- Testimonial End -->
-<?php
-require("./../templates/footer.php");
-?>
+<?php require("footer.php")    ?>

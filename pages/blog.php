@@ -18,14 +18,14 @@
     href="https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;700&display=swap"
     rel="stylesheet">
 
-  <link rel="stylesheet" href="./assets/fonts/icomoon/style.css">
-  <link rel="stylesheet" href="./assets/fonts/flaticon/font/flaticon.css">
+  <link rel="stylesheet" href="./../fonts/icomoon/style.css">
+  <link rel="stylesheet" href="./../fonts/flaticon/font/flaticon.css">
 
-  <link rel="stylesheet" href="./assets/css/tiny-slider.css">
-  <link rel="stylesheet" href="./assets/css/aos.css">
-  <link rel="stylesheet" href="./assets/css/flatpickr.min.css">
-  <link rel="stylesheet" href="./assets/css/glightbox.min.css">
-  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./../css/tiny-slider.css">
+  <link rel="stylesheet" href="./../css/aos.css">
+  <link rel="stylesheet" href="./../css/flatpickr.min.css">
+  <link rel="stylesheet" href="./../css/glightbox.min.css">
+  <link rel="stylesheet" href="./../css/style.css">
 
 
   <title>Sterial &mdash; Free Bootstrap 5 Website Template by Untree.co </title>
@@ -120,7 +120,10 @@
       </div>
     </div>
 
+
   </div>
+
+
 
   <div class="section">
     <div class="container">

@@ -1,36 +1,29 @@
 <?php
 
-const BASE_URL = 'http://localhost/bitsdefe/';
-const BASE_PATH = __DIR__; // Caminho absoluto no servidor
-
 function loadContent()
 {
-  $page = isset($_GET['page']) ? basename($_GET['page']) : 'home'; // Proteção contra ataques de diretório
-
-  $paths = [
-    BASE_PATH . "/{$page}.php",
-  ];
-
-  foreach ($paths as $path) {
-    if (file_exists($path)) {
-      require_once($path);
-    }
+  if (isset($_GET['page'])) {
+    $page = $_GET['page'];
+  } else {
+    $page = 'home';
   }
 
-  // Se o arquivo da página não existir, carregar o 404
-  if (!file_exists(BASE_PATH . "/{$page}.php")) {
-    require_once(BASE_PATH . "/404.php");
+  if (file_exists(__DIR__ . "/pages/{$page}.php")) {
+    require_once(__DIR__ . "/pages/{$page}.php");
+
+    return;
   }
+
+  require_once(__DIR__ . '/404.php');
 }
 
-// Bootstrap
 function bootstrap()
 {
-  require_once(BASE_PATH . "/templates/navbar.php");
+  require_once(__DIR__ . '/templates/navbar.php');
 
   loadContent();
 
-  require_once(BASE_PATH . "/templates/footer.php");
+  require_once(__DIR__ . '/templates/footer.php');
 }
 
 bootstrap();
