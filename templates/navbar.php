@@ -1,10 +1,3 @@
-<?php
-// if (file_exists('./navbar.php')) {
-//   require './navbar.php';
-// } else {
-//   die('Arquivo navbar.php não encontrado');
-// }
-?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -37,7 +30,7 @@
   <link href="./../css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Template Stylesheet -->
-  <link href="./../css/style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -153,3 +146,5 @@
 
   <!-- Template Javascript -->
   <script src="js/main.js"></script>
+  <script src="./js/bootstap.bunle.mi.js"></script>
+  <script src="./js/ "></script>
