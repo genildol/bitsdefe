@@ -1,4 +1,4 @@
-<link href="img/favicon.ico" rel="icon">
+<link href="./public/assets/img/favicon.ico" rel="icon">
 <title>Footer - Bits de Fé</title>
 
 <!-- Google Web Fonts -->
@@ -12,15 +12,15 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
 <!-- Libraries Stylesheet -->
-<link href="lib/animate/animate.min.css" rel="stylesheet">
-<link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-<link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+<link href="./public/assets/lib/animate/animate.min.css" rel="stylesheet">
+<link href="./public/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+<link href="./public/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
 <!-- Customized Bootstrap Stylesheet -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="./public/assets/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Template Stylesheet -->
-<link href="css/style.css" rel="stylesheet">
+<link href="./public/assets/css/style.css" rel="stylesheet">
 <!-- Footer Start -->
 <div class="container-fluid bg-dark footer mt-5 py-5 wow fadeIn" data-wow-delay="0.1s">
   <div class="container py-5">
@@ -93,14 +93,14 @@
 <!-- JavaScript Libraries -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-<script src="lib/wow/wow.min.js"></script>
-<script src="lib/easing/easing.min.js"></script>
-<script src="lib/waypoints/waypoints.min.js"></script>
-<script src="lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="lib/lightbox/js/lightbox.min.js"></script>
+<script src="./public/assets/lib/wow/wow.min.js"></script>
+<script src="./public/assets/lib/easing/easing.min.js"></script>
+<script src="./public/assets/lib/waypoints/waypoints.min.js"></script>
+<script src="./public/assets/lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="./public/assets/lib/lightbox/js/lightbox.min.js"></script>
 
 <!-- Template Javascript -->
-<script src="js/main.js"></script>
+<script src="./public/assets/js/main.js"></script>
 </body>
 
 </html>

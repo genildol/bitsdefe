@@ -9,7 +9,7 @@
   <meta content="" name="description">
 
   <!-- Favicon -->
-  <link href="img/favicon.ico" rel="icon">
+  <link href="./public/assets/img/favicon.ico" rel="icon">
 
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,15 +22,15 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
   <!-- Libraries Stylesheet -->
-  <link href="./lib/animate/animate.min.css" rel="stylesheet">
-  <link href="./lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="./lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+  <link href="./public/assets/lib/animate/animate.min.css" rel="stylesheet">
+  <link href="./public/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="./public/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Customized Bootstrap Stylesheet -->
-  <link href="./css/bootstrap.min.css" rel="stylesheet">
+  <link href="./public/assets/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Template Stylesheet -->
-  <link href="./css/style.css" rel="stylesheet">
+  <link href="./public/assets/css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -66,62 +66,62 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <div class="navbar-nav">
-            <a href="index.php" class="nav-item nav-link active">Inicio </a>
+            <a href="" class="nav-item nav-link active">Inicio </a>
             <!-- <a href="about.html" class="nav-item nav-link">Sobre</a> -->
             <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
+              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="./sobre/sobre.php" class="dropdown-item">Sobre</a>
-                <a href="credo.php" class="dropdown-item">Credo</a>
+                <a href="" class="dropdown-item">Sobre</a>
+                <a href="" class="dropdown-item">Credo</a>
                 <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
                                 <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->
                 <!-- <a href="404.html" class="dropdown-item">Doutrina</a> -->
               </div>
             </div>
-            <a href="temas.php" class="nav-item nav-link">Temas</a>
+            <a href="" class="nav-item nav-link">Temas</a>
             <!-- <a href="project.html" class="nav-item nav-link">Projects</a> -->
             <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
+              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="palavra.php" class="dropdown-item">A Palavra</a>
-                <a href="historiaigreja.php" class="dropdown-item">A história da Igreja</a>
-                <a href="ministerio.php" class="dropdown-item">Ministério e Liderança</a>
-                <a href="louvoradoracao.php" class="dropdown-item">Louvor e Adoração</a>
-                <a href="doutrina.php" class="dropdown-item">Doutrina</a>
-                <a href="ensinamentos.php" class="dropdown-item">Ensinamentos</a>
+                <a href="" class="dropdown-item">A Palavra</a>
+                <a href="" class="dropdown-item">A história da Igreja</a>
+                <a href="" class="dropdown-item">Ministério e Liderança</a>
+                <a href="" class="dropdown-item">Louvor e Adoração</a>
+                <a href="" class="dropdown-item">Doutrina</a>
+                <a href="" class="dropdown-item">Ensinamentos</a>
               </div>
             </div>
             <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Estudos</a>
+              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Estudos</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="bibilia.php" class="dropdown-item">A Bíblia</a>
-                <a href="oquee.php" class="dropdown-item">O que é</a>
-                <a href="queme.php" class="dropdown-item">Quem foi</a>
-                <a href="novotestamento.php" class="dropdown-item">Novo Testamento</a>
-                <a href="velhotestamento.php" class="dropdown-item">Antigo Testamento</a>
-                <a href="404.php" class="dropdown-item">404 Page</a>
+                <a href="" class="dropdown-item">A Bíblia</a>
+                <a href="" class="dropdown-item">O que é</a>
+                <a href="" class="dropdown-item">Quem foi</a>
+                <a href="" class="dropdown-item">Novo Testamento</a>
+                <a href="" class="dropdown-item">Antigo Testamento</a>
+                <a href="" class="dropdown-item">404 Page</a>
               </div>
             </div>
             <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Família</a>
+              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Família</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="casamento.php" class="dropdown-item">Casamento</a>
-                <a href="mocidade.php" class="dropdown-item">Mocidade</a>
-                <a href="conselhos.php" class="dropdown-item">Conselhos</a>
-                <a href="vidacomdeus.php" class="dropdown-item">Vida com Deus</a>
-                <a href="homem.php" class="dropdown-item">O Homem</a>
-                <a href="mulher.php" class="dropdown-item">A Mulher</a>
-                <a href="filhos.php" class="dropdown-item">Os Filhos</a>
+                <a href="" class="dropdown-item">Casamento</a>
+                <a href="" class="dropdown-item">Mocidade</a>
+                <a href="" class="dropdown-item">Conselhos</a>
+                <a href="" class="dropdown-item">Vida com Deus</a>
+                <a href="" class="dropdown-item">O Homem</a>
+                <a href="" class="dropdown-item">A Mulher</a>
+                <a href="" class="dropdown-item">Os Filhos</a>
               </div>
             </div>
             <div class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Mais</a>
+              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Mais</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="vidacrista.php" class="dropdown-item">Vida cristã</a>
-                <a href="salvacao.php" class="dropdown-item">Salvação</a>
-                <a href="curiosidades.php" class="dropdown-item">Curiosidades</a>
-                <a href="versos.php" class="dropdown-item">Versículos</a>
-                <a href="404.php" class="dropdown-item"></a>
+                <a href="" class="dropdown-item">Vida cristã</a>
+                <a href="" class="dropdown-item">Salvação</a>
+                <a href="" class="dropdown-item">Curiosidades</a>
+                <a href="" class="dropdown-item">Versículos</a>
+                <a href="" class="dropdown-item"></a>
               </div>
             </div>
             <!-- <a href="contact.html" class="nav-item nav-link">Contact</a> -->
@@ -138,13 +138,13 @@
   <!-- JavaScript Libraries -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="lib/wow/wow.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/waypoints/waypoints.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="./public/assets/lib/wow/wow.min.js"></script>
+  <script src="./public/assets/lib/easing/easing.min.js"></script>
+  <script src="./public/assets/lib/waypoints/waypoints.min.js"></script>
+  <script src="./public/assets/lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="./public/assets/lib/lightbox/js/lightbox.min.js"></script>
 
   <!-- Template Javascript -->
-  <script src="./js/main.js"></script>
-  <script src="js/bootstap.bunle.mi.js"></script>
-  <script src="js/aos.js"></script>
+  <script src="./public/assets/js/main.js"></script>
+  <script src="./public/assets/js/bootstap.bunle.mi.js"></script>
+  <script src="./public/assets/js/aos.js"></script>
