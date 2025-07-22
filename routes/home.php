@@ -17,20 +17,25 @@ function loadContent()
   require_once(__DIR__ . '/../app/views/home.php'); 
 }
 
-// function loadAbout()
-// {
-//     $page = isset($_GET['page']) ? basename($_GET['page']) : 'sobre';
+function loadAbout()
+{
+      // Define a página com base na URL ou usa 'sobre' como padrão
+    $page = isset($_GET['page']) ? basename($_GET['page']) : 'sobre';
 
-//   $paths = [
-//     __DIR__ . "/../pages/sobre/" .$page . '.php',
-//   ];
+    // Caminhos onde procurar os arquivos
+    $paths = [
+        __DIR__ . "/public/sobre/" .$page. ".php", 
+        // Ex: /public/sobre/quem-somos.php
+    ];
 
-//   foreach ($paths as $path) {
-//     if (file_exists($path)) {
-//       require_once($path);
-//       return;
-//     }
-//   }
-//   // Se não encontrar, carrega a página padrão  
-//   require_once(__DIR__ . '/../pages/sobre.php'); 
-// }
+    // Tenta carregar o primeiro arquivo que existir
+    foreach ($paths as $path) {
+        if (file_exists($path)) {
+            require_once($path);
+            return;
+        }
+    }
+
+    // Se não encontrar nenhum, carrega a página padrão sobre.php
+    require_once(__DIR__ . '/../pages/home.php');
+}

@@ -1,3 +1,6 @@
+<?php
+        require_once(__DIR__ . '/../../templates/navbar.php');
+    ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +12,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="./public/assets/img/favicon.ico" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,17 +26,17 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="../public/assets/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="./public/assets/lib/animate/animate.min.css" rel="stylesheet">
 
-    <link href="../public/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="./public/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
-    <link href="../public/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="./public/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="../public/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./public/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="../public/assets/css/style.css" rel="stylesheet">
+    <link href="./public/assets/css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -77,24 +80,24 @@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Quem sou</a>
                             <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                                <a href="quote.html" class="dropdown-item">História</a>
-                                <a href="feature.html" class="dropdown-item">Credo</a>
+                                <a href="" class="dropdown-item">História</a>
+                                <a href="" class="dropdown-item">Credo</a>
                                 <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
                                 <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->
                                 <!-- <a href="404.html" class="dropdown-item">Doutrina</a> -->
                             </div>
                         </div>
-                        <a href="service.html" class="nav-item nav-link">Escritos</a>
+                        <a href="" class="nav-item nav-link">Escritos</a>
                         <!-- <a href="project.html" class="nav-item nav-link">Projects</a> -->
                         <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
+                            <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
                             <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                                <a href="quote.html" class="dropdown-item">A Palavra</a>
-                                <a href="feature.html" class="dropdown-item">A história da Igreja</a>
-                                <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
-                                <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a>
-                                <a href="404.html" class="dropdown-item">Doutrina</a>
-                                <a href="404.html" class="dropdown-item">Conselhos diversos</a>
+                                <a href="" class="dropdown-item">A Palavra</a>
+                                <a href="" class="dropdown-item">A história da Igreja</a>
+                                <a href="" class="dropdown-item">Ministério e Liderança</a>
+                                <a href="" class="dropdown-item">Louvor e Adoração</a>
+                                <a href="" class="dropdown-item">Doutrina</a>
+                                <a href="" class="dropdown-item">Conselhos diversos</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown">
@@ -121,11 +124,11 @@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Mais</a>
                             <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                                <a href="feature.html" class="dropdown-item">Vida cristã</a>
-                                <a href="testimonial.html" class="dropdown-item">Salvação</a>
-                                <a href="team.html" class="dropdown-item">Curiosidades</a>
-                                <a href="quote.html" class="dropdown-item">Frases</a>
-                                <a href="404.html" class="dropdown-item">Inspirações</a>
+                                <a href="" class="dropdown-item">Vida cristã</a>
+                                <a href="" class="dropdown-item">Salvação</a>
+                                <a href="" class="dropdown-item">Curiosidades</a>
+                                <a href="" class="dropdown-item">Frases</a>
+                                <a href="" class="dropdown-item">Inspirações</a>
                             </div>
                         </div>
                         <!-- <a href="contact.html" class="nav-item nav-link">Contact</a> -->
@@ -141,7 +144,7 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+                    <img class="w-100" src="./public/assets/img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
@@ -745,14 +748,17 @@
     <!-- JavaScript Libraries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="./public/assets/lib/wow/wow.min.js"></script>
+    <script src="./public/assets/lib/easing/easing.min.js"></script>
+    <script src="./public/assets/lib/waypoints/waypoints.min.js"></script>
+    <script src="./public/assets/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="./public/assets/lib/lightbox/js/lightbox.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <script src="./public/assets/js/main.js"></script>
+    <?php
+        require_once(__DIR__ . './../../templates/footer.php');
+    ?> 
 </body>
 
 </html>
