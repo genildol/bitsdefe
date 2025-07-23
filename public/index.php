@@ -1,4 +1,4 @@
 <?php
-require_once __DIR__ . '/../routes/home.php';
+require_once __DIR__ . '/../routes/routers.php';
 
 loadContent();

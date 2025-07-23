@@ -1,6 +1,3 @@
-<?php
-        require_once(__DIR__ . '/../../templates/navbar.php');
-    ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -756,9 +753,7 @@
 
     <!-- Template Javascript -->
     <script src="./public/assets/js/main.js"></script>
-    <?php
-        require_once(__DIR__ . './../../templates/footer.php');
-    ?> 
+     
 </body>
 
 </html>

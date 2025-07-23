@@ -44,7 +44,7 @@
   <div class="container-fluid bg-primary text-white d-none d-lg-flex">
     <div class="container py-3">
       <div class="d-flex align-items-center">
-        <a href="index.php">
+        <a href="">
           <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
         </a>
       </div>
