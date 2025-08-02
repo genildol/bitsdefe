@@ -1,4 +1,7 @@
-<!-- Quote Start -->
+<?php	
+require_once './templates/navbar.php';
+
+?>
 <div class="container-xxl py-5">
   <div class="container">
     <div class="row g-5">
@@ -161,3 +164,6 @@
     </div>
   </div>
 </div>
+<?php			
+include_once '../templates/footer.php';
+?>

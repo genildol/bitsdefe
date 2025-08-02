@@ -1,5 +1,6 @@
-<?php require("navbar.php")    ?>
-
+<?php
+require_once '.././templates/navbar.php';
+?>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6 offset-md-3">
@@ -311,5 +312,6 @@
       </div>
     </div>
   </div>
-  <!-- Features End -->
-  <?php require("footer.php")    ?>
+  <!-- Features End --><?php
+require_once '.././templates/footer.php';
+?>

@@ -21,9 +21,9 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
   <!-- Libraries Stylesheet -->
-  <link href="./public/assets/lib/animate/animate.min.css" rel="stylesheet">
-  <link href="./public/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="./public/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+  <link href="../public/assets/lib/animate/animate.min.css" rel="stylesheet">
+  <link href="../public/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="../public/assets/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Customized Bootstrap Stylesheet -->
   <link href="./public/assets/css/bootstrap.min.css" rel="stylesheet">
@@ -70,8 +70,8 @@
             <div class="nav-item dropdown">
               <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="" class="dropdown-item">Sobre</a>
-                <a href="" class="dropdown-item">Credo</a>
+                <a href="./pages/sobre.php" class="dropdown-item">Sobre</a>
+                <a href="./pages/credo.php" class="dropdown-item">Credo</a>
                 <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
                                 <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->
                 <!-- <a href="404.html" class="dropdown-item">Doutrina</a> -->
