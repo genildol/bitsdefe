@@ -312,6 +312,7 @@ require_once '.././templates/navbar.php';
       </div>
     </div>
   </div>
-  <!-- Features End --><?php
+  <!-- Features End -->
+<?php
 require_once '.././templates/footer.php';
 ?>
