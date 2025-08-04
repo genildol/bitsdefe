@@ -44,7 +44,7 @@
   <div class="container-fluid bg-primary text-white d-none d-lg-flex">
     <div class="container py-3">
       <div class="d-flex align-items-center">
-        <a href="">
+        <a href="index.php?page=home">
           <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
         </a>
       </div>
@@ -65,62 +65,69 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <div class="navbar-nav">
-            <a href="index.php" class="nav-item nav-link active">Inicio </a>
+            <a href="index.php?page=home" class="nav-item nav-link active">Inicio </a>
             <!-- <a href="about.html" class="nav-item nav-link">Sobre</a> -->
             <div class="nav-item dropdown">
               <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="sobre.php" class="dropdown-item">Sobre</a>
-                <a href="./pages/credo.php" class="dropdown-item">Credo</a>
-                <!-- <a href="team.html" class="dropdown-item">Ministério e Liderança</a>
-                                <a href="testimonial.html" class="dropdown-item">Louvor e Adoração</a> -->
-                <!-- <a href="404.html" class="dropdown-item">Doutrina</a> -->
+                <a href="index.php?page=sobre/sobre" class="dropdown-item">Sobre</a>
+                <a href="index.php?page=sobre/credo" class="dropdown-item">Credo</a>
               </div>
             </div>
-            <a href="" class="nav-item nav-link">Temas</a>
-            <!-- <a href="project.html" class="nav-item nav-link">Projects</a> -->
             <div class="nav-item dropdown">
               <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="" class="dropdown-item">A Palavra</a>
-                <a href="" class="dropdown-item">A história da Igreja</a>
-                <a href="" class="dropdown-item">Ministério e Liderança</a>
-                <a href="" class="dropdown-item">Louvor e Adoração</a>
-                <a href="" class="dropdown-item">Doutrina</a>
-                <a href="" class="dropdown-item">Ensinamentos</a>
+                <a href="index.php?page=igreja/igreja" class="dropdown-item">A Palavra</a>
+                <a href="index.php?page=igreja/historiagreja" class="dropdown-item">A história da Igreja</a>
+                <a href="index.php?page=igreja/ministerio" class="dropdown-item">Ministério e Liderança</a>
+                <a href="index.php?page=igreja/louvoradoracao" class="dropdown-item">Louvor e Adoração</a>
+                <a href="index.php?page=igreja/doutrina" class="dropdown-item">Doutrina</a>
+                <a href="index.php?page=igreja/ensinamentos" class="dropdown-item">Ensinamentos</a>
               </div>
             </div>
             <div class="nav-item dropdown">
               <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Estudos</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="" class="dropdown-item">A Bíblia</a>
-                <a href="" class="dropdown-item">O que é</a>
-                <a href="" class="dropdown-item">Quem foi</a>
-                <a href="" class="dropdown-item">Novo Testamento</a>
-                <a href="" class="dropdown-item">Antigo Testamento</a>
-                <a href="" class="dropdown-item">404 Page</a>
+                <a href="index.php?page=estudos/biblia" class="dropdown-item">A Bíblia</a>
+                <a href="index.php?page=estudos/oquee" class="dropdown-item">O que é</a>
+                <a href="index.php?page=estudos/quemfoi" class="dropdown-item">Quem foi</a>
+                <a href="index.php?page=estudos/novotestamento" class="dropdown-item">Novo Testamento</a>
+                <a href="index.php?page=estudos/antigotestamento" class="dropdown-item">Antigo Testamento</a>
+                <a href="index.php?page=estudos/" class="dropdown-item">A graça de Deus</a>
               </div>
             </div>
             <div class="nav-item dropdown">
-              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Família</a>
+              <a href="index.php?page=familia/familia" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Família</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="" class="dropdown-item">Casamento</a>
-                <a href="" class="dropdown-item">Mocidade</a>
-                <a href="" class="dropdown-item">Conselhos</a>
-                <a href="" class="dropdown-item">Vida com Deus</a>
-                <a href="" class="dropdown-item">O Homem</a>
-                <a href="" class="dropdown-item">A Mulher</a>
-                <a href="" class="dropdown-item">Os Filhos</a>
+                <a href="index.php?page=familia/familia" class="dropdown-item">Família</a>
+                <a href="index.php?page=familia/casamento" class="dropdown-item">Casamento</a>
+                <a href="index.php?page=familia/mocidadade" class="dropdown-item">Mocidade</a>
+                <a href="index.php?page=familia/conselhos" class="dropdown-item">Conselhos</a>
+                <a href="index.php?page=familia/vicacomdeus" class="dropdown-item">Vida com Deus</a>
+                <a href="index.php?page=familia/homem" class="dropdown-item">O Homem</a>
+                <a href="index.php?page=familia/mulher" class="dropdown-item">A Mulher</a>
+                <a href="index.php?page=familia/filhos" class="dropdown-item">Os Filhos</a>
+              </div>
+            </div>
+             <div class="nav-item dropdown">
+              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Temas</a>
+              <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
+                <a href="index.php?page=temas/ministério" class="dropdown-item">Ministério</a>
+                <a href="index.php?page=temas/relacionamentos" class="dropdown-item">Relacionamento</a>
+                <a href="index.php?page=temas/ensinamentos" class="dropdown-item">Ensinamentos</a>
+                <a href="index.php?page=temas/cartas" class="dropdown-item">As Cartas</a>
+                <!-- <a href="" class="dropdown-item">Doutrinas</a> -->
+                <a href="" class="dropdown-item"></a>
               </div>
             </div>
             <div class="nav-item dropdown">
               <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Mais</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="" class="dropdown-item">Vida cristã</a>
-                <a href="" class="dropdown-item">Salvação</a>
-                <a href="" class="dropdown-item">Curiosidades</a>
-                <a href="" class="dropdown-item">Versículos</a>
-                <a href="" class="dropdown-item"></a>
+                <a href="index.php?page=mais/vidacrista" class="dropdown-item">Vida cristã</a>
+                <a href="index.php?page=mais/salvacao" class="dropdown-item">Salvação</a>
+                <a href="index.php?page=mais/curiosidades" class="dropdown-item">Curiosidades</a>
+                <a href="index.php?page=mais/versos" class="dropdown-item">Versículos</a>
+                <a href="index.php?page=mais/" class="dropdown-item"></a>
               </div>
             </div>
             <!-- <a href="contact.html" class="nav-item nav-link">Contact</a> -->
