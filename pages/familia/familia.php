@@ -3,8 +3,11 @@
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
         <h1 class="display-5 mb-4">Sobre nós</h1>
-        <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
+        <p>Where does it come from? </p>
+
+        <p>A família é um projeto de Deus. Aqui você encontrará conteúdos voltados para casais, jovens, pais, mães e filhos, com orientações práticas e bíblicas para a vida no lar, casamento, criação de filhos e relacionamentos saudáveis, conforme os valores cristãos.</p>
+
+        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
           Latin
           literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
           Hampden-Sydney

@@ -3,8 +3,11 @@
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
         <h1 class="display-5 mb-4">Sobre nós</h1>
-        <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
+        <p>Where does it come from?</p>
+        
+        <p>Se aprofunde no conhecimento da Palavra com nossos estudos organizados por temas, livros, personagens e contextos históricos. Ideal para quem quer aprender mais sobre o Antigo e o Novo Testamento, compreender melhor os ensinamentos de Jesus e fortalecer a sua fé.</p>
+        
+        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
           Latin
           literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
           Hampden-Sydney
