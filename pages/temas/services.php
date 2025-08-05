@@ -1,7 +1,3 @@
-<?php require("navbar.php")    ?>
-
-
-
 <div class="hero overlay">
 
   <div class="img-bg rellax">
@@ -322,5 +318,3 @@
 </body>
 
 </html>
-
-<?php require("footer.php")    ?>

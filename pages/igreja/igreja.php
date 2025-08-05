@@ -2,9 +2,7 @@
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-        <h1 class="display-5 mb-4">Sobre nós</h1>
-        <h1>igreja</h1>
-        <p>Where does it come from? </p>
+        <h1 class="display-5 mb-4">A Igreja</h1>
         <p>Conheça mais sobre a história da Igreja, sua missão e os ensinamentos que moldaram a fé cristã ao longo dos séculos. Aqui falamos sobre ministério, liderança, louvor, adoração, doutrinas e a importância da comunhão entre os irmãos. Tudo baseado nas Escrituras.</p>
 
           <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical         Latin
@@ -35,14 +33,7 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
-
-        <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
-          <span class="btn-lg-square bg-primary" style="width: 55px; height: 55px;">
-            <i class="fa fa-phone-alt text-white"></i>
-          </span>
-          <span class="fs-5 fw-medium mx-4">+012 345 6789</span>
-        </a>
-      </div>
+        </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Aumente seu conhecimento</h2>
 

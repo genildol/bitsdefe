@@ -1,4 +1,3 @@
-<?php require("navbar.php")    ?>
 
 <div class="hero overlay">
 
@@ -287,5 +286,3 @@
 
 
 
-
-<?php require("footer.php")    ?>

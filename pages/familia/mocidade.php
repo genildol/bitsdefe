@@ -1,4 +1,3 @@
-<?php require("navbar.php")    ?>
 <div class="container my-5">
   <div class="row g-4">
     <!-- Card 1 -->
@@ -191,9 +190,3 @@
     </div>
   </div>
 </div>
-
-
-
-<!-- Testimonial End -->
-<!-- Footer End -->
-<?php require("footer.php")    ?>

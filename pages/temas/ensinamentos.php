@@ -2,9 +2,12 @@
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-        <h1 class="display-5 mb-4">Sobre nós</h1>
-        <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
+        <h1 class="display-5 mb-4">Ensinamentos</h1>
+        <p>Where does it come from?</p>
+        
+        <p>Se aprofunde no conhecimento da Palavra com nossos estudos organizados por temas, livros, personagens e contextos históricos. Ideal para quem quer aprender mais sobre o Antigo e o Novo Testamento, compreender melhor os ensinamentos de Jesus e fortalecer a sua fé.</p>
+        
+        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
           Latin
           literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
           Hampden-Sydney
@@ -35,12 +38,6 @@
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
 
-        <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
-          <span class="btn-lg-square bg-primary" style="width: 55px; height: 55px;">
-            <i class="fa fa-phone-alt text-white"></i>
-          </span>
-          <span class="fs-5 fw-medium mx-4">+012 345 6789</span>
-        </a>
       </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Aumente seu conhecimento</h2>

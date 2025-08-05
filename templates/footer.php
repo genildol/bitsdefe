@@ -26,7 +26,7 @@
   <div class="container py-5">
     <div class="row g-5">
       <div class="col-lg-3 col-md-6">
-        <h4 class="text-white mb-4">Our Office</h4>
+        <h4 class="text-white mb-4">Our Office Teste</h4>
         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
         <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
@@ -55,19 +55,25 @@
         <h6 class="text-light">Closed</h6>
       </div>
       <div class="col-lg-3 col-md-6">
+        <h4 class="text-white mb-4">Sobre</h4>
+        <a class="btn btn-link" href="index.php?page=sobre/credo">Credo</a>
+        <a class="btn btn-link" href="index.php?page=sobre/sobre">Quem sou</a>
+        <a class="btn btn-link" href="index.php?page=sobre/contato">Contato</a>
+        <a class="btn btn-link" href="index.php?page=sobre/atualizacoes">Últimas Atualizações</a>
+        <a class="btn btn-link" href="index.php?page=sobre/politica">Política de Privacidade</a>
+      </div>
+      <!-- <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-4">Newsletter</h4>
         <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
         <div class="position-relative w-100">
           <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
           <button type="button" class="btn btn-light py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
 <!-- Footer End -->
-
-
 <!-- Copyright Start -->
 <div class="container-fluid copyright py-4">
   <div class="container">
@@ -76,7 +82,6 @@
         &copy; <a class="fw-medium text-light" href="#">Your Site Name</a>, All Right Reserved.
       </div>
       <div class="col-md-6 text-center text-md-end">
-        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
         Designed By <a class="fw-medium text-light" href="https://htmlcodex.com">HTML Codex</a>
         Distributed By <a class="fw-medium text-light" href="https://themewagon.com">ThemeWagon</a>
       </div>

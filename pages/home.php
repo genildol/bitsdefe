@@ -5,7 +5,7 @@
         <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
         <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
         
-        <p>Este é um espaço dedicado a quem deseja unir conhecimento tecnológico com a sabedoria eterna da Palavra de Deus. Aqui você encontrará reflexões profundas sobre as Escrituras, organizadas em temas do dia a dia — como família, igreja, sociedade, propósito, vida cristã e muito mais — tudo apresentado de forma clara, acessível e com suporte bíblico.</p>
+        <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos com os desafios do mundo atual. Por meio de conteúdos relevantes, buscamos ajudar você a aplicar a verdade da Palavra de Deus nas decisões do dia a dia, fortalecendo sua caminhada com Cristo de forma autêntica e transformadora.</p>
 
         <p>Nosso objetivo é tornar o estudo bíblico algo presente na rotina, mesmo em meio à correria da vida moderna. Acreditamos que a tecnologia pode ser usada como ferramenta de edificação e ensino, e por isso nosso conteúdo é pensado para pessoas que desejam crescer espiritualmente sem abrir mão da lógica, da organização e da busca por conhecimento.</p>
 

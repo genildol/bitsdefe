@@ -1,10 +1,7 @@
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-        <h1 class="display-5 mb-4">Sobre nós</h1>
-        <p>Where does it come from? </p>
-
+        <h1 class="display-5 mb-4">A família cuja preparação de Deus</h1>
         <p>A família é um projeto de Deus. Aqui você encontrará conteúdos voltados para casais, jovens, pais, mães e filhos, com orientações práticas e bíblicas para a vida no lar, casamento, criação de filhos e relacionamentos saudáveis, conforme os valores cristãos.</p>
 
         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
@@ -38,12 +35,6 @@
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
 
-        <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
-          <span class="btn-lg-square bg-primary" style="width: 55px; height: 55px;">
-            <i class="fa fa-phone-alt text-white"></i>
-          </span>
-          <span class="fs-5 fw-medium mx-4">+012 345 6789</span>
-        </a>
       </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Aumente seu conhecimento</h2>
