@@ -392,12 +392,7 @@
           erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
         <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
           eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
-        <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
-          <span class="btn-lg-square bg-primary" style="width: 55px; height: 55px;">
-            <i class="fa fa-phone-alt text-white"></i>
-          </span>
-          <span class="fs-5 fw-medium mx-4">+012 345 6789</span>
-        </a>
+       
       </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Get A Free Quote</h2>
