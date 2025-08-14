@@ -59,6 +59,45 @@
         </div>
       </div>
     </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="card h-100">
+        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
+        <div class="card-body">
+          <h5 class="card-title">A graça de Deus</h5>
+          <p class="card-text">
+            A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
+            humanos pela fé em Jesus Cristo.
+          </p>
+          <a href="#" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="card h-100">
+        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
+        <div class="card-body">
+          <h5 class="card-title">A graça de Deus</h5>
+          <p class="card-text">
+            A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
+            humanos pela fé em Jesus Cristo.
+          </p>
+          <a href="#" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="card h-100">
+        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
+        <div class="card-body">
+          <h5 class="card-title">A graça de Deus</h5>
+          <p class="card-text">
+            A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
+            humanos pela fé em Jesus Cristo.
+          </p>
+          <a href="#" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -329,7 +368,7 @@
           </div>
         </div>
         <div class="p-4">
-          <a class="d-block h5" href="">Data Analytics & Insights</a>
+          <a class="d-block h5" href="">Data Analytics & Insights 01</a>
           <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
         </div>
       </div>
@@ -343,7 +382,7 @@
           </div>
         </div>
         <div class="p-4">
-          <a class="d-block h5" href="">Marketing Content Strategy</a>
+          <a class="d-block h5" href="">Marketing Content Strategy 2</a>
           <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
         </div>
       </div>
@@ -357,7 +396,7 @@
           </div>
         </div>
         <div class="p-4">
-          <a class="d-block h5" href="">Business Target Market</a>
+          <a class="d-block h5" href="">Business Target Market 3</a>
           <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
         </div>
       </div>
@@ -371,7 +410,21 @@
           </div>
         </div>
         <div class="p-4">
-          <a class="d-block h5" href="">Social Marketing Strategy</a>
+          <a class="d-block h5" href="">Social Marketing Strategy 4</a>
+          <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
+        </div>
+      </div>
+      <div class="project-item mb-5">
+        <div class="position-relative">
+          <img class="img-fluid" src="./public/assets/img/project-4.jpg" alt="">
+          <div class="project-overlay">
+            <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-4.jpg"
+              data-lightbox="project"><i class="fa fa-eye"></i></a>
+            <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
+          </div>
+        </div>
+        <div class="p-4">
+          <a class="d-block h5" href="">Social Marketing Strategy 5</a>
           <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
         </div>
       </div>

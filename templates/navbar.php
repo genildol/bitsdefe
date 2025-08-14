@@ -65,7 +65,7 @@
             <div class="nav-item dropdown">
               <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="index.php?page=igreja/igreja" class="dropdown-item">A Palavra</a>
+                <a href="index.php?page=igreja/palavra" class="dropdown-item">A Palavra</a>
                 <a href="index.php?page=igreja/historiaigreja" class="dropdown-item">A história da Igreja</a>
                 <a href="index.php?page=igreja/igreja" class="dropdown-item">Igreja</a>
                 <a href="index.php?page=igreja/ministerio" class="dropdown-item">Ministério e Liderança</a>
@@ -119,16 +119,6 @@
                 <a href="index.php?page=mais/" class="dropdown-item"></a>
               </div>
             </div>
-            <!-- <div class="nav-item dropdown">
-              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Sobre</a>
-              <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="index.php?page=sobre/credo" class="dropdown-item">Credo</a>
-                <a href="index.php?page=sobre/sobre" class="dropdown-item">Sobre</a>
-                <a href="index.php?page=sobre/contato" class="dropdown-item">Contato</a>
-                <a href="index.php?page=sobre/atualizacoes" class="dropdown-item">Últimas Atualizações</a>
-                <a href="index.php?page=sobre/politica" class="dropdown-item">Politica de Privacidade</a>
-              </div>
-            </div> -->
           </div>
         </div>
       </nav>
