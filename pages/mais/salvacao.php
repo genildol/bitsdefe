@@ -1,7 +1,7 @@
 <div class="container my-5">
   <div class="row g-4">
     <!-- Card 1 -->
-    <h1>Salvação em Jesus Cristo</h1>
+    <h2 class="display-8 mb-4"> Salvação em Jesus Cristo </h2>
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
         <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
@@ -51,11 +51,8 @@
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-
-        <h1>A sua salvacão está em Jesus Cristo</h1>
-
-        <!-- <p>This part is inside a .container class.</p> -->
-
+        <h2 class="display-8 mb-4"> A sua salvacão está em Jesus Cristo </h2>
+        <h1></h1>
         <p>Cremos na inspiração divina verbal e plenária da Bíblia sagrada, única regra infalível de fé e prática
           para a
           vida e o caráter cristão (II Tm 3:14-17);</p>

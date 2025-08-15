@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <h1 class="display-5 mb-4">Sobre o site</h1>
+        <h2 class="display-8 mb-4">Sobre o site</h2>
 
         <p>Abordamos assuntos do dia a dia, dilemas modernos e reflexões profundas sempre à luz da Bíblia. Fé, ética, escolhas, propósito de vida, identidade, sexualidade, amizades e muito mais. Um conteúdo voltado para quem busca respostas e direção em meio ao mundo atual.</p>
 

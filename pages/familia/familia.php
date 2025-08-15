@@ -1,7 +1,7 @@
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <h1 class="display-5 mb-4">A família cuja preparação de Deus</h1>
+        <h2 class="display-8 mb-4">A família cuja preparação de Deus</h2>
         <p>A família é um projeto de Deus. Aqui você encontrará conteúdos voltados para casais, jovens, pais, mães e filhos, com orientações práticas e bíblicas para a vida no lar, casamento, criação de filhos e relacionamentos saudáveis, conforme os valores cristãos.</p>
 
         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical

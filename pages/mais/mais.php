@@ -2,8 +2,7 @@
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-
-         <h2 class="display-8 mb-4"> Vida com Cristo </h2>
+        <h2 class="display-8 mb-4">Veja aqui muitos assuntos importantes</h2>
         <!-- <p>This part is inside a .container class.</p> -->
 
         <p>Cremos na inspiração divina verbal e plenária da Bíblia sagrada, única regra infalível de fé e prática

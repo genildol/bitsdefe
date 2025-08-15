@@ -63,7 +63,7 @@
           <div class="navbar-nav">
             <a href="index.php?page=home" class="nav-item nav-link active">Inicio </a>
             <div class="nav-item dropdown">
-              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Igreja</a>
+              <a href="index.php?page=igreja/igreja" class="nav-link dropdown-toggle" id="igrejaDropdown" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=igreja/palavra" class="dropdown-item">A Palavra</a>
                 <a href="index.php?page=igreja/historiaigreja" class="dropdown-item">A história da Igreja</a>
@@ -74,8 +74,16 @@
                 <a href="index.php?page=igreja/ensinamentos" class="dropdown-item">Ensinamentos</a>
               </div>
             </div>
+            <script>
+                // Quando clicar e não for em um submenu, vai para o link
+                document.querySelector('#igrejaDropdown').addEventListener('click', function(e) {
+                  if (!e.target.closest('.dropdown-menu')) {
+                    window.location.href = this.href;
+                  }
+                });
+              </script>
             <div class="nav-item dropdown">
-              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Estudos</a>
+              <a href="index.php?page=estudos/estudos" class="nav-link dropdown-toggle" id="estudosDropdown" data-bs-toggle="dropdown">Estudos</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=estudos/biblia" class="dropdown-item">A Bíblia</a>
                 <a href="index.php?page=estudos/oquee" class="dropdown-item">O que é</a>
@@ -85,8 +93,16 @@
                 <a href="index.php?page=estudos/graca" class="dropdown-item">A graça de Deus</a>
               </div>
             </div>
+             <script>
+                // Quando clicar e não for em um submenu, vai para o link
+                document.querySelector('#estudosDropdown').addEventListener('click', function(e) {
+                  if (!e.target.closest('.dropdown-menu')) {
+                    window.location.href = this.href;
+                  }
+                });
+              </script>
             <div class="nav-item dropdown">
-              <a href="index.php?page=familia/familia" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Família</a>
+              <a href="index.php?page=familia/familia" class="nav-link dropdown-toggle" id="familiaDropdown" data-bs-toggle="dropdown">Família</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=familia/familia" class="dropdown-item">Família</a>
                 <a href="index.php?page=familia/casamento" class="dropdown-item">Casamento</a>
@@ -98,19 +114,32 @@
                 <a href="index.php?page=familia/filhos" class="dropdown-item">Os Filhos</a>
               </div>
             </div>
+             <script>
+                document.querySelector('#familiaDropdown').addEventListener('click', function(e) {
+                  if (!e.target.closest('.dropdown-menu')) {
+                    window.location.href = this.href;
+                  }
+                });
+              </script>
              <div class="nav-item dropdown">
-              <a href="index.php?page=temas/temas" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Temas</a>
+              <a href="index.php?page=temas/temas" class="nav-link dropdown-toggle" id="temasDropdown" data-bs-toggle="dropdown">Temas</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=temas/ministerio" class="dropdown-item">Ministério</a>
                 <a href="index.php?page=temas/relacionamentos" class="dropdown-item">Relacionamento</a>
                 <a href="index.php?page=temas/ensinamentos" class="dropdown-item">Ensinamentos</a>
                 <a href="index.php?page=temas/cartas" class="dropdown-item">As Cartas</a>
-                <!-- <a href="" class="dropdown-item">Doutrinas</a> -->
                 <a href="" class="dropdown-item"></a>
               </div>
             </div>
+            <script>
+                document.querySelector('#temasDropdown').addEventListener('click', function(e) {
+                  if (!e.target.closest('.dropdown-menu')) {
+                    window.location.href = this.href;
+                  }
+                });
+              </script>
             <div class="nav-item dropdown">
-              <a href="" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Mais</a>
+              <a href="index.php?page=mais/mais" class="nav-link dropdown-toggle" id="maisDropdown"data-bs-toggle="dropdown">Mais</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=mais/vidacrista" class="dropdown-item">Vida cristã</a>
                 <a href="index.php?page=mais/salvacao" class="dropdown-item">Salvação</a>
@@ -119,6 +148,13 @@
                 <a href="index.php?page=mais/" class="dropdown-item"></a>
               </div>
             </div>
+            <script>
+                document.querySelector('#maisDropdown').addEventListener('click', function(e) {
+                  if (!e.target.closest('.dropdown-menu')) {
+                    window.location.href = this.href;
+                  }
+                });
+              </script>
           </div>
         </div>
       </nav>

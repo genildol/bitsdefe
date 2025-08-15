@@ -2,9 +2,9 @@
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-
-        <h1>Curiosidades</h1>
-
+        <h2 class="display-8 mb-4">Curiosidades</h2>
+        <p>Você sabia que a Bíblia é o livro mais lido e traduzido do mundo? Ela foi traduzida para mais de 3.000 idiomas, alcançando bilhões de pessoas ao longo dos séculos.</p>
+        
         <p>Cremos na inspiração divina verbal e plenária da Bíblia sagrada, única regra infalível de fé e prática
           para a
           vida e o caráter cristão (II Tm 3:14-17);</p>
