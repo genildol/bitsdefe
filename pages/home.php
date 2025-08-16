@@ -3,6 +3,10 @@
     <div class="row g-5">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
+        
+        <button type="button" onclick="likePage('home')" id="like-section" class="btn btn-warning">Curta nosso Site👍 </button>
+            <span id="like-count">0</span> curtidas
+        </div>  
 
         <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
         
@@ -17,6 +21,21 @@
         <p>Navegue pelos menus, explore os temas e, acima de tudo, abra seu coração para ouvir o que Deus tem a dizer através da Sua Palavra. Este site não é apenas sobre respostas, mas também sobre perguntas sinceras — aquelas que movem a alma a buscar mais do Senhor.</p>
         <i>“Examinai tudo. Retende o bem.” — 1 Tessalonicenses 5:21</i>
       </div>
+      <script>
+          function likePage(pageId) {
+              let formData = new FormData();
+              formData.append("page_id", pageId);
+
+              fetch("like.php", {
+                  method: "POST",
+                  body: formData
+              })
+              .then(res => res.text())
+              .then(data => {
+                  document.getElementById("like-count").innerText = data;
+              });
+          }
+          </script>
     <!-- Card 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
