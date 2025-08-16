@@ -1,7 +1,6 @@
 <div class="container my-5">
   <div class="row g-4">
-    <!-- Card 1 -->
-    <h1>Louvor e Adocação</h1>
+    <h2 class="display-8 mb-4">Louvor e adoração</h2>
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
         <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
@@ -30,7 +29,6 @@
         </div>
       </div>
     </div>
-    <!-- Card 3 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
         <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">

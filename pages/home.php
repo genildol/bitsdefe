@@ -3,6 +3,7 @@
     <div class="row g-5">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
+
         <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
         
         <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos com os desafios do mundo atual. Por meio de conteúdos relevantes, buscamos ajudar você a aplicar a verdade da Palavra de Deus nas decisões do dia a dia, fortalecendo sua caminhada com Cristo de forma autêntica e transformadora.</p>
@@ -19,84 +20,44 @@
     <!-- Card 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
-        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
+        <img src="./public/assets/images/home/antigotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 1 Image">
         <div class="card-body">
           <h5 class="card-title">Antigo Testamento</h5>
           <p class="card-text">
-            O Antigo Testamento é a primeira parte da Bíblia cristã, composta por 39 livros (no cânon protestante). Ele
-            foi escrito antes do nascimento de Jesus Cristo e contém a história, as leis, os profetas e os ensinamentos
-            do povo de Israel.
+            O Antigo Testamento é a primeira parte da Bíblia cristã, composta por 39 livros (no cânon protestante)... 
           </p>
-          <a href="#" class="btn btn-primary">Learn More</a>
+          <a href="index.php?page=estudos/antigotestamento" class="btn btn-primary">Saiba mais</a>
         </div>
       </div>
     </div>
     <!-- Card 2 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
-        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 2 Image">
+        <img src="./public/assets/images/home/novotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 2 Image">
         <div class="card-body">
           <h5 class="card-title">Novo Testamento</h5>
           <p class="card-text">
             O Novo Testamento é a segunda parte da Bíblia cristã, composta por 27 livros que narram a vida,
-            ensinamentos, morte e ressurreição de Jesus Cristo, além do nascimento e expansão da Igreja primitiva.
+            ensinamentos, morte e...
           </p>
-          <a href="" class="btn btn-primary">Learn More</a>
+          <a href="index.php?page=estudos/novotestamento" class="btn btn-primary">Saiba mais</a>
         </div>
       </div>
     </div>
     <!-- Card 3 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
-        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
+        <img src="./public/assets/images/home/mortedejesuscristo.jpg" width="150px" height="200px"  alt="Image" class="card-img-top" alt="Card 3 Image">
         <div class="card-body">
           <h5 class="card-title">A graça de Deus</h5>
           <p class="card-text">
             A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
-            humanos pela fé em Jesus Cristo.
+...
           </p>
-          <a href="#" class="btn btn-primary">Learn More</a>
+          <a href="index.php?page=estudos/graca" class="btn btn-primary">Saiba mais</a>
         </div>
       </div>
     </div>
-    <div class="col-lg-4 col-md-6">
-      <div class="card h-100">
-        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
-        <div class="card-body">
-          <h5 class="card-title">A graça de Deus</h5>
-          <p class="card-text">
-            A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
-            humanos pela fé em Jesus Cristo.
-          </p>
-          <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6">
-      <div class="card h-100">
-        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
-        <div class="card-body">
-          <h5 class="card-title">A graça de Deus</h5>
-          <p class="card-text">
-            A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
-            humanos pela fé em Jesus Cristo.
-          </p>
-          <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6">
-      <div class="card h-100">
-        <img src="./public/assets/img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
-        <div class="card-body">
-          <h5 class="card-title">A graça de Deus</h5>
-          <p class="card-text">
-            A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
-            humanos pela fé em Jesus Cristo.
-          </p>
-          <a href="#" class="btn btn-primary">Learn More</a>
-        </div>
-      </div>
     </div>
   </div>
 </div>

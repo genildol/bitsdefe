@@ -1,6 +1,6 @@
 <div class="container my-5">
   <div class="row g-4">
-    <h1>Saiba quem foi alguns personagens muito importante na antiguidade</h1>
+    <h2 class="display-8 mb-4">Saiba quem foi alguns personagens muito importante na antiguidade</h2>
     <!-- Card 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">

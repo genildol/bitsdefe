@@ -3,7 +3,7 @@
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
 
-        <h1>Um casamento em Deus</h1>
+        <h2 class="display-8 mb-4">Um casamento em Deus</h2>
 
         <p>Cremos na inspiração divina verbal e plenária da Bíblia sagrada, única regra infalível de fé e prática
           para a

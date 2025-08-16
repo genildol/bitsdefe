@@ -1,6 +1,6 @@
 <div class="container my-5">
   <div class="row g-4">
-    <h1>Os deveres e obrigações dos filhos com seus pais</h1>
+    <h2 class="display-8 mb-4">Os deveres e obrigações dos filhos com seus pais</h2>
     <!-- Card 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">

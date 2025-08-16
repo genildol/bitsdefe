@@ -1,5 +1,3 @@
-<?php require("navbar.php")    ?>
-
 <div class="hero overlay">
   <div class="img-bg rellax">
     <!-- <img src="images/hero_2.jpg" alt="Image" class="img-fluid"> -->
@@ -228,5 +226,3 @@
     </div>
   </div>
 </div>
-
-<?php require("footer.php")    ?>

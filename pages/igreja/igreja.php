@@ -1,8 +1,8 @@
+<div class="container-xxl py-5">
  <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-        <h2 class="display-8 mb-4">A Igreja</h2>
+        <h2 class="display-8 mb-4">A Igreja, o que é igreja e ser igreja</h2>
         <p>Conheça mais sobre a história da Igreja, sua missão e os ensinamentos que moldaram a fé cristã ao longo dos séculos. Aqui falamos sobre ministério, liderança, louvor, adoração, doutrinas e a importância da comunhão entre os irmãos. Tudo baseado nas Escrituras.</p>
 
           <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical         Latin

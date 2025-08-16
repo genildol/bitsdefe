@@ -1,8 +1,9 @@
+<div class="container-xxl py-5">
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-        <h1 class="display-5 mb-4">Ensinamentos</h1>
+        <h2 class="display-8 mb-4">Ensinamentos</h2>
         <p>Where does it come from?</p>
         
         <p>Se aprofunde no conhecimento da Palavra com nossos estudos organizados por temas, livros, personagens e contextos históricos. Ideal para quem quer aprender mais sobre o Antigo e o Novo Testamento, compreender melhor os ensinamentos de Jesus e fortalecer a sua fé.</p>
