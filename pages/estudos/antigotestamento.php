@@ -1,5 +1,11 @@
 <div class="container my-5">
-  <div class="row g-4">
+  <div class="right d-flex justify-content-end mb-3">
+          <button type="button" onclick="likePage('antigotestamento')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+            <span id="like-count">
+              <button type="button" class="btn btn-outline-primary">0</button>
+              </span>
+      </div>
+  <div class="row g-2">
     <!-- Card 1 -->
     <h2 class="display-8 mb-4"> Saiba mais nos cards abaixo</h2>
     <div class="col-lg-4 col-md-6">
@@ -47,7 +53,7 @@
   </div>
 </div>
 
-<div class="container-xxl py-5">
+<!-- <div class="container-xxl py-5"> -->
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">

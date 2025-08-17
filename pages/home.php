@@ -1,13 +1,14 @@
-  <div class="container-xxl py-5">
+  <!-- <div class="container-xxl py-5"> -->
   <div class="container">
+        <div class="right d-flex justify-content-end mb-3">
+          <button type="button" onclick="likePage('home')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+            <span id="like-count">
+              <button type="button" class="btn btn-outline-primary">0</button>
+              </span>
+        </div>  
     <div class="row g-5">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
-        
-        <button type="button" onclick="likePage('home')" id="like-section" class="btn btn-warning">Curta nosso Site👍 </button>
-            <span id="like-count">0</span> curtidas
-        </div>  
-
         <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
         
         <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos com os desafios do mundo atual. Por meio de conteúdos relevantes, buscamos ajudar você a aplicar a verdade da Palavra de Deus nas decisões do dia a dia, fortalecendo sua caminhada com Cristo de forma autêntica e transformadora.</p>
@@ -581,7 +582,7 @@
       </div>
     </div>
   </div>
-</div>
+<!-- </div> -->
 <?php
 require_once './templates/footer.php';
 ?>
