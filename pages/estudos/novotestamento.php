@@ -1,4 +1,11 @@
-<div class="container my-5">
+<!-- <div class="container-xxl py-5"> -->
+  <div class="container">
+          <div class="right d-flex justify-content-end mb-3">
+          <button type="button" onclick="likePage('novotestamento')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+            <span id="like-count">
+              <button type="button" class="btn btn-outline-primary">0</button>
+              </span>
+        </div>
   <div class="row g-4">
     <!-- Card 1 -->
     <h2 class="display-8 mb-4">Saiba mais nos cards abaixo</h2>
@@ -49,6 +56,7 @@
 
 <div class="container-xxl py-5">
   <div class="container">
+      
     <div class="row g-5">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
 
@@ -70,12 +78,9 @@
 
         <p>Em resumo, o Novo Testamento é uma parte vital da Bíblia que narra a vida e os ensinamentos de Jesus Cristo, bem como o desenvolvimento da Igreja primitiva. Ele é a base da fé cristã e oferece orientação espiritual e moral para os crentes em todo o mundo.</p>
 
-        
       </div>
-
       <!-- Testimonial Start -->
       <div class="container-xxl pt-5">
-        <div class="container">
           <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s"
             style="max-width: 500px;">
             <p class="fs-5 fw-medium text-primary">Testimonial</p>

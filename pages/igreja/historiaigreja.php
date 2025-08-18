@@ -1,4 +1,10 @@
 <div class="container my-5">
+  <div class="right d-flex justify-content-end mb-3">
+          <button type="button" onclick="likePage('historiaigreja')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+            <span id="like-count">
+              <button type="button" class="btn btn-outline-primary">0</button>
+              </span>
+        </div> 
   <div class="row g-4">
     <h2 class="display-8 mb-4">A História da Igreja de Jesus Cristo</h2>
     <!-- Card 1 -->
@@ -305,5 +311,6 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
   <!-- Features End -->

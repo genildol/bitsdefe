@@ -1,5 +1,11 @@
-<div class="container-xxl py-5">
+<!-- <div class="container-xxl py-5"> -->
   <div class="container">
+    <div class="right d-flex justify-content-end mb-3">
+      <button type="button" onclick="likePage('versos')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+      <span id="like-count">
+        <button type="button" class="btn btn-outline-primary">0</button>
+      </span>
+    </div>
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         

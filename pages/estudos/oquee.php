@@ -13,21 +13,21 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/project-1.jpg" alt="Primeiro slide" style="width: 100%; height: 350px;">
+            <img src="./public/assets/img/project-1.jpg" alt="Primeiro slide" style="width: 100%; height: 350px;">
             <div class=" carousel-caption d-none d-md-block">
               <h5>Meu Credo</h5>
               <!-- <p>Descrição do primeiro slide</p> -->
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/project-3.jpg" alt="Segundo slide" style="width: 100%; height: 350px;">
+            <img src="./public/assets/img/project-1.jpg" alt="Segundo slide" style="width: 100%; height: 350px;">
             <div class="carousel-caption d-none d-md-block">
               <h5>Segundo Slide</h5>
               <!-- <p>Descrição do segundo slide</p> -->
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/project-2.jpg" alt="Terceiro slide" style="width: 100%; height: 350px;">
+            <img src="./public/assets/img/project-1.jpg" alt="Terceiro slide" style="width: 100%; height: 350px;">
             <div class="carousel-caption d-none d-md-block">
               <h5>Terceiro Slide</h5>
               <!-- <p>Descrição do terceiro slide</p> -->
@@ -49,8 +49,15 @@
   </div>
 </div>
 <br>
-<div class="container-xxl py-5">
+<!-- <div class="container-xxl py-5"> -->
+  
   <div class="container">
+    <div class="right d-flex justify-content-end mb-3">
+          <button type="button" onclick="likePage('oquee')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+            <span id="like-count">
+              <button type="button" class="btn btn-outline-primary">0</button>
+              </span>
+        </div> 
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
 

@@ -1,4 +1,8 @@
 <div class="container my-5">
+  <div class="right d-flex justify-content-end mb-3">
+    <button type="button" onclick="likePage('ministerio')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+    <span id="like-count"></span>
+  </div>
   <div class="row g-4">
     <h2 class="display-8 mb-4">O dever de um homem na sua família</h2>
     <!-- Card 1 -->
