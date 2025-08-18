@@ -1,4 +1,4 @@
-  <div class="container-xxl py-5">
+  <!-- <div class="container-xxl py-5"> -->
     <div class="container">
         <div class="right d-flex justify-content-end mb-3">
           <button type="button" onclick="likePage('home')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>

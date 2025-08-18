@@ -8,6 +8,14 @@ function likePage(pageId) {
   })
     .then(res => res.text())
     .then(data => {
-      document.getElementById("like-count").innerText = data;
+      document.querySelector("#like-count button").innerText = data;
+    });
+}
+
+window.onload = function () {
+  fetch("get_likes.php?page_id=home")
+    .then(res => res.text())
+    .then(data => {
+      document.querySelector("#like-count button").innerText = data;
     });
 }
