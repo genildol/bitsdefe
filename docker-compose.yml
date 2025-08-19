@@ -1,0 +1,56 @@
+services:
+  app:
+    mem_limit: 1g
+    mem_reservation: 512m
+    build:
+      context: .
+    restart: unless-stopped
+    working_dir: /var/www/html
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - mysql
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      bitsdefe-network:
+        aliases:
+          - "bitsdefe.localhost"
+ 
+  mysql:
+    container_name: bitsdefe-mysql
+    image: mysql:5.7.39
+    mem_limit: 1g
+    mem_reservation: 512m
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_USER: root
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: bitsdefe_site
+      MYSQL_PASSWORD: root
+    volumes:
+      - ./.docker/mysql/dbdata:/var/lib/mysql
+    command: mysqld --sql_mode="" --character-set-server=utf8 --collation-server=utf8_general_ci --innodb-flush-log-at-trx-commit=0
+    ports:
+      - "3306:3306"
+    networks:
+      - bitsdefe-network
+ 
+networks:
+  bitsdefe-network:
+    driver: bridge
+ 
+volumes:
+  bitsdefe-mysql:
+    driver: local
+    driver_opts:
+      type: none
+      device: ./.docker/mysql/dbdata
+      o: bind
+  bitsdefe-app:
+    driver: local
+    driver_opts:
+      type: none
+      device: .
+      o: bind
