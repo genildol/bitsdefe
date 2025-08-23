@@ -73,13 +73,6 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
-
-        <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
-          <span class="btn-lg-square bg-primary" style="width: 55px; height: 55px;">
-            <i class="fa fa-phone-alt text-white"></i>
-          </span>
-          <span class="fs-5 fw-medium mx-4">+012 345 6789</span>
-        </a>
       </div>
     </div>
   </div>
