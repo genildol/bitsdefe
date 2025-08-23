@@ -178,4 +178,4 @@
   <script src="./public/assets/js/main.js"></script>
   <script src="./public/assets/js/bootstap.bunle.mi.js"></script>
   <script src="./public/assets/js/aos.js"></script>
-  <script src="./public/assets/js/like.js"></script>
+  <!-- <script src="./public/assets/js/like.js"></script> -->
