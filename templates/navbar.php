@@ -48,7 +48,6 @@
           <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
         </a>
       </div>
-
     </div>
   </div>
   <!-- FIM DO PRIMEIRO TOPO -->
@@ -65,13 +64,12 @@
             <div class="nav-item dropdown">
               <a href="index.php?page=igreja/igreja" class="nav-link dropdown-toggle" id="igrejaDropdown" data-bs-toggle="dropdown">Igreja</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="index.php?page=igreja/palavra" class="dropdown-item">A Palavra</a>
+                <a href="index.php?page=igreja/palavra" class="dropdown-item">A Palavra de Deus</a>
                 <a href="index.php?page=igreja/historiaigreja" class="dropdown-item">A história da Igreja</a>
-                <a href="index.php?page=igreja/igreja" class="dropdown-item">Igreja</a>
-                <a href="index.php?page=igreja/ministerio" class="dropdown-item">Ministério e Liderança</a>
+                <a href="index.php?page=igreja/dicionariobiblico" class="dropdown-item">Dicionário Bíblico</a>
                 <a href="index.php?page=igreja/louvoradoracao" class="dropdown-item">Louvor e Adoração</a>
-                <a href="index.php?page=igreja/doutrina" class="dropdown-item">Doutrina</a>
-                <a href="index.php?page=igreja/ensinamentos" class="dropdown-item">Ensinamentos</a>
+                <a href="index.php?page=igreja/doutrina" class="dropdown-item">Doutrinas</a>
+                <a href="index.php?page=igreja/costumes" class="dropdown-item">Costumes de Tradições</a>
               </div>
             </div>
             <script>
@@ -86,8 +84,8 @@
               <a href="index.php?page=estudos/estudos" class="nav-link dropdown-toggle" id="estudosDropdown" data-bs-toggle="dropdown">Estudos</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=estudos/biblia" class="dropdown-item">A Bíblia</a>
-                <a href="index.php?page=estudos/oquee" class="dropdown-item">O que é</a>
-                <a href="index.php?page=estudos/quemfoi" class="dropdown-item">Quem foi</a>
+                <a href="index.php?page=estudos/oquee" class="dropdown-item">O que é?</a>
+                <a href="index.php?page=estudos/personagens" class="dropdown-item">Personagens Bíblicos</a>
                 <a href="index.php?page=estudos/novotestamento" class="dropdown-item">Novo Testamento</a>
                 <a href="index.php?page=estudos/antigotestamento" class="dropdown-item">Antigo Testamento</a>
                 <a href="index.php?page=estudos/graca" class="dropdown-item">A graça de Deus</a>
@@ -122,17 +120,19 @@
                 });
               </script>
              <div class="nav-item dropdown">
-              <a href="index.php?page=temas/temas" class="nav-link dropdown-toggle" id="temasDropdown" data-bs-toggle="dropdown">Temas</a>
+              <a href="index.php?page=ministerio/ministerio" class="nav-link dropdown-toggle" id="ministerioDropdown" data-bs-toggle="dropdown">Ministério</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="index.php?page=temas/ministerio" class="dropdown-item">Ministério</a>
-                <a href="index.php?page=temas/relacionamentos" class="dropdown-item">Relacionamento</a>
-                <a href="index.php?page=temas/ensinamentos" class="dropdown-item">Ensinamentos</a>
-                <a href="index.php?page=temas/cartas" class="dropdown-item">As Cartas</a>
+                <a href="index.php?page=temas/ministerio" class="dropdown-item">Família</a>
+                <a href="index.php?page=temas/relacionamentos" class="dropdown-item">Ministério e Liderança</a>
+                <a href="index.php?page=temas/ensinamentos" class="dropdown-item">Ministério de Infantil</a>                  
+                <a href="index.php?page=temas/ensinamentos" class="dropdown-item">Ministério de Mulheres</a>                  
+                <a href="index.php?page=temas/cartas" class="dropdown-item">Cartas do Apósolo</a>
+                <a href="index.php?page=temas/cartas" class="dropdown-item">Culto de Doutrina</a>
                 <a href="" class="dropdown-item"></a>
               </div>
             </div>
             <script>
-                document.querySelector('#temasDropdown').addEventListener('click', function(e) {
+                document.querySelector('#ministerioDropdown').addEventListener('click', function(e) {
                   if (!e.target.closest('.dropdown-menu')) {
                     window.location.href = this.href;
                   }

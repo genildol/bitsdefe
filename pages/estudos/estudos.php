@@ -10,7 +10,7 @@
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-        <h2 class="display-8 mb-4">Estudos</h2>
+        <h2 class="display-8 mb-4">Estudo da Palavra de Deus</h2>
         <p>Where does it come from?
           Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
           literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
