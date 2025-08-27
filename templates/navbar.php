@@ -66,7 +66,7 @@
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=igreja/palavra" class="dropdown-item">A Palavra de Deus</a>
                 <a href="index.php?page=igreja/historiaigreja" class="dropdown-item">A história da Igreja</a>
-                <a href="index.php?page=igreja/dicionariobiblico" class="dropdown-item">Dicionário Bíblico</a>
+                <a href="index.php?page=igreja/dicionario" class="dropdown-item">Dicionário Bíblico</a>
                 <a href="index.php?page=igreja/louvoradoracao" class="dropdown-item">Louvor e Adoração</a>
                 <a href="index.php?page=igreja/doutrina" class="dropdown-item">Doutrinas</a>
                 <a href="index.php?page=igreja/costumes" class="dropdown-item">Costumes de Tradições</a>
