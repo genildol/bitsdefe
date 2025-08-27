@@ -9,36 +9,13 @@
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">A Igreja, o que é igreja e ser igreja</h2>
-        <p>Conheça mais sobre a história da Igreja, sua missão e os ensinamentos que moldaram a fé cristã ao longo dos séculos. Aqui falamos sobre ministério, liderança, louvor, adoração, doutrinas e a importância da comunhão entre os irmãos. Tudo baseado nas Escrituras.</p>
-
-          <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical         Latin
-          literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-          College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-          Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-          Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-          Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-          1.10.32.</p>
-
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-          dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-          nobis assumenda suscipit.</p>
-
-        <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
-          Latin
-          literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
-          Hampden-Sydney
-          College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-          Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-          Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-          Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-          1.10.32.</p>
-
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-          dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-          nobis assumenda suscipit.</p>
+        <p>O povo de Deus é chamado a viver em comunidade, a ser igreja. A igreja não é apenas um edifício, mas sim a reunião dos fiéis que buscam adorar a Deus e servir ao próximo. É um lugar de acolhimento, ensino e crescimento espiritual.</p>
+        <p>Ser igreja é viver em comunhão com outros crentes, compartilhando a fé, os valores e os ensinamentos de Jesus Cristo. É um chamado para amar ao próximo, ajudar os necessitados e ser luz no mundo.</p>
+        <p>O inicio da igreja foi formado com a vinda do Espírito Santo no dia de Pentecostes, quando os discípulos de Jesus foram capacitados a pregar o evangelho e a formar a primeira comunidade cristã. Atos 2:1-4</p>
+        <p> A igreja é chamada a ser o corpo de Cristo na Terra, a continuar sua missão de amor e serviço. Cada membro tem um papel único e importante a desempenhar, e juntos formamos uma comunidade que reflete a glória de Deus.</p>
+        <p>Como citado acima, a igreja não é templo, não é ter fazer a construção de alguma coisa física na terra, vai muito mais além. É seguir o exemplo de Jesus Cristo e viver em amor e serviço ao próximo. </p>
+        <p>Portanto, ser igreja é um chamado para todos os cristãos, um convite para viver em comunhão com Deus e com os outros, e para ser uma luz no mundo, refletindo o amor e a graça de Deus em todas as áreas da vida.</p>
+        <p>Os discipulos juntamente com os apóstolos foram fundamentais na formação da igreja primitiva, pregando o evangelho e estabelecendo comunidades de fé em todo o mundo. Eles foram os responsáveis por levar a mensagem de Cristo a todos os cantos da Terra. No livro de Atos dos Apóstolos, vemos o início dessa jornada transformadora na vida de Pedro.</p>
         </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Aumente seu conhecimento</h2>
