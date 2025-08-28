@@ -59,57 +59,39 @@
     </div>
   </div>
 </div>
-
 <!-- Features Start -->
 <div class="container-xxl py-5" >
   <div class="container">
-    <div class="row g-0 feature-row" >
-<div class="container" >
-  <section>
-      
       <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn btn-primary">A</button>
-      <button type="button" class="btn">B</button>
+      <button type="button" class="btn btn-primary">B</button>
       <button type="button" class="btn btn-primary">C</button>
-      <button type="button" class="btn btn-secondary">D</button>
-      <button type="button" class="btn btn-success">E</button>
-      <button type="button" class="btn btn-info">F</button>
-      <button type="button" class="btn btn-warning">G</button>
-      <button type="button" class="btn btn-danger">H</button>
-      <button type="button" class="btn btn-dark">I</button>
-      <button type="button" class="btn btn-light">J</button>
-      <button type="button" class="btn btn-link">L</button>
-  </section>
-</div>
-      
+      <button type="button" class="btn btn-primary">D</button>
+      <button type="button" class="btn btn-primary">E</button>
+      <button type="button" class="btn btn-primary">F</button>
+      <button type="button" class="btn btn-primary">G</button>
+      <button type="button" class="btn btn-primary">H</button>
+      <button type="button" class="btn btn-primary">I</button>
+      <button type="button" class="btn btn-primary">J</button>
+      <button type="button" class="btn btn-primary">K</button>
+      <button type="button" class="btn btn-primary">L</button>
+      <button type="button" class="btn btn-primary">M</button>
+      <button type="button" class="btn btn-primary">N</button>
+      <button type="button" class="btn btn-primary">O</button>
+      <button type="button" class="btn btn-primary">P</button>
+      <button type="button" class="btn btn-primary">Q</button>
+      <button type="button" class="btn btn-primary">R</button>
+      <button type="button" class="btn btn-primary">S</button>
+      <button type="button" class="btn btn-primary">T</button>
+      <button type="button" class="btn btn-primary">U</button>
+      <button type="button" class="btn btn-primary">V</button>
+      <button type="button" class="btn btn-primary">W</button>
+      <button type="button" class="btn btn-primary">X</button>
+      <button type="button" class="btn btn-primary">Y</button>
+      <button type="button" class="btn btn-primary">Z</button>
     </div>
   </div>
 </div>
-
-
 <!-- Features End -->
-
-
 <!-- About Start -->
 <div class="container my-5">
   <div class="row g-4">
@@ -526,10 +508,7 @@
       </div>
     </div>
   </div>
-<!-- </div> -->
-<?php
-require_once './templates/footer.php';
-?>
+  </div>
 <!-- Testimonial End -->
 
 

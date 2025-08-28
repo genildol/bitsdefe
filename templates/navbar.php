@@ -40,8 +40,18 @@
   </div>
   <!-- Spinner End -->
   <!-- INICIO DO PRIMEIRO TOPO -->
+      <div class="container-fluid bg-primary text-white d-none d-lg-flex">
+      <div class="container py-3">
+        <div class="d-flex align-items-center">
+          <a href="index.php?page=home">
+            <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
+          </a>
+          <span class="ms-auto fw-bold text-warning"> Em Desenvolvimento</span>
+        </div>
+      </div>
+    </div>
 
-  <div class="container-fluid bg-primary text-white d-none d-lg-flex">
+  <!-- <div class="container-fluid bg-primary text-white d-none d-lg-flex">
     <div class="container py-3">
       <div class="d-flex align-items-center">
         <a href="index.php?page=home">
@@ -49,7 +59,7 @@
         </a>
       </div>
     </div>
-  </div>
+  </div> -->
   <!-- FIM DO PRIMEIRO TOPO -->
   <!-- INICIO DO SEGUNDO TOPO -->
   <div class="container-fluid bg-white sticky-top">
