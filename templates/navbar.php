@@ -188,4 +188,5 @@
   <script src="./public/assets/js/main.js"></script>
   <script src="./public/assets/js/bootstap.bunle.mi.js"></script>
   <script src="./public/assets/js/aos.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <!-- <script src="./public/assets/js/like.js"></script> -->
