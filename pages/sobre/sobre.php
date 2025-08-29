@@ -1,31 +1,42 @@
   <div class="container">
     <div class="row g-5">
-      <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <h2 class="display-8 mb-4">Sobre o Projeto Bits de Fé</h2>
+      <div class="col-lg-6 wow fadeInUp" class="mb-6" data-wow-delay="0.1s">
+
+        <h2 class="display-8 mb-6">📌 Sobre Nós – Bits de Fé</h2><br>
+        
+        <h3>✨ Quem Somos</h3>
          <p> O Bits de Fé nasceu com o desejo de compartilhar conhecimento bíblico de forma acessível, autêntica e profunda. Nossa missão é levar a mensagem do Evangelho a todos os públicos, usando a linguagem da fé com responsabilidade, amor e verdade. Somos movidos por princípios cristãos e pela certeza de que a Palavra de Deus transforma vidas.</p>
-         <p> literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
-          Hampden-Sydney</p>
-          <p>College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem</p>
-          <p> Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and </p>
-          <p>Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the</p>
-          Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-          1.10.32.</p>
+         <i>📖 “Ide por todo o mundo, pregai o evangelho a toda criatura.” (Marcos 16:15)</i>
+        <hr>
+         <h3>🎯 Missão</h3>
+         <p>Levar a mensagem transformadora do Evangelho a todas as pessoas, usando os recursos digitais como instrumento para edificação espiritual, reflexão cristã e fortalecimento da fé.</p>
+         <i>📖 “A fé vem pelo ouvir, e o ouvir pela palavra de Deus.” (Romanos 10:17)</i> 
+        <hr>
+        <h3>👁️ Visão</h3>
+        <p>Ser uma referência no uso da tecnologia para a propagação da Palavra de Deus, mostrando que fé e inovação podem caminhar juntas para impactar vidas em todas as nações.</p>
+        <i>📖 “E este evangelho do reino será pregado em todo o mundo, em testemunho a todas as nações, e então virá o fim.” (Mateus 24:14)</i>
+        <hr>
+        <h3>💎 Valores</h3>
+        <p>Os valores que nos guiam são:</p>
+        <ul>
+          <li   class="mb-2"><strong>Cristo no centro:</strong> Tudo o que fazemos tem como fundamento a vida e os ensinamentos de Jesus.
+          📖 “Porque dele, e por ele, e para ele, são todas as coisas.” (Romanos 11:36)</li>
+          <li   class="mb-2"><strong>Verdade e fidelidade bíblica:</strong>  A Palavra de Deus é nossa base inegociável.
+          📖 “Santifica-os na tua verdade; a tua palavra é a verdade.” (João 17:17)</li> 
+          <li  class="mb-2"><strong>📖 Compromisso com a Verdade:</strong> Acreditamos que a Bíblia é a Palavra de Deus e a base para nossa fé e prática. <i>2 Timóteo 3.15-16</i></li>
+          <li  class="mb-2"><strong>❤️ Amor e responsabilidade:</strong> Comunicamos com empatia, respeito e clareza.
+          📖 “Tudo o que vocês fizerem, façam com amor.” (1 Coríntios 16:14)</li>
+          <li  class="mb-2"><strong>🌍 Acessibilidade:</strong> Tornar o Evangelho compreensível para todas as idades e públicos.
+          📖 “Deixai vir a mim os pequeninos, e não os impeçais, porque dos tais é o reino de Deus.” (Marcos 10:14)</li>
+          <li  class="mb-2"><strong>🤝 Inovação para o bem:</strong> Usar a tecnologia como ferramenta para edificação e não apenas informação.
+          📖 “Portanto, quer comais, quer bebais, ou façais qualquer outra coisa, fazei tudo para a glória de Deus.” (1 Coríntios 10:31)</li>
+        </ul>
+        <hr>
+        <h3>💡 Nosso Propósito</h3>
+        <p>Nosso propósito é ser um canal de bênção, edificação e transformação, ajudando pessoas a conhecerem mais sobre Deus, fortalecerem sua fé e viverem de acordo com os princípios bíblicos.</p>
+        <p>Mais do que informar, o Bits de Fé existe para transformar vidas. Cada estudo, reflexão e conteúdo publicado é guiado pela convicção de que a Palavra de Deus é viva e eficaz e continua sendo a resposta para os desafios do nosso tempo.</p>
+        <i>📖 “Porque a palavra de Deus é viva e eficaz, e mais penetrante do que espada alguma de dois gumes.” (Hebreus 4:12)</i>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-          dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-          nobis assumenda suscipit.</p>
-
-        <p>Where does it come from?</p>
-        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical</p>
-         
-        <p>  Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-        Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the </p>
-        Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-        dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-        nobis assumenda suscipit.</p>
 
       </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">

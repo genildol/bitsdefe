@@ -60,32 +60,32 @@
 <!-- Features Start -->
 <div class="container-xxl py-5" >
 	<div class="container">
-			<button type="button" class="btn btn-primary">A</button>
-			<button type="button" class="btn btn-primary">B</button>
-			<button type="button" class="btn btn-primary">C</button>
-			<button type="button" class="btn btn-primary">D</button>
-			<button type="button" class="btn btn-primary">E</button>
-			<button type="button" class="btn btn-primary">F</button>
-			<button type="button" class="btn btn-primary">G</button>
-			<button type="button" class="btn btn-primary">H</button>
-			<button type="button" class="btn btn-primary">I</button>
-			<button type="button" class="btn btn-primary">J</button>
-			<button type="button" class="btn btn-primary">K</button>
-			<button type="button" class="btn btn-primary">L</button>
-			<button type="button" class="btn btn-primary">M</button>
-			<button type="button" class="btn btn-primary">N</button>
-			<button type="button" class="btn btn-primary">O</button>
-			<button type="button" class="btn btn-primary">P</button>
-			<button type="button" class="btn btn-primary">Q</button>
-			<button type="button" class="btn btn-primary">R</button>
-			<button type="button" class="btn btn-primary">S</button>
-			<button type="button" class="btn btn-primary">T</button>
-			<button type="button" class="btn btn-primary">U</button>
-			<button type="button" class="btn btn-primary">V</button>
-			<button type="button" class="btn btn-primary">W</button>
-			<button type="button" class="btn btn-primary">X</button>
-			<button type="button" class="btn btn-primary">Y</button>
-			<button type="button" class="btn btn-primary">Z</button>
+			<a href="index.php?page=igreja/dicionario/a" class="btn btn-primary">A</a>
+			<a href="index.php?page=igreja/dicionario/b" class="btn btn-primary">B</a>
+			<a href="index.php?page=igreja/dicionario/c" class="btn btn-primary">C</a>
+			<a href="index.php?page=igreja/dicionario/d" class="btn btn-primary">D</a>
+			<a href="index.php?page=igreja/dicionario/e" class="btn btn-primary">E</a>
+			<a href="index.php?page=igreja/dicionario/f" class="btn btn-primary">F</a>
+			<a href="index.php?page=igreja/dicionario/g" class="btn btn-primary">G</a>
+			<a href="index.php?page=igreja/dicionario/h" class="btn btn-primary">H</a>
+			<a href="index.php?page=igreja/dicionario/i" class="btn btn-primary">I</a>
+			<a href="index.php?page=igreja/dicionario/j" class="btn btn-primary">J</a>
+			<a href="index.php?page=igreja/dicionario/k" class="btn btn-primary">K</a>
+			<a href="index.php?page=igreja/dicionario/l" class="btn btn-primary">L</a>
+			<a href="index.php?page=igreja/dicionario/m" class="btn btn-primary">M</a>
+			<a href="index.php?page=igreja/dicionario/n" class="btn btn-primary">N</a>
+			<a href="index.php?page=igreja/dicionario/o" class="btn btn-primary">O</a>
+			<a href="index.php?page=igreja/dicionario/p" class="btn btn-primary">P</a>
+			<a href="index.php?page=igreja/dicionario/q" class="btn btn-primary">Q</a>
+			<a href="index.php?page=igreja/dicionario/r" class="btn btn-primary">R</a>
+			<a href="index.php?page=igreja/dicionario/s" class="btn btn-primary">S</a>
+			<a href="index.php?page=igreja/dicionario/t" class="btn btn-primary">T</a>
+			<a href="index.php?page=igreja/dicionario/u" class="btn btn-primary">U</a>
+			<a href="index.php?page=igreja/dicionario/v" class="btn btn-primary">V</a>
+			<a href="index.php?page=igreja/dicionario/w" class="btn btn-primary">W</a>
+			<a href="index.php?page=igreja/dicionario/x" class="btn btn-primary">X</a>
+			<a href="index.php?page=igreja/dicionario/y" class="btn btn-primary">Y</a>
+			<a href="index.php?page=igreja/dicionario/z" class="btn btn-primary">Z</a>
 		</div>
 	</div>
 </div>
@@ -336,11 +336,6 @@
         </div>
   </div>
 <!-- Project End -->
-<!-- Quote Start -->
-  <div class="container-xxl py-5">
-    <h1>ALGUM CONTEÚDO AQUI</h1>
-  </div>
-<!-- Quote Start -->
 <!-- Team Start -->
 <div class="container-xxl py-5">
 	<div class="container">

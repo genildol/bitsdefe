@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
   <meta charset="utf-8">
   <title>Bits de Fé</title>
@@ -50,16 +49,6 @@
         </div>
       </div>
     </div>
-
-  <!-- <div class="container-fluid bg-primary text-white d-none d-lg-flex">
-    <div class="container py-3">
-      <div class="d-flex align-items-center">
-        <a href="index.php?page=home">
-          <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
-        </a>
-      </div>
-    </div>
-  </div> -->
   <!-- FIM DO PRIMEIRO TOPO -->
   <!-- INICIO DO SEGUNDO TOPO -->
   <div class="container-fluid bg-white sticky-top">
