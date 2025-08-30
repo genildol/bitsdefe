@@ -43,8 +43,9 @@
       <div class="container py-3">
         <div class="d-flex align-items-center">
           <a href="index.php?page=home">
-            <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
+            <img src="./public/assets/bitsdefe1.png" width="80" height="80" alt="Logo do Site Bits de Fé">
           </a>
+            <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
           <span class="ms-auto fw-bold text-warning"> Em Desenvolvimento</span>
         </div>
       </div>
