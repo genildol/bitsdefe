@@ -71,7 +71,8 @@
         <p>Portanto, a graça de Deus é um tema fundamental na fé cristã e nos convida a refletir sobre o amor de Deus, a nossa necessidade de salvação e a importância de viver em comunhão com Ele. É um lembrete constante de que, apesar de nossas imperfeições, somos amados e aceitos por Deus através de Jesus Cristo.</p>
 
         <p>Em resumo, a graça de Deus é um presente imerecido que nos oferece salvação, transformação e esperança. É através da fé em Jesus Cristo que recebemos essa graça, que nos capacita a viver de acordo com a vontade de Deus e a experimentar Sua presença em nossas vidas.</p>
-
+          <i>📖 “A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza.” (2 Coríntios 12:9)</i>
+          
       </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Quem foi...</h2>

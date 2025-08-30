@@ -77,7 +77,7 @@
         <p> Podemos citar também que o Novo Testamento é uma fonte rica de ensinamentos morais e éticos, oferecendo orientações sobre como os cristãos devem viver suas vidas em conformidade com os princípios do Reino de Deus. Ele aborda questões como o amor ao próximo, a humildade, a justiça, a honestidade, a pureza e a santidade, fornecendo um padrão para a conduta cristã.</p>
 
         <p>Em resumo, o Novo Testamento é uma parte vital da Bíblia que narra a vida e os ensinamentos de Jesus Cristo, bem como o desenvolvimento da Igreja primitiva. Ele é a base da fé cristã e oferece orientação espiritual e moral para os crentes em todo o mundo.</p>
-
+        <i>📖 “Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus.” (Efésios 2:8)</i>
       </div>
       <!-- Testimonial Start -->
       <div class="container-xxl pt-5">

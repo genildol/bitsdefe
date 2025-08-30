@@ -100,9 +100,9 @@
   <div class="row g-3">
     <!-- Item 1 -->
     <div class="col-6 col-md-4 col-lg-2">
-      <button type="button" class="btn btn-primary w-100 collapse-toggle" data-target="#panel1">
-        Botão 1
-      </button>
+      <a href="index.php?page=igreja/dicionario/alphabet/aba" type="button" class="btn btn-primary w-100 collapse-toggle" data-target="#panel1">
+        Aba
+      </a>
       <div id="panel1" class="collapse mt-2">
         <div class="card card-body">Conteúdo 1</div>
       </div>
@@ -185,8 +185,8 @@
     });
   });
 </script>
-<div class="container-xxl pt-5">
-	<div class="row g-5">
+<!-- <div class="container-xxl pt-5"> -->
+	<div class="container">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
         <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
@@ -202,7 +202,8 @@
         <p>Navegue pelos menus, explore os temas e, acima de tudo, abra seu coração para ouvir o que Deus tem a dizer através da Sua Palavra. Este site não é apenas sobre respostas, mas também sobre perguntas sinceras — aquelas que movem a alma a buscar mais do Senhor.</p>
         <i>“Examinai tudo. Retende o bem.” — 1 Tessalonicenses 5:21</i>
       </div>
-</div>
+	<!-- </div> -->
+<!-- </div> -->
 <!-- About End -->
 <!-- Video Modal Start -->
 <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel"

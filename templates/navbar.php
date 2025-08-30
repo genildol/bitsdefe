@@ -43,7 +43,7 @@
       <div class="container py-3">
         <div class="d-flex align-items-center">
           <a href="index.php?page=home">
-            <img src="./public/assets/bitsdefe1.png" width="80" height="80" alt="Logo do Site Bits de Fé">
+            <img src="./public/assets/bits.png" width="50" height="50" alt="Logo do Site Bits de Fé">
           </a>
             <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
           <span class="ms-auto fw-bold text-warning"> Em Desenvolvimento</span>
@@ -144,7 +144,7 @@
                 <a href="index.php?page=mais/vidacrista" class="dropdown-item">Vida cristã</a>
                 <a href="index.php?page=mais/salvacao" class="dropdown-item">Salvação</a>
                 <a href="index.php?page=mais/curiosidades" class="dropdown-item">Curiosidades</a>
-                <a href="index.php?page=mais/versos" class="dropdown-item">Versículos</a>
+                <a href="index.php?page=mais/reflexoes" class="dropdown-item">Reflexões bíblicas</a>
                 <a href="index.php?page=mais/" class="dropdown-item"></a>
               </div>
             </div>

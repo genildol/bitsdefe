@@ -75,6 +75,7 @@
         <p>O Antigo Testamento também nos ensina sobre a importância da fé, da obediência e do arrependimento. Ele nos convida a refletir sobre nossa relação com Deus, a reconhecer nossa necessidade de Sua graça e a confiar em Suas promessas. Através das histórias de figuras como Abraão, Moisés, Davi e os profetas, aprendemos lições valiosas sobre a fidelidade de Deus e o chamado para vivermos em comunhão com Ele.</p>
 
         <p>Em resumo, o Antigo Testamento é uma parte essencial da Bíblia que nos ajuda a entender a história da salvação, a natureza de Deus e a preparação para a vinda de Jesus Cristo. Ele nos convida a refletir sobre nossa relação com Deus e a importância da fé e da obediência em nossa jornada espiritual.</p>
+        <i>📖 “O Senhor, teu Deus, suscitará um profeta do meio de ti, de teus irmãos, semelhante a mim; a ele ouvirás.” (Deuteronômio 18:15)</i>
       </div>
 
       <!-- Testimonial Start -->

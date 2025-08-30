@@ -1,7 +1,7 @@
 <!-- <div class="container-xxl py-5"> -->
   <div class="container">
     <div class="right d-flex justify-content-end mb-3">
-      <button type="button" onclick="likePage('versos')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+      <button type="button" onclick="likePage('reflexoes')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
       <span id="like-count">
         <button type="button" class="btn btn-outline-primary">0</button>
       </span>
@@ -9,7 +9,7 @@
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         
-        <h2 class="display-8 mb-4">Versículos inspiradores</h2>
+        <h2 class="display-8 mb-4">Reflexões bíblicas</h2>
         <p>Where does it come from?
           Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
           literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
@@ -38,12 +38,7 @@
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
 
-        <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
-          <span class="btn-lg-square bg-primary" style="width: 55px; height: 55px;">
-            <i class="fa fa-phone-alt text-white"></i>
-          </span>
-          <span class="fs-5 fw-medium mx-4">+012 345 6789</span>
-        </a>
+        
       </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h2 class="mb-4">Aumente seu conhecimento</h2>
