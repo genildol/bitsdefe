@@ -57,7 +57,7 @@
 		</div>
 	</div>
 </div>
-<!-- Features Start -->
+<!-- BOTÕES DO ALFABETO -->
 <div class="container-xxl py-5" >
 	<div class="container">
 			<a href="index.php?page=igreja/dicionario/a" class="btn btn-primary">A</a>
@@ -89,9 +89,8 @@
 		</div>
 	</div>
 </div>
-<!-- Features End -->
-<!-- About Start -->
-<!-- GRID: 6 por linha no desktop, quebra automaticamente em novas linhas -->
+<!-- BOTÕES DO ALFABETO End FIM -->
+<!-- About PALAVRAS RECENTES Start -->
 <div class="container my-4">
       <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
 			<p class="fs-5 fw-medium text-primary">Palavras recentes</p>
@@ -100,11 +99,13 @@
   <div class="row g-3">
     <!-- Item 1 -->
     <div class="col-6 col-md-4 col-lg-2">
-      <a href="index.php?page=igreja/dicionario/alphabet/aba" type="button" class="btn btn-primary w-100 collapse-toggle" data-target="#panel1">
+      <a type="button" class="btn btn-primary w-100 collapse-toggle" data-target="#panel1">
         Aba
       </a>
       <div id="panel1" class="collapse mt-2">
-        <div class="card card-body">Conteúdo 1</div>
+				<p>A palavra “Abba” é um termo aramaico que significa “pai”. É um dos poucos termos aramaicos incorporados ao Novo Testamento, uma língua que Jesus e Paulo usavam.
+        <a href="index.php?page=igreja/alphabet/aba">mais</a>
+				</p>
       </div>
     </div>
     <!-- Item 2 -->
@@ -113,7 +114,7 @@
         Botão 2
       </button>
       <div id="panel2" class="collapse mt-2">
-        <div class="card card-body">Conteúdo 2</div>
+        <p>Conteúdo 2</p>
       </div>
     </div>
     <!-- Item 3 -->
@@ -122,7 +123,7 @@
         Botão 3
       </button>
       <div id="panel3" class="collapse mt-2">
-        <div class="card card-body">Conteúdo 3</div>
+        <p>Conteúdo 3</p>
       </div>
     </div>
 
@@ -132,7 +133,7 @@
         Botão 4
       </button>
       <div id="panel4" class="collapse mt-2">
-        <div class="card card-body">Conteúdo 4</div>
+        <p>Conteúdo 4</p>
       </div>
     </div>
 
@@ -142,7 +143,7 @@
         Botão 5
       </button>
       <div id="panel5" class="collapse mt-2">
-        <div class="card card-body">Conteúdo 5</div>
+        <p>Conteúdo 5</p>
       </div>
     </div>
 
@@ -152,7 +153,7 @@
         Botão 6
       </button>
       <div id="panel6" class="collapse mt-2">
-        <div class="card card-body">Conteúdo 6</div>
+        <p>Conteúdo 6</p>
       </div>
     </div>
     <!-- …Repita mais itens: col-6 col-md-4 col-lg-2 (IDs únicos: panel7, panel8, …) -->
@@ -202,6 +203,68 @@
         <p>Navegue pelos menus, explore os temas e, acima de tudo, abra seu coração para ouvir o que Deus tem a dizer através da Sua Palavra. Este site não é apenas sobre respostas, mas também sobre perguntas sinceras — aquelas que movem a alma a buscar mais do Senhor.</p>
         <i>“Examinai tudo. Retende o bem.” — 1 Tessalonicenses 5:21</i>
       </div>
+			<div class="container-xxl py-5">
+	<div class="container">
+		<div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+			<p class="fs-5 fw-medium text-primary">Our Team</p>
+			<h6 class="display-5 mb-5"><h5> Our Expert People Ready to Help You</h5></h6>
+		</div>
+		<div class="row g-4">
+			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+				<div class="team-item rounded overflow-hidden pb-4">
+					<img class="img-fluid mb-4" src="img/team-1.jpg" alt="">
+					<h5>Alex Robin</h5>
+					<span class="text-primary">Founder & CEO</span>
+					<ul class="team-social">
+						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+				<div class="team-item rounded overflow-hidden pb-4">
+					<img class="img-fluid mb-4" src="img/team-2.jpg" alt="">
+					<h5>Adam Crew</h5>
+					<span class="text-primary">Co Founder</span>
+					<ul class="team-social">
+						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+				<div class="team-item rounded overflow-hidden pb-4">
+					<img class="img-fluid mb-4" src="img/team-3.jpg" alt="">
+					<h5>Boris Johnson</h5>
+					<span class="text-primary">Executive Manager</span>
+					<ul class="team-social">
+						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+				<div class="team-item rounded overflow-hidden pb-4">
+					<img class="img-fluid mb-4" src="img/team-4.jpg" alt="">
+					<h5>Robert Jordan</h5>
+					<span class="text-primary">Digital Marketer</span>
+					<ul class="team-social">
+						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
+						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
 	<!-- </div> -->
 <!-- </div> -->
 <!-- About End -->
@@ -326,80 +389,7 @@
 		</div>
 	</div>
 <!-- Service End -->
-<!-- Project Start -->
-  <div class="container-xxl pt-5">
-    <div class="row g-5">
-        <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-          <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
-          <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
-          
-          <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos com os desafios do mundo atual. Por meio de conteúdos relevantes, buscamos ajudar você a aplicar a verdade da Palavra de Deus nas decisões do dia a dia, fortalecendo sua caminhada com Cristo de forma autêntica e transformadora.</p>
-        </div>
-  </div>
-<!-- Project End -->
 <!-- Team Start -->
-<div class="container-xxl py-5">
-	<div class="container">
-		<div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-			<p class="fs-5 fw-medium text-primary">Our Team</p>
-			<h6 class="display-5 mb-5"><h5> Our Expert People Ready to Help You</h5></h6>
-		</div>
-		<div class="row g-4">
-			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-				<div class="team-item rounded overflow-hidden pb-4">
-					<img class="img-fluid mb-4" src="img/team-1.jpg" alt="">
-					<h5>Alex Robin</h5>
-					<span class="text-primary">Founder & CEO</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-				<div class="team-item rounded overflow-hidden pb-4">
-					<img class="img-fluid mb-4" src="img/team-2.jpg" alt="">
-					<h5>Adam Crew</h5>
-					<span class="text-primary">Co Founder</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-				<div class="team-item rounded overflow-hidden pb-4">
-					<img class="img-fluid mb-4" src="img/team-3.jpg" alt="">
-					<h5>Boris Johnson</h5>
-					<span class="text-primary">Executive Manager</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-				<div class="team-item rounded overflow-hidden pb-4">
-					<img class="img-fluid mb-4" src="img/team-4.jpg" alt="">
-					<h5>Robert Jordan</h5>
-					<span class="text-primary">Digital Marketer</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-  </div>
 </div>
 </div>
 </div>
