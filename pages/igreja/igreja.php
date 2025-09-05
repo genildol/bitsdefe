@@ -26,9 +26,7 @@
 
         </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-        <!-- <h2 class="mb-4">Aumente seu conhecimento</h2> -->
-        <?php require_once "./textos.php"; ?>
-        <?= tituloConhecimento(); ?>
+        <h2 class="mb-4">Aumente seu conhecimento</h2>
 
         <section class="noticias bg-light py-5">
           <div class="container">
