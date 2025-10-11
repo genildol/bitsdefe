@@ -13,14 +13,13 @@
         
         <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos com os desafios do mundo atual. Por meio de conteúdos relevantes, buscamos ajudar você a aplicar a verdade da Palavra de Deus nas decisões do dia a dia, fortalecendo sua caminhada com Cristo de forma autêntica e transformadora.</p>
 
-        <p>Nosso objetivo é tornar o estudo bíblico algo presente na rotina, mesmo em meio à correria da vida moderna. Acreditamos que a tecnologia pode ser usada como ferramenta de edificação e ensino, e por isso nosso conteúdo é pensado para pessoas que desejam crescer espiritualmente sem abrir mão da lógica, da organização e da busca por conhecimento.</p>
-
         <p>Se você está aqui, é porque busca respostas para perguntas profundas e significativas. Queremos que este site seja um ponto de partida para sua jornada de fé, onde cada tema abordado possa trazer luz às suas dúvidas e fortalecer sua caminhada com Deus.</p>
+
         <p>Explore nossos artigos, participe das discussões e sinta-se à vontade para compartilhar suas próprias reflexões. Juntos, podemos crescer em conhecimento e fé, sempre buscando a verdade que nos liberta.</p>
         <p>
 
         <p>Navegue pelos menus, explore os temas e, acima de tudo, abra seu coração para ouvir o que Deus tem a dizer através da Sua Palavra. Este site não é apenas sobre respostas, mas também sobre perguntas sinceras — aquelas que movem a alma a buscar mais do Senhor.</p>
-        <i>“Examinai tudo. Retende o bem.” — 1 Tessalonicenses 5:21</i>
+        <i><strong>“Examinai tudo. Retende o bem.” — 1 Tessalonicenses 5:21</strong></i>
       </div>
     <!-- Card 1 -->
     <div class="col-lg-4 col-md-6">
@@ -74,28 +73,28 @@
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="feature-item border h-100 p-5">
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-            <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
+            <img class="img-fluid" src="./public/assets/img/pecado/pecado.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">O que é o pecado?</a></h5>
+          <p class="mb-0">O pecado é a transgressão da lei de Deus, uma ofensa...</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
         <div class="feature-item border h-100 p-5">
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-            <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
+            <img class="img-fluid" src="./public/assets/img/cilada/cilada.jpg" alt="Icon" style="width: 200px; height: 110px;">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">A cilada...</a></h5>
+          <p class="mb-0">A cilada é uma armadilha ou engano que leva à queda espiritual...</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
         <div class="feature-item border h-100 p-5">
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-            <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
+            <img class="img-fluid" src="./public/assets/img/culto/culto.jpg" alt="Icon" style="width: 200px; height: 110px;">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">O culto a Deus</a></h5>
+          <p class="mb-0">O culto a Deus é a adoração e reverência devida ao Criador...</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
@@ -103,8 +102,8 @@
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
             <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">Trabalho...</a></h5>
+          <p class="mb-0">O trabalho é uma atividade realizada com o objetivo de produzir algo ou...</p>
         </div>
       </div>
     </div>
@@ -112,37 +111,37 @@
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
         <div class="feature-item border h-100 p-5">
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-            <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
+            <img class="img-fluid" src="./public/assets/img/alianca/alianca.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">Aliança com Deus</a></h5>
+          <p class="mb-0">A aliança com Deus é um compromisso sagrado que envolve fé e obediência...</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
         <div class="feature-item border h-100 p-5">
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-            <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
+            <img class="img-fluid" src="./public/assets/img/prova/prova.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">Prova de Fogo</a></h5>
+          <p class="mb-0">A prova de fogo é um teste rigoroso que revela a verdadeira natureza de algo...</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
         <div class="feature-item border h-100 p-5">
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-            <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
+            <img class="img-fluid" src="./public/assets/img/traicao/incompatibilidade.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">Incompatibilidade</a></h5>
+          <p class="mb-0">A incompatibilidade é a falta de harmonia ou adequação entre duas ou mais partes...</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
         <div class="feature-item border h-100 p-5">
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-            <img class="img-fluid" src="./public/assets/img/carousel-2.jpg" alt="Icon">
+            <img class="img-fluid" src="./public/assets/img/traicao/divergencias.jpg" alt="Icon">
           </div>
-          <h5 class="mb-3"><a href="">Award Winning</a></h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3"><a href="">Divergências</a></h5>
+          <p class="mb-0">As divergências são diferenças de opinião ou interpretação...</p>
         </div>
       </div>
     </div>
@@ -180,8 +179,8 @@
     <div class="col-lg-4 col-md-6">
       <div class="card text-center h-100">
         <div class="card-body">
-          <img src="img/icon/icon-3.png" class="mb-3" alt="Icon 3" style="width: 60px;">
-          <h5 class="card-title">Expert Support</h5>
+          <img src="./public/assets/img/icon/icons8-chama-48.png" alt="Icon 3" style="width: 60px;">
+          <h5 class="card-title">Expert Support t</h5>
           <p class="card-text">Vestibulum ut sem non libero consequat rhoncus. Cras dictum mauris et est pharetra, vel
             viverra risus.</p>
         </div>
@@ -216,8 +215,8 @@
 <div class="container-xxl py-5">
   <div class="container">
     <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-      <p class="fs-5 fw-medium text-primary">Our Services</p>
-      <h1 class="display-5 mb-5">Digital Marketing Services that We Offer</h1>
+      <!-- <p class="fs-5 fw-medium text-primary">Our Services</p> -->
+      <h3 class="display-8 mb-5">Digital Marketing Services that We Offer</h3>
     </div>
     <div class="row g-4">
       <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -398,65 +397,17 @@
   </div>
 </div>
 <!-- Project End -->
-
-
-<!-- Quote Start -->
 <div class="container-xxl py-5">
   <div class="container">
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <p class="fs-5 fw-medium text-primary">Get A Quote</p>
-        <h1 class="display-5 mb-4">Need Our Expert Help? We're Here!</h1>
-        <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita
-          erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
-        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-          eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
+        <p class="fs-5 fw-medium text-primary"><a href="...">Clique aqui e tenha a resposta...</a> </p>
+        <h5 class="display-5 mb-4"><h3> Deus realmente existe?</h3></h5>
+        <p>Sim, Deus existe, Ele é a fonte de toda a criação e está presente em nossas vidas.</p>
+        <p class="mb-4">Posso te mostrar algumas evidências da existencia de Deus, como a complexidade da vida, a beleza da natureza e a experiência humana de transcendência.</p>
        
       </div>
-      <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-        <h2 class="mb-4">Get A Free Quote</h2>
-        <div class="row g-3">
-          <div class="col-sm-6">
-            <div class="form-floating">
-              <input type="text" class="form-control" id="name" placeholder="Your Name">
-              <label for="name">Your Name</label>
-            </div>
-          </div>
-          <div class="col-sm-6">
-            <div class="form-floating">
-              <input type="email" class="form-control" id="mail" placeholder="Your Email">
-              <label for="mail">Your Email</label>
-            </div>
-          </div>
-          <div class="col-sm-6">
-            <div class="form-floating">
-              <input type="text" class="form-control" id="mobile" placeholder="Your Mobile">
-              <label for="mobile">Your Mobile</label>
-            </div>
-          </div>
-          <div class="col-sm-6">
-            <div class="form-floating">
-              <select class="form-select" id="service">
-                <option selected>Digital Marketing</option>
-                <option value="">Social Marketing</option>
-                <option value="">Content Marketing</option>
-                <option value="">E-mail Marketing</option>
-              </select>
-              <label for="service">Choose A Service</label>
-            </div>
-          </div>
-          <div class="col-12">
-            <div class="form-floating">
-              <textarea class="form-control" placeholder="Leave a message here" id="message"
-                style="height: 130px"></textarea>
-              <label for="message">Message</label>
-            </div>
-          </div>
-          <div class="col-12 text-center">
-            <button class="btn btn-primary w-100 py-3" type="submit">Submit Now</button>
-          </div>
-        </div>
-      </div>
+      
     </div>
   </div>
 </div>
