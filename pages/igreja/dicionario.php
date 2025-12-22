@@ -189,19 +189,7 @@
 <!-- <div class="container-xxl pt-5"> -->
 	<div class="container">
       <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-        <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
-        <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
-        
-        <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos com os desafios do mundo atual. Por meio de conteúdos relevantes, buscamos ajudar você a aplicar a verdade da Palavra de Deus nas decisões do dia a dia, fortalecendo sua caminhada com Cristo de forma autêntica e transformadora.</p>
-
-        <p>Nosso objetivo é tornar o estudo bíblico algo presente na rotina, mesmo em meio à correria da vida moderna. Acreditamos que a tecnologia pode ser usada como ferramenta de edificação e ensino, e por isso nosso conteúdo é pensado para pessoas que desejam crescer espiritualmente sem abrir mão da lógica, da organização e da busca por conhecimento.</p>
-
-        <p>Se você está aqui, é porque busca respostas para perguntas profundas e significativas. Queremos que este site seja um ponto de partida para sua jornada de fé, onde cada tema abordado possa trazer luz às suas dúvidas e fortalecer sua caminhada com Deus.</p>
-        <p>Explore nossos artigos, participe das discussões e sinta-se à vontade para compartilhar suas próprias reflexões. Juntos, podemos crescer em conhecimento e fé, sempre buscando a verdade que nos liberta.</p>
-        <p>
-
-        <p>Navegue pelos menus, explore os temas e, acima de tudo, abra seu coração para ouvir o que Deus tem a dizer através da Sua Palavra. Este site não é apenas sobre respostas, mas também sobre perguntas sinceras — aquelas que movem a alma a buscar mais do Senhor.</p>
-        <i>“Examinai tudo. Retende o bem.” — 1 Tessalonicenses 5:21</i>
+        <!-- <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2> -->
       </div>
 			<div class="container-xxl py-5">
 	<div class="container">
@@ -215,25 +203,13 @@
 					<img class="img-fluid mb-4" src="img/team-1.jpg" alt="">
 					<h5>Alex Robin</h5>
 					<span class="text-primary">Founder & CEO</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
-				</div>
+					</div>
 			</div>
 			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
 				<div class="team-item rounded overflow-hidden pb-4">
 					<img class="img-fluid mb-4" src="img/team-2.jpg" alt="">
 					<h5>Adam Crew</h5>
 					<span class="text-primary">Co Founder</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -241,12 +217,6 @@
 					<img class="img-fluid mb-4" src="img/team-3.jpg" alt="">
 					<h5>Boris Johnson</h5>
 					<span class="text-primary">Executive Manager</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
@@ -254,12 +224,6 @@
 					<img class="img-fluid mb-4" src="img/team-4.jpg" alt="">
 					<h5>Robert Jordan</h5>
 					<span class="text-primary">Digital Marketer</span>
-					<ul class="team-social">
-						<li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-						<li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-					</ul>
 				</div>
 			</div>
 		</div>
@@ -291,10 +255,6 @@
 <!-- Service Start -->
 <div class="container-xxl py-5">
 	<div class="container">
-		<div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-			<p class="fs-5 fw-medium text-primary">Our Services</p>
-			<h4 class="display-5 mb-5">Digital Marketing Services that We Offerfadsfss</h4>
-		</div>
 		<div class="row g-4">
 			<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
 				<div class="service-item position-relative h-100">
