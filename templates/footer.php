@@ -39,11 +39,11 @@
       </div>
       <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-4">Links Úteis</h4>
-        <a class="btn btn-link" href="">Home</a>
-        <a class="btn btn-link" href="">Contact Us</a>
-        <a class="btn btn-link" href="">Our Services</a>
-        <a class="btn btn-link" href="">Terms & Condition</a>
-        <a class="btn btn-link" href="">Support</a>
+        <a class="btn btn-link" href="index.php?page=home">Home</a>
+        <a class="btn btn-link" href="index.php?page=igreja/igreja">Igreja</a>
+        <a class="btn btn-link" href="index.php?page=estudos/estudos">Estudos</a>
+        <a class="btn btn-link" href="index.php?page=familia/familia">Família</a>
+        <a class="btn btn-link" href="index.php?page=ministerio/ministerio">Ministério</a>
       </div>
       <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-4">Business Hours</h4>
