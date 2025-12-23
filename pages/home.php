@@ -74,7 +74,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="./public/assets/img/pecado/pecado.jpg" alt="Icon">
+              <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/pecado/pecado.jpg" alt="Icon">
             </div>
             <h5 class="mb-3"><a href="">O que é o pecado?</a></h5>
             <p class="mb-0">O pecado é a transgressão da lei de Deus, uma ofensa...</p>
@@ -83,7 +83,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="./public/assets/img/cilada/cilada.jpg" alt="Icon" style="width: 200px; height: 110px;">
+              <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/cilada/cilada.jpg" alt="Icon" style="width: 200px; height: 110px;">
             </div>
             <h5 class="mb-3"><a href="">A cilada...</a></h5>
             <p class="mb-0">A cilada é uma armadilha ou engano que leva à queda espiritual...</p>
@@ -92,7 +92,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="./public/assets/img/culto/culto.jpg" alt="Icon" style="width: 200px; height: 110px;">
+              <img class="img-fluid" src="./public/assets/img/culto.jpg" alt="Icon" style="width: 200px; height: 110px;">
             </div>
             <h5 class="mb-3"><a href="">O culto a Deus</a></h5>
             <p class="mb-0">O culto a Deus é a adoração e reverência devida ao Criador...</p>
@@ -112,7 +112,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="./public/assets/img/alianca/alianca.jpg" alt="Icon">
+              <img class="img-fluid" src="./public/assets/img/alianca.jpg" alt="Icon">
             </div>
             <h5 class="mb-3"><a href="">Aliança com Deus</a></h5>
             <p class="mb-0">A aliança com Deus é um compromisso sagrado que envolve fé e obediência...</p>
@@ -121,7 +121,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="./public/assets/img/prova/prova.jpg" alt="Icon">
+              <img class="img-fluid" src="./public/assets/img/prova.jpg" alt="Icon">
             </div>
             <h5 class="mb-3"><a href="">Prova de Fogo</a></h5>
             <p class="mb-0">A prova de fogo é um teste rigoroso que revela a verdadeira natureza de algo...</p>
@@ -130,7 +130,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="./public/assets/img/traicao/incompatibilidade.jpg" alt="Icon">
+              <img class="img-fluid" src="./public/assets/img/incompatibilidade.jpg" alt="Icon">
             </div>
             <h5 class="mb-3"><a href="">Incompatibilidade</a></h5>
             <p class="mb-0">A incompatibilidade é a falta de harmonia ou adequação entre duas ou mais partes...</p>
@@ -139,7 +139,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="./public/assets/img/traicao/divergencias.jpg" alt="Icon">
+              <img class="img-fluid" src="./public/assets/img/divergencias.jpg" alt="Icon">
             </div>
             <h5 class="mb-3"><a href="">Divergências</a></h5>
             <p class="mb-0">As divergências são diferenças de opinião ou interpretação...</p>
