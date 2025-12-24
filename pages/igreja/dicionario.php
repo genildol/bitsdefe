@@ -111,10 +111,10 @@
 				<!-- Item 2 -->
 				<div class="col-6 col-md-4 col-lg-2">
 					<a type="button" class="btn btn-primary w-100 collapse-toggle" data-target="#panel2">
-						Apóstata
+						Transitório
 					</a>
 					<div id="panel2" class="collapse mt-2">
-						<p>Apóstata é a pessoa que, tendo conhecido a verdade do evangelho e participado da fé cristã, abandona deliberadamente a fé, rejeitando a Cristo e os ensinamentos. <a href="index.php?page=igreja/alphabet/apostata">mais</a></p>
+						<p>Paulo está comparando o ministério da Lei (a "ministração da condenação") com o ministério do Espírito (a "ministração da justiça"). <a href="index.php?page=igreja/alphabet/transitorio">mais</a></p>
 					</div>
 				</div>
 				<!-- Item 3 -->

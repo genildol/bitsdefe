@@ -9,20 +9,54 @@
   <div class="row g-5">
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
       <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-      <h2 class="display-8 mb-4">Apóstata, o que é? O faz uma pessoa se tornar um apóstata?</h2>
+      <h2 class="display-8 mb-4">O que é um culto a Deus? Por que o culto a Deus é importante?</h2>
 
-      <h6 class="mb2">Definição</h6>
+      <p>De acordo com a Bíblia, culto a Deus é a expressão sincera de adoração, reverência, obediência e entrega do ser humano ao Senhor. Cultuar a Deus não se limita a um local, ritual ou momento específico, mas envolve uma vida dedicada a Ele. A palavra “culto” na Bíblia está relacionada a serviço, honra e adoração prestadas a Deus com sinceridade de coração.</p>
 
-      <p>Apóstata é uma pessoa que abandonou a fé cristã, rejeitando os princípios e doutrinas do evangelho. A palavra vem do grego "apostasia", que significa "deserção" ou "rebelião".</p>
+      <h4 class="mb2">Como devemos adorar a Deus?</h4>
+      <p>Devemos adorar a Deus com todo o coração, mente e força, reconhecendo Sua santidade e glória. A adoração verdadeira é espiritual e sincera, não apenas externa (João 4:23–24).</p>
+      <ul>
+        <li>Tributai ao Senhor a glória devida ao seu nome; adorai o Senhor na beleza da santidade.” (Salmos 29:2)</li>
+        <li>“Apresentai os vossos corpos como sacrifício vivo… que é o vosso culto racional.” (Romanos 12:1)</li>
+        <li>“Os verdadeiros adoradores adorarão o Pai em espírito e em verdade.” (João 4:23–24)</li>
+      </ul>
+      <p>“Os verdadeiros adoradores adorarão o Pai em espírito e em verdade.” (João 4:23–24)</p>
 
-      <h6 class="mb2">Causas</h6>
-      <p>Uma pessoa pode se tornar apóstata por diversos motivos, como: </p>
-      <p>- Influência de falsas doutrinas ou filosofias;</p>
-      <p>- Dúvidas ou questionamentos não resolvidos sobre a fé;</p>
-      <p> </p>
+      <p>Cultuar a Deus é reconhecer quem Ele é e viver de modo que O glorifique.</p>
 
-      
-      
+      <h4 class="mb2">Qual é a forma correta de prestar um culto a Deus?</h4>
+      <p>A Bíblia ensina que Deus não aceita qualquer tipo de culto, mas um culto que seja verdadeiro, sincero e conforme a Sua vontade.</p>
+
+      <h5>1. Culto em espírito e em verdade</h5>
+      <p>O culto agradável a Deus não depende apenas de rituais externos, mas de um coração sincero e alinhado com a verdade da Palavra.</p>
+      <i>“Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade.” (João 4:24)</i>
+
+      <h5>2. Culto com reverência e temor</h5>
+      <p>Deus é amor, mas também é santo. O culto deve ser prestado com respeito, reverência e reconhecimento da Sua santidade.</p>
+      <i>“Sirvamos a Deus agradavelmente, com reverência e santo temor.” (Hebreus 12:28)</i>
+      <i>“Guarda o teu pé, quando entrares na casa de Deus.” (Eclesiastes 5:1)</i>
+
+      <h5>3. Culto com obediência</h5>
+      <p>Deus valoriza mais a obediência do que sacrifícios vazios. Um culto sem obediência perde o seu verdadeiro sentido. </p>
+
+      <p><i>“Obedeceu a Deus, e não sacrificou.” (1 Samuel 15:22)</i></p>
+      <p><i>“Se me amais, guardareis os meus mandamentos.” (João 14:15)</i></p>
+
+      <h5>4. Culto com coração sincero</h5>
+      <p>Deus rejeita a hipocrisia religiosa e aceita apenas o culto que vem de um coração quebrantado e verdadeiro.</p>
+      <i>“Este povo se aproxima de mim com a boca… mas o seu coração está longe de mim.” (Isaías 29:13)</i>
+      <i>“Coração quebrantado e contrito, não desprezarás, ó Deus.” (Salmos 51:17)</i>
+
+      <h5>5. Culto que envolve toda a vida</h5>
+      <p>O culto a Deus não acontece apenas nos encontros congregacionais, mas se manifesta no modo como o cristão vive diariamente.</p>
+      <i>“Tudo quanto fizerdes… fazei-o em nome do Senhor Jesus.” (Colossenses 3:17)</i>
+      <i>“Assim resplandeça a vossa luz diante dos homens.” (Mateus 5:16)</i>
+
+      <h5>Conclusão</h5>
+      <p>O culto a Deus é uma expressão de adoração, reverência, obediência e entrega do ser humano ao Senhor. Ele deve ser realizado com sinceridade, em espírito e em verdade, com respeito e obediência à Palavra de Deus. Biblicamente, cultuar a Deus é muito mais do que cantar, orar ou frequentar um templo. É viver para a glória de Deus, com fé, obediência, reverência e amor.</p>
+
+      <i>“Portanto, quer comais, quer bebais ou façais outra coisa qualquer, fazei tudo para a glória de Deus.” (1 Coríntios 10:31)</i>
+
     </div>
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
       <h2 class="mb-4">Fique por Dentro...</h2>

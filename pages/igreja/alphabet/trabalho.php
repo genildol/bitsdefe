@@ -9,37 +9,28 @@
   <div class="row g-5">
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
       <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-      <h2 class="display-8 mb-4">O que é o Pecado?</h2>
+      <h2 class="display-8 mb-4">O Trabalho e o Comportamento do Cristão à Luz da Palavra de Deus</h2>
 
-      <h6 class="mb2">Definição do pecado segundo a Bíblia</h6>
+      <h6 class="mb2"></h6>
 
-      <p>O pecado é a transgressão da lei de Deus, uma ofensa contra a vontade divina e uma ruptura com o relacionamento com Ele. A Bíblia define o pecado como "a falta de conformidade com a lei de Deus" (Romanos 3:23).</p>
+      <p>O trabalho faz parte do plano de Deus desde a criação. Antes mesmo da queda, o Senhor confiou ao homem a responsabilidade de cuidar daquilo que havia sido criado: “Tomou, pois, o Senhor Deus o homem e o colocou no jardim do Éden para o cultivar e o guardar” (Gênesis 2:15). Assim, o trabalho não é uma maldição, mas um meio pelo qual o ser humano exerce responsabilidade, dignidade e serviço diante de Deus. </p>
 
-      <p>A Escritura define o pecado de forma clara: “Qualquer que comete pecado também comete iniqüidade, porque o pecado é iniqüidade” (1 João 3:4). Desde a queda de Adão e Eva, o pecado passou a fazer parte da condição humana, trazendo separação espiritual: “Portanto, como por um homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens” (Romanos 5:12).</p>
+      <p>Na perspectiva bíblica, o cristão deve compreender que seu trabalho é uma forma de adoração. O apóstolo Paulo ensina: “E tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor e não para homens” (Colossenses 3:23). Essa orientação transforma a maneira de trabalhar, pois o cristão não age apenas para agradar superiores ou buscar reconhecimento humano, mas para honrar a Deus em todas as suas atitudes.</p>
 
-      <p>O pecado pode se manifestar em ações, palavras, pensamentos e omissões. A Bíblia mostra que até deixar de fazer o bem quando se sabe o que é certo também é pecado: “Aquele, pois, que sabe fazer o bem e o não faz, comete pecado” (Tiago 4:17). Jesus ensinou que o pecado começa no coração do homem: “Porque do coração procedem os maus pensamentos” (Mateus 15:19).</p>
+      <p>O comportamento cristão no ambiente de trabalho deve ser marcado pela honestidade e integridade. A Palavra de Deus condena a desonestidade e valoriza a justiça: “Balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer” (Provérbios 11:1). Agir com retidão, cumprir horários, respeitar regras e falar a verdade são testemunhos práticos da fé cristã.</p>
 
-      <h6 class="mb2">Consequências do Pecado</h6>
-      <p>O pecado traz consequências espirituais, morais e físicas. Ele separa o ser humano de Deus e pode levar à morte espiritual, ao sofrimento e à destruição.</p>
-      <p>O pecado é tudo aquilo que contraria a vontade, a lei e o caráter santo de Deus. Na Bíblia, o pecado não é apenas um erro humano, mas uma transgressão consciente ou inconsciente contra os mandamentos do Senhor, que rompe a comunhão entre Deus e o homem.</p>
+      <p>Além disso, o cristão é chamado a agir com humildade e respeito nas relações profissionais. A Bíblia orienta: “Nada façais por contenda ou por vanglória, mas por humildade, considerando cada um os outros superiores a si mesmo” (Filipenses 2:3). Essa postura ajuda a evitar disputas, invejas e rivalidades, que são causas comuns de conflitos no ambiente de trabalho.</p>
 
-      <p>A consequência do pecado é a morte espiritual e eterna, se não houver arrependimento: “Porque o salário do pecado é a morte” (Romanos 6:23). No entanto, Deus, em Seu amor e misericórdia, providenciou um meio de perdão e reconciliação por meio de Jesus Cristo: “Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores” (Romanos 5:8).</p>
+      <p>Para evitar conflitos, o cristão deve ser pacificador. Jesus declarou: “Bem-aventurados os pacificadores, porque serão chamados filhos de Deus” (Mateus 5:9). Isso significa buscar o diálogo, evitar palavras duras e não reagir com ira. A Palavra aconselha: “A resposta branda desvia o furor, mas a palavra dura suscita a ira” (Provérbios 15:1). Saber ouvir, falar com sabedoria e controlar as emoções são atitudes que promovem a paz.</p>
 
-      <h6 class="mb2">Redenção do Pecado</h6>
-      <p>Através de Jesus Cristo, a humanidade pode ser redimida do pecado. Sua morte na cruz e ressurreição oferecem perdão e reconciliação com Deus para aqueles que creem nEle.</p>
+      <p>Quando surgem injustiças ou situações difíceis, o cristão deve confiar em Deus e agir com maturidade espiritual. A Bíblia ensina: “Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus” (Romanos 12:19). Em vez de revidar ou alimentar ressentimentos, o cristão é chamado a perseverar, orar e agir corretamente, mesmo quando não é reconhecido.</p>
 
-      <p><i>E digo-vos que todo aquele que me confessar diante dos homens também o Filho do homem o confessará diante dos anjos de Deus.</i><i> (Lucas 12:8)</i></p>
+      <p>Outro princípio fundamental é a submissão e o respeito às autoridades no ambiente profissional. A Escritura afirma: “Servos, obedecei em tudo a vossos senhores segundo a carne, não servindo apenas para agradar a homens, mas em sinceridade de coração, temendo a Deus” (Colossenses 3:22). Embora o contexto bíblico seja antigo, o princípio permanece válido para as relações de trabalho atuais, ensinando respeito, responsabilidade e compromisso.</p>
 
-      <p>Felizmente, a Bíblia também oferece esperança através da redenção do pecado. Através de Jesus Cristo, a humanidade pode ser reconciliada com Deus e receber o perdão dos pecados.</p>
+      <p>Por fim, o cristão deve lembrar que seu testemunho no trabalho pode conduzir outras pessoas a conhecerem a Cristo. Jesus ensinou: “Assim brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus” (Mateus 5:16). Um comportamento ético, humilde e pacífico fala mais alto do que palavras e reflete a presença de Deus na vida do trabalhador cristão.</p>
 
-      <p><i>E, ouvindo eles isto, compungiram-se em seu coração, e perguntaram a Pedro e aos demais apóstolos: Que faremos, homens irmãos? (Atos 2:37)</i></p>
-
-      <p><i>E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, em remissão de pecados; e recebereis o dom do Espírito Santo; (Atos 2:38)</i></p>
-
-      <p><i>Porque a promessa vos diz respeito a vós, a vossos filhos, e a todos os que estão longe, a tantos quantos Deus nosso Senhor chamar. (Atos 2:39)</i></p>
-
-      <p>A Bíblia ensina que o perdão do pecado é concedido àqueles que se arrependem e confessam: “Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados” (1 João 1:9). Assim, o pecado revela a necessidade do ser humano da graça de Deus e da salvação oferecida em Cristo.</p>
-
+      <h6 class="mb2">Conclusão</h6>
+      <p>Segundo a Bíblia, o trabalho é uma dádiva de Deus, e o cristão deve exercê-lo com excelência, honestidade, humildade e amor, buscando sempre a paz e evitando conflitos. Dessa forma, o ambiente profissional torna-se um campo de testemunho, onde o nome do Senhor é glorificado por meio das atitudes diárias.</p>
 
     </div>
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">

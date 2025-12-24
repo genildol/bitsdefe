@@ -9,37 +9,17 @@
   <div class="row g-5">
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
       <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-      <h2 class="display-8 mb-4">O que é o Pecado?</h2>
+      <h2 class="display-8 mb-4">Qual siginificado da palavra transitório?</h2>
 
-      <h6 class="mb2">Definição do pecado segundo a Bíblia</h6>
+      <h6 class="mb2">O Significado de transitório (2 Coríntios 3:11)</h6>
 
-      <p>O pecado é a transgressão da lei de Deus, uma ofensa contra a vontade divina e uma ruptura com o relacionamento com Ele. A Bíblia define o pecado como "a falta de conformidade com a lei de Deus" (Romanos 3:23).</p>
+      <p>Em 2 Coríntios 3:11, o apóstolo Paulo emprega o termo “transitório” para descrever a Antiga Aliança, vinculada ao ministério da Lei entregue por meio de Moisés. Embora essa aliança tenha sido acompanhada de glória, ela possuía um caráter temporário, pois tinha como propósito revelar o pecado e conduzir o povo até Cristo, sem, contudo, oferecer salvação definitiva. Com a vinda da Nova Aliança, aquilo que era provisório perdeu sua função, dando lugar a uma obra superior e permanente, realizada pelo Espírito Santo. Por isso, Paulo afirma que, se o que era passageiro foi estabelecido com glória, muito maior é a glória do que permanece (2 Coríntios 3:11), pois agora a lei não está mais gravada em tábuas de pedra, mas escrita nos corações (Jeremias 31:31–33; 2 Coríntios 3:6)..</p>
 
-      <p>A Escritura define o pecado de forma clara: “Qualquer que comete pecado também comete iniqüidade, porque o pecado é iniqüidade” (1 João 3:4). Desde a queda de Adão e Eva, o pecado passou a fazer parte da condição humana, trazendo separação espiritual: “Portanto, como por um homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens” (Romanos 5:12).</p>
+      <p>No sentido geral, transitório refere-se a algo passageiro, que não possui duração permanente. No contexto bíblico, Paulo utiliza esse conceito para contrastar realidades temporais com verdades eternas, comparando o ministério da Lei, que produzia condenação, com o ministério do Espírito, que produz justiça e vida (2 Coríntios 3:9).</p>
 
-      <p>O pecado pode se manifestar em ações, palavras, pensamentos e omissões. A Bíblia mostra que até deixar de fazer o bem quando se sabe o que é certo também é pecado: “Aquele, pois, que sabe fazer o bem e o não faz, comete pecado” (Tiago 4:17). Jesus ensinou que o pecado começa no coração do homem: “Porque do coração procedem os maus pensamentos” (Mateus 15:19).</p>
+      <p>Ao falar da glória transitória, Paulo faz alusão à experiência de Moisés no Monte Sinai, quando o seu rosto resplandecia após falar com Deus (Êxodo 34:29–35). Aquela glória, embora real e impressionante, desaparecia com o tempo, simbolizando o caráter provisório da Antiga Aliança.</p>
 
-      <h6 class="mb2">Consequências do Pecado</h6>
-      <p>O pecado traz consequências espirituais, morais e físicas. Ele separa o ser humano de Deus e pode levar à morte espiritual, ao sofrimento e à destruição.</p>
-      <p>O pecado é tudo aquilo que contraria a vontade, a lei e o caráter santo de Deus. Na Bíblia, o pecado não é apenas um erro humano, mas uma transgressão consciente ou inconsciente contra os mandamentos do Senhor, que rompe a comunhão entre Deus e o homem.</p>
-
-      <p>A consequência do pecado é a morte espiritual e eterna, se não houver arrependimento: “Porque o salário do pecado é a morte” (Romanos 6:23). No entanto, Deus, em Seu amor e misericórdia, providenciou um meio de perdão e reconciliação por meio de Jesus Cristo: “Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores” (Romanos 5:8).</p>
-
-      <h6 class="mb2">Redenção do Pecado</h6>
-      <p>Através de Jesus Cristo, a humanidade pode ser redimida do pecado. Sua morte na cruz e ressurreição oferecem perdão e reconciliação com Deus para aqueles que creem nEle.</p>
-
-      <p><i>E digo-vos que todo aquele que me confessar diante dos homens também o Filho do homem o confessará diante dos anjos de Deus.</i><i> (Lucas 12:8)</i></p>
-
-      <p>Felizmente, a Bíblia também oferece esperança através da redenção do pecado. Através de Jesus Cristo, a humanidade pode ser reconciliada com Deus e receber o perdão dos pecados.</p>
-
-      <p><i>E, ouvindo eles isto, compungiram-se em seu coração, e perguntaram a Pedro e aos demais apóstolos: Que faremos, homens irmãos? (Atos 2:37)</i></p>
-
-      <p><i>E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, em remissão de pecados; e recebereis o dom do Espírito Santo; (Atos 2:38)</i></p>
-
-      <p><i>Porque a promessa vos diz respeito a vós, a vossos filhos, e a todos os que estão longe, a tantos quantos Deus nosso Senhor chamar. (Atos 2:39)</i></p>
-
-      <p>A Bíblia ensina que o perdão do pecado é concedido àqueles que se arrependem e confessam: “Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados” (1 João 1:9). Assim, o pecado revela a necessidade do ser humano da graça de Deus e da salvação oferecida em Cristo.</p>
-
+      <p>Em contraste, a glória da Nova Aliança é descrita como permanente e superior, pois está fundamentada na obra redentora de Cristo e na ação contínua do Espírito Santo. Diferente da antiga, essa aliança não se desvanece, mas permanece para sempre, refletindo a plenitude da graça e da justiça de Deus em Cristo (Hebreus 8:6; 2 Coríntios 3:17–18).</p>
 
     </div>
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">

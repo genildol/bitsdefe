@@ -26,10 +26,10 @@
   <div class="container py-5">
     <div class="row g-5">
       <div class="col-lg-3 col-md-6">
-        <h4 class="text-white mb-4">Our Office Teste</h4>
-        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+        <h4 class="text-white mb-4">Bits de Fé</h4>
+        <!-- <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p> -->
+        <p class="mb-2">Pregações, estudos bíblicos e recursos online para edificar o ministério,</p>
+        <p class="mb-2">fortalecer a fé e aprofundar o conhecimento da Palavra de Deus.</p>
         <div class="d-flex pt-3">
           <a class="btn btn-square btn-light rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
           <a class="btn btn-square btn-light rounded-circle me-2" href=""><i class="fab fa-facebook-f"></i></a>
@@ -46,19 +46,18 @@
         <a class="btn btn-link" href="index.php?page=ministerio/ministerio">Ministério</a>
       </div>
       <div class="col-lg-3 col-md-6">
-        <h4 class="text-white mb-4">Business Hours</h4>
-        <p class="mb-1">Monday - Friday</p>
-        <h6 class="text-light">09:00 am - 07:00 pm</h6>
-        <p class="mb-1">Saturday</p>
-        <h6 class="text-light">09:00 am - 12:00 pm</h6>
-        <p class="mb-1">Sunday</p>
-        <h6 class="text-light">Closed</h6>
+        <h4 class="text-white mb-4">Temas</h4>
+        <a class="btn btn-link" href="index.php?page=familia/familia">Jesus Cristo</a>
+        <a class="btn btn-link" href="index.php?page=home">Casamento</a>
+        <a class="btn btn-link" href="index.php?page=igreja/igreja">Salvação</a>
+        <a class="btn btn-link" href="index.php?page=estudos/estudos">Pecado</a>
+        <a class="btn btn-link" href="index.php?page=ministerio/ministerio">Trabalho</a>
       </div>
       <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-4">Sobre</h4>
         <a class="btn btn-link" href="index.php?page=sobre/credo">Credo</a>
         <a class="btn btn-link" href="index.php?page=sobre/sobre">Quem sou</a>
-        <a class="btn btn-link" href="index.php?page=sobre/contato">Contato</a>
+        <a class="btn btn-link" href="index.php?page=sobre/contato">Objetivo</a>
         <a class="btn btn-link" href="index.php?page=sobre/atualizacoes">Últimas Atualizações</a>
         <a class="btn btn-link" href="index.php?page=sobre/politica">Política de Privacidade</a>
       </div>
@@ -79,11 +78,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-        &copy; <a class="fw-medium text-light" href="#">Your Site Name</a>, All Right Reserved.
+        &copy; <a class="fw-medium text-light" href="#">2025</a>, Todos os direitos reservados.
       </div>
       <div class="col-md-6 text-center text-md-end">
-        Designed By <a class="fw-medium text-light" href="https://htmlcodex.com">HTML Codex</a>
-        Distributed By <a class="fw-medium text-light" href="https://themewagon.com">ThemeWagon</a>
+        Desenvolvido por <a class="fw-medium text-light" href="https://gsmicros.com.br" target="_blank">gsmicros</a>
+        <!-- Distributed By <a class="fw-medium text-light" href="https://themewagon.com">ThemeWagon</a> -->
       </div>
     </div>
   </div>
