@@ -101,7 +101,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
-              <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/carousel-2.jpg" alt="Icon">
+              <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/trabalho2.jpg" alt="Icon">
             </div>
             <h5 class="mb-3"><a href="index.php?page=igreja/alphabet/trabalho">Trabalho...</a></h5>
             <p class="mb-0">O trabalho é uma atividade realizada com o objetivo de produzir algo ou...</p>
