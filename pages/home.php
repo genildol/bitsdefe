@@ -76,7 +76,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/pecado.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="index.php?page=igreja/alphabet/pecado">O que é o pecado?</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/pecado">O que é o pecado?</a></h5>
             <p class="mb-0">O pecado é a transgressão da lei de Deus, uma ofensa...</p>
           </div>
         </div>
@@ -85,7 +85,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/cilada.jpg" alt="Icon" style="width: 200px; height: 110px;">
             </div>
-            <h5 class="mb-3"><a href="index.php?page=igreja/alphabet/cilada">A cilada...</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/cilada">A cilada...</a></h5>
             <p class="mb-0">A cilada é uma armadilha ou engano que leva à queda espiritual...</p>
           </div>
         </div>
@@ -94,7 +94,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/culto.jpg" alt="Icon" style="width: 200px; height: 110px;">
             </div>
-            <h5 class="mb-3"><a href="index.php?page=igreja/alphabet/culto">O culto a Deus</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/culto">O culto a Deus</a></h5>
             <p class="mb-0">O culto a Deus é a adoração e reverência devida ao Criador...</p>
           </div>
         </div>
@@ -103,7 +103,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/trabalho2.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="index.php?page=igreja/alphabet/trabalho">Trabalho...</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/trabalho">Trabalho...</a></h5>
             <p class="mb-0">O trabalho é uma atividade realizada com o objetivo de produzir algo ou...</p>
           </div>
         </div>
@@ -114,7 +114,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/alianca.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="">Aliança com Deus</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/">Aliança com Deus</a></h5>
             <p class="mb-0">A aliança com Deus é um compromisso sagrado que envolve fé e obediência...</p>
           </div>
         </div>
@@ -123,7 +123,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/prova.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="">Prova de Fogo</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/">Prova de Fogo</a></h5>
             <p class="mb-0">A prova de fogo é um teste rigoroso que revela a verdadeira natureza de algo...</p>
           </div>
         </div>
@@ -132,7 +132,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/incompatibilidade.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="">Incompatibilidade</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/incompatibilidade">Incompatibilidade</a></h5>
             <p class="mb-0">A incompatibilidade é a falta de harmonia ou adequação entre duas ou mais partes...</p>
           </div>
         </div>
@@ -141,7 +141,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/divergencias.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="">Divergências</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/divergencias">Divergências</a></h5>
             <p class="mb-0">As divergências são diferenças de opinião ou interpretação...</p>
           </div>
         </div>
@@ -149,7 +149,6 @@
     </div>
   </div>
   <!-- Features End -->
-
 
   <!-- About Start -->
   <div class="container my-5">
@@ -226,12 +225,11 @@
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
                 <img class="img-fluid" src="./public/assets/img/icon/icon-5.png" alt="Icon">
               </div>
-              <h5 class="mb-3">Digital Marketing</h4>
-                <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                  stet</p>
+              <h5 class="mb-3">Salvar o ser humano do pecado</h4>
+                <p class="mb-0">Essa é a missão central de Jesus. Ele veio para oferecer salvação e reconciliação com Deus. Tudo o que Jesus ensina</p>
             </div>
             <div class="service-btn rounded-0 rounded-bottom">
-              <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+              <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
             </div>
           </div>
         </div>
@@ -241,12 +239,11 @@
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
                 <img class="img-fluid" src="./public/assets/img/icon/icon-6.png" alt="Icon">
               </div>
-              <h5 class="mb-3">Internet Marketing</h4>
-                <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                  stet</p>
+              <h5 class="mb-3">Fazer discípulos e “pescadores de homens”</h4>
+                <p class="mb-0">Jesus não veio agir sozinho, mas formar pessoas que continuariam Sua obra. Ao chamar os discípulos, Ele os </p>
             </div>
             <div class="service-btn rounded-0 rounded-bottom">
-              <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+              <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
             </div>
           </div>
         </div>
@@ -256,12 +253,11 @@
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
                 <img class="img-fluid" src="./public/assets/img/icon/icon-7.png" alt="Icon">
               </div>
-              <h5 class="mb-3">Content Marketing</h4>
-                <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                  stet</p>
+              <h5 class="mb-3">Unir pessoas, povos e nações</h4>
+                <p class="mb-0">Jesus revela que o Reino de Deus não está limitado a um povo, língua ou cultura. Ele quebra barreiras religiosas e</p>
             </div>
             <div class="service-btn rounded-0 rounded-bottom">
-              <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+              <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
             </div>
           </div>
         </div>
@@ -271,12 +267,11 @@
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
                 <img class="img-fluid" src="./public/assets/img/icon/icon-8.png" alt="Icon">
               </div>
-              <h5 class="mb-3">Social Marketing</h4>
-                <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                  stet</p>
+              <h5 class="mb-3">Cuidar dos pobres, marginalizados e presos</h4>
+                <p class="mb-0">Jesus demonstra que o Reino de Deus se manifesta por meio da misericórdia prática. Ele se identifica com os que sofrem</p>
             </div>
             <div class="service-btn rounded-0 rounded-bottom">
-              <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+              <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
             </div>
           </div>
         </div>
@@ -286,12 +281,11 @@
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
                 <img class="img-fluid" src="./public/assets/img/icon/icon-9.png" alt="Icon">
               </div>
-              <h5 class="mb-3">B2B Marketing</h4>
-                <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                  stet</p>
+              <h5 class="mb-3">Mostrar quem é Deus</h4>
+                <p class="mb-0">Jesus veio revelar o caráter do Pai por meio de Suas palavras e atitudes. Por meio de Jesus, Deus se revela como amor, graça, justiça e verdade</p>
             </div>
             <div class="service-btn rounded-0 rounded-bottom">
-              <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+              <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
             </div>
           </div>
         </div>
@@ -301,12 +295,11 @@
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
                 <img class="img-fluid" src="./public/assets/img/icon/icon-10.png" alt="Icon">
               </div>
-              <h5 class="mb-3">E-mail Marketing</h4>
-                <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                  stet</p>
+              <h5 class="mb-3">Transformar vidas e a criação</h4>
+                <p class="mb-0">Jesus não veio apenas para perdoar pecados, mas para restaurar a dignidade humana e trazer vida plena. Jesus veio transformar vidas e a criação inteira.</p>
             </div>
             <div class="service-btn rounded-0 rounded-bottom">
-              <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+              <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
             </div>
           </div>
         </div>
