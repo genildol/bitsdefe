@@ -7,7 +7,7 @@
   <div class="row g-5">
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
 
-      <h2 class="display-8 mb-4">Um casamento em Deus</h2>
+      <h2 class="display-8 mb-4">Um casamento baseado em Deus</h2>
 
       <p>O casamento é uma instituição divina, estabelecida por Deus desde o princípio da criação. Na Bíblia, encontramos diversas passagens que destacam a importância do casamento e os princípios que devem nortear essa união sagrada.</p>
 
@@ -23,7 +23,7 @@
 
       <p>O amor é o fundamento do casamento. A Escritura ensina que o amor verdadeiro é paciente, bondoso e não busca seus próprios interesses, sendo essencial para a convivência diária do casal (1 Coríntios 13:4–7). Esse amor é uma escolha contínua, que se expressa em atitudes práticas, cuidado, perdão e dedicação. Marido e esposa são chamados a amar um ao outro como Cristo amou a Igreja, com entrega e sacrifício (Efésios 5:25).</p>
 
-      <p>A cumplicidade no casamento envolve caminhar juntos, compartilhar sonhos, decisões e responsabilidades. A Bíblia ensina que “melhor é serem dois do que um”, pois há apoio mútuo e fortalecimento nas dificuldades (Eclesiastes 4:9–12). A cumplicidade cria um ambiente de parceria, no qual o casal se ajuda, se encoraja e cresce junto.</p>
+      <p>A cumplicidade no casamento exige que marido e esposa caminhem juntos, compartilhando sonhos, decisões e responsabilidades, colocando o relacionamento conjugal como prioridade. A Bíblia ensina que, ao se casar, o homem e a mulher devem deixar pai e mãe para formar uma nova unidade, tornando-se uma só carne (Gênesis 2:24; Mateus 19:5). Quando outras pessoas — como pais, familiares ou amigos — passam a ocupar um lugar de influência maior do que o próprio cônjuge, a unidade do casal é enfraquecida, abrindo espaço para conflitos e afastamentos. Por isso, a Escritura reforça que “melhor é serem dois do que um”, pois a força do casamento está na parceria e no apoio mútuo entre marido e esposa (Eclesiastes 4:9–12). Priorizar o cônjuge fortalece a relação, preserva a aliança e contribui para um lar saudável, conforme o propósito de Deus (Efésios 5:31–33).</p>
 
       <p>A verdade e a confiança são pilares indispensáveis para um casamento saudável. A Palavra de Deus orienta que a mentira seja rejeitada e que a verdade seja praticada em amor (Efésios 4:25; Efésios 4:15). A confiança é construída com transparência, fidelidade e coerência entre palavras e atitudes, permitindo que o relacionamento seja seguro e estável (Provérbios 12:22).</p>
 
