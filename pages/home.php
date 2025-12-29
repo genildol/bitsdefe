@@ -158,9 +158,8 @@
         <div class="card text-center h-100">
           <div class="card-body">
             <img src="./public/assets/img/icon/icon-1.png" class="mb-3" alt="Icon 1" style="width: 60px;">
-            <h5 class="card-title">Marketing Strategies</h5>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor felis eu odio
-              efficitur.</p>
+            <h5 class="card-title">Sentido da Vida</h5>
+            <p class="card-text">Deus convida você a refletir sobre o verdadeiro sentido da existência e sobre as escolhas que têm moldado sua caminhada</p>
           </div>
         </div>
       </div>
@@ -169,9 +168,8 @@
         <div class="card text-center h-100">
           <div class="card-body">
             <img src="./public/assets/img/icon/icon-2.png" class="mb-3" alt="Icon 2" style="width: 60px;">
-            <h5 class="card-title">Business Growth</h5>
-            <p class="card-text">Pellentesque a metus a neque viverra porttitor in vel lectus. Proin efficitur lacus a
-              elit.</p>
+            <h5 class="card-title">Verdade que Confronta</h5>
+            <p class="card-text">A Bíblia conforta e confronta o coração humano. Deus nos leva a rever pensamentos, atitudes e caminhos, revelando o que precisa ser alinhado à vontade do Senhor</p>
           </div>
         </div>
       </div>
@@ -180,9 +178,8 @@
         <div class="card text-center h-100">
           <div class="card-body">
             <img src="./public/assets/img/icon/icons8-chama-48.png" alt="Icon 3" style="width: 60px;">
-            <h5 class="card-title">Expert Support t</h5>
-            <p class="card-text">Vestibulum ut sem non libero consequat rhoncus. Cras dictum mauris et est pharetra, vel
-              viverra risus.</p>
+            <h5 class="card-title">Tempo e Eternidade</h5>
+            <p class="card-text">O tempo passa, mas a eternidade permanece. Este conteúdo conduz você a refletir sobre como tem vivido hoje e como suas decisões ecoam na eternidade</p>
           </div>
         </div>
       </div>
@@ -216,7 +213,7 @@
     <div class="container">
       <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
         <!-- <p class="fs-5 fw-medium text-primary">Our Services</p> -->
-        <h3 class="display-8 mb-5">Digital Marketing Services that We Offer</h3>
+        <h3 class="display-8 mb-5">As principais mensagens de Jesus Cristo em sua missão</h3>
       </div>
       <div class="row g-4">
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -313,102 +310,68 @@
   <div class="container-xxl pt-5">
     <div class="container">
       <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-        <p class="fs-5 fw-medium text-primary">Our Projects</p>
-        <h1 class="display-5 mb-5">We've Done Lot's of Awesome Projects</h1>
+        <h2 class="fs-5 fw-medium text-primary">Pare e pense:</h2>
+        <h2 class="display-5 mb-5">O que realmente você quer de sua vida?</h2>
       </div>
       <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.1s">
         <div class="project-item mb-5">
-          <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/project-1.jpg" alt="">
-            <div class="project-overlay">
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-1.jpg"
-                data-lightbox="project"><i class="fa fa-eye"></i></a>
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
-            </div>
+          <div class="position-relative" height="400px">
+            <img class="img-fluid" src="./public/assets/img/osilencio1.PNG" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Data Analytics & Insights 01</a>
-            <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
+            <a class="d-block h5" href="">O Silêncio que revela: Quando Deus pergunta o que você quer da sua vida</a>
+            <span>Em meio ao barulho do mundo, das cobranças, das expectativas alheias e até...</span>
+          </div>
+        </div>
+
+        <div class="project-item mb-5">
+          <div class="position-relative">
+            <img class="img-fluid" src="./public/assets/img/prova1.jpg" alt="">
+          </div>
+          <div class="p-4">
+            <a class="d-block h5" href="">Escolhas invisíveis, consequências eternas</a>
+            <span>Grande parte da nossa vida é construída por escolhas que ninguém vê. Pensamentos...</span>
           </div>
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/project-2.jpg" alt="">
-            <div class="project-overlay">
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-2.jpg"
-                data-lightbox="project"><i class="fa fa-eye"></i></a>
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
-            </div>
+            <img class="img-fluid" src="./public/assets/img/casalidoso.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Marketing Content Strategy 2</a>
-            <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
+            <a class="d-block h5" href="">O tempo que passou não volta, mas pode ensinar</a>
+            <span>Há lembranças que nos alegram e outras que nos ferem. O passado carrega acertos</span>
           </div>
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/project-3.jpg" alt="">
-            <div class="project-overlay">
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-3.jpg"
-                data-lightbox="project"><i class="fa fa-eye"></i></a>
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
-            </div>
+            <img class="img-fluid" src="./public/assets/img/seducao.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Business Target Market 3</a>
-            <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
+            <a class="d-block h5" href="">O que você tem vivido reflete o que você crê</a>
+            <span>A vida que levamos revela aquilo em que realmente acreditamos. Não no discurso</span>
           </div>
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/project-4.jpg" alt="">
-            <div class="project-overlay">
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-4.jpg"
-                data-lightbox="project"><i class="fa fa-eye"></i></a>
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
-            </div>
+            <img class="img-fluid" src="./public/assets/img/perdido.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Social Marketing Strategy 4</a>
-            <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
+            <a class="d-block h5" href="">Dúvidas não são o fim, podem ser o começo</a>
+            <span>Dúvidas fazem parte da caminhada humana. Até grandes homens de Deus...</span>
           </div>
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/project-4.jpg" alt="">
-            <div class="project-overlay">
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-4.jpg"
-                data-lightbox="project"><i class="fa fa-eye"></i></a>
-              <a class="btn btn-lg-square btn-light rounded-circle m-1" href=""><i class="fa fa-link"></i></a>
-            </div>
+            <img class="img-fluid" src="./public/assets/img/idosopensando.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Social Marketing Strategy 5</a>
-            <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem</span>
+            <a class="d-block h5" href="">Quando tudo terminar, o que terá valido a pena?</a>
+            <span>No final da vida, nenhuma pessoa pergunta quanto dinheiro ganhou, mas se viveu com</span>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <!-- Project End -->
-  <div class="container-xxl py-5">
-    <div class="container">
-      <div class="row g-5">
-        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-          <p class="fs-5 fw-medium text-primary"><a href="...">Clique aqui e tenha a resposta...</a> </p>
-          <h5 class="display-5 mb-4">
-            <h3> Deus realmente existe?</h3>
-          </h5>
-          <p>Sim, Deus existe, Ele é a fonte de toda a criação e está presente em nossas vidas.</p>
-          <p class="mb-4">Posso te mostrar algumas evidências da existencia de Deus, como a complexidade da vida, a beleza da natureza e a experiência humana de transcendência.</p>
-
-        </div>
-
-      </div>
-    </div>
-  </div>
-  <!-- Quote Start -->
-
 
   <!-- Team Start -->
   <div class="container-xxl py-5">

@@ -168,8 +168,8 @@
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
             <img class="img-fluid" src="img/icon/icon-1.png" alt="Icon">
           </div>
-          <h5 class="mb-3">Award Winning</h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3">Amar a Esposa com Amor Sacrificial</h5>
+          <p class="mb-0">O principal dever do homem no casamento é amar sua esposa</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
@@ -177,8 +177,8 @@
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
             <img class="img-fluid" src="img/icon/icon-2.png" alt="Icon">
           </div>
-          <h5 class="mb-3">Professional Staff</h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3">Liderar a Família com Responsabilidade e Sabedoria</h5>
+          <p class="mb-0">A liderança do homem na família não é autoritarismo, mas serviço</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
@@ -186,8 +186,8 @@
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
             <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
           </div>
-          <h5 class="mb-3">Fair Prices</h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3">Prover e Cuidar do Lar</h5>
+          <p class="mb-0">O homem tem o dever de prover e zelar pelo bem-estar da família</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
@@ -195,8 +195,8 @@
           <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
             <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
           </div>
-          <h5 class="mb-3">24/7 Support</h5>
-          <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+          <h5 class="mb-3">Viver como Exemplo de Caráter Cristão</h5>
+          <p class="mb-0">O homem deve ser exemplo de fé, integridade, perdão e temor a Deus</p>
         </div>
       </div>
     </div>

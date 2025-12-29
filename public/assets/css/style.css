@@ -162,6 +162,9 @@
     background-color: var(--primary);
     border: 15px solid var(--primary);
 }
+.owl-carousel img{
+    height: 300px;
+}
 
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
