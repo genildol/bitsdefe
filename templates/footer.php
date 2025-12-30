@@ -1,6 +1,4 @@
 <link href="./public/assets/img/favicon.ico" rel="icon">
-<title>Footer - Bits de Fé</title>
-
 <!-- Google Web Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

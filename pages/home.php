@@ -1,5 +1,8 @@
-  <!-- <div class="container-xxl py-5"> -->
   <div class="container">
+
+    <head>
+      <title>Bits de Fé - Início</title>
+    </head>
     <div class="right d-flex justify-content-end mb-3">
       <button type="button" onclick="likePage('home')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
       <span id="like-count">
@@ -377,62 +380,46 @@
   <div class="container-xxl py-5">
     <div class="container">
       <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-        <p class="fs-5 fw-medium text-primary">Our Team</p>
-        <h1 class="display-5 mb-5">Our Expert People Ready to Help You</h1>
+        <h5 class="display-7 mb-5">
+          <h4> Pregar não é impressionar pessoas, é revelar a verdade de Deus</h4>
+        </h5>
       </div>
       <div class="row g-4">
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-1.jpg" alt="">
-            <h5>Alex Robin</h5>
-            <span class="text-primary">Founder & CEO</span>
-            <ul class="team-social">
-              <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-            </ul>
+            <h5>Pregue a Palavra, não opiniões</h5>
+            <span class="text-primary"><a href="">A autoridade da pregação está na Escritura, não na experiência pessoal</a></span>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-2.jpg" alt="">
-            <h5>Adam Crew</h5>
-            <span class="text-primary">Co Founder</span>
-            <ul class="team-social">
-              <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-            </ul>
+            <h5>Pregue com fidelidade e verdade</h5>
+            <span class="text-primary"><a href="">Não adapte a mensagem para agradar pessoas. Pregue o que Deus diz, como Ele diz</a></span>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-3.jpg" alt="">
-            <h5>Boris Johnson</h5>
-            <span class="text-primary">Executive Manager</span>
-            <ul class="team-social">
-              <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-            </ul>
+            <h5>Pregue com dependência do Espírito Santo</h5>
+            <span class="text-primary"><a href="">Sem o Espírito, há discurso; com o Espírito, há transformação</a></span>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-4.jpg" alt="">
-            <h5>Robert Jordan</h5>
-            <span class="text-primary">Digital Marketer</span>
-            <ul class="team-social">
-              <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-              <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-            </ul>
+            <h5>Pregue para edificar, exortar e corrigir</h5>
+            <span class="text-primary"><a href="">A pregação bíblica confronta o pecado, consola o coração e direciona a vida</a></span>
           </div>
         </div>
+        <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+          <div class="team-item rounded overflow-hidden pb-4">
+            <img class="img-fluid mb-4" src="img/team-4.jpg" alt="">
+            <h5>Pregue vivendo o que anuncia</h5>
+            <span class="text-primary"><a href="">A vida do pregador valida a mensagem que ele proclama</a></span>
+          </div>
+        </div> -->
       </div>
     </div>
   </div>
@@ -443,37 +430,45 @@
   <div class="container-xxl pt-5">
     <div class="container">
       <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-        <p class="fs-5 fw-medium text-primary">Testimonial</p>
-        <h1 class="display-5 mb-5">What Clients Say About Our Services!</h1>
+        <p class="fs-5 fw-medium text-primary">"1 Coríntios 11:28..."</p>
+        <h1 class="display-5 mb-5">Você tem suas respostas das perguntas?</h1>
       </div>
       <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
         <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-          <img class="mb-4" src="img/testimonial-1.jpg" alt="">
-          <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et
-            sit, sed stet lorem sit clita duo justo</p>
-          <h5>Client Name</h5>
-          <span class="text-primary">Profession</span>
+          <h5 class="mb-4">Se hoje fosse o último dia da sua vida, você estaria em paz com Deus?</h5>
+          <p>A maioria adia essa pergunta, mas a Bíblia afirma que a vida é breve e incerta. Não estamos preparados quando adiamos o arrependimento e a reconciliação com Deus.</p>
+          <span class="text-primary">Amós 4:12</span>
+          <span class="text-primary">Provérbios 27:1</span>
         </div>
         <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-          <img class="mb-4" src="img/testimonial-2.jpg" alt="">
-          <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et
-            sit, sed stet lorem sit clita duo justo</p>
-          <h5>Client Name</h5>
-          <span class="text-primary">Profession</span>
+          <h5 class="mb-4">O que ocupa seus pensamentos quando ninguém está vendo?</h5>
+          <p>Deus não vê apenas ações, Ele examina o coração. Aquilo que domina a mente revela quem realmente governa a vida.</p>
+          <span class="text-primary">1 Samuel 16:7</span><br>
+          <span class="text-primary">Provérbios 23:7</span>
         </div>
         <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-          <img class="mb-4" src="img/testimonial-3.jpg" alt="">
-          <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et
-            sit, sed stet lorem sit clita duo justo</p>
-          <h5>Client Name</h5>
-          <span class="text-primary">Profession</span>
+          <h5 class="mb-4">Você vive para Deus ou apenas diz que acredita Nele?</h5>
+          <p>Fé verdadeira não se limita a palavras, mas se manifesta em obediência e transformação diária.</p>
+          <span class="text-primary">Mateus 15:8</span><br>
+          <span class="text-primary">Tiago 1:22</span>
         </div>
         <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-          <img class="mb-4" src="img/testimonial-4.jpg" alt="">
-          <p class="mb-4">Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et
-            sit, sed stet lorem sit clita duo justo</p>
-          <h5>Client Name</h5>
-          <span class="text-primary">Profession</span>
+          <h5 class="mb-4">O que você tem feito com o tempo que Deus lhe deu?</h5>
+          <p>O tempo é um dom irreversível. Cada dia desperdiçado sem propósito não retorna, mas será cobrado.</p>
+          <span class="text-primary">Salmos 90:12</span><br>
+          <span class="text-primary">Efésios 5:16</span>
+        </div>
+        <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
+          <h5 class="mb-4">Você está seguindo a Cristo ou apenas vivendo como todos?</h5>
+          <p>O caminho de Deus nunca foi o mais fácil, mas sempre foi o verdadeiro. Seguir a multidão não é sinal de salvação.</p>
+          <span class="text-primary">Mateus 7:13–14</span><br>
+          <span class="text-primary">Romanos 12:2</span>
+        </div>
+        <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
+          <h5 class="mb-4">Vale a pena ganhar o mundo e perder a alma?</h5>
+          <p>Tudo o que este mundo oferece é passageiro. A alma, porém, é eterna — e negligenciá-la é a maior perda possível.</p>
+          <span class="text-primary">Marcos 8:36</span><br>
+          <span class="text-primary">2 Coríntios 4:18</span>
         </div>
       </div>
     </div>

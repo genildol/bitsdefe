@@ -1,5 +1,6 @@
 <!-- <div class="container-xxl py-5"> -->
 <div class="container">
+  <title>Trabalho - Bits de Fé</title>
   <div class="right d-flex justify-content-end mb-3">
     <button type="button" onclick="likePage('palavra')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
     <span id="like-count">
@@ -9,10 +10,9 @@
   <div class="row g-5">
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
       <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-      <h2 class="display-8 mb-4">O Trabalho e o Comportamento do Cristão à Luz da Palavra de Deus</h2>
+      <h2 class="display-8 mb-4">O trabalho e o comportamento do Cristão à luz da Palavra de Deus</h2>
 
       <h6 class="mb2"></h6>
-
       <p>O trabalho faz parte do plano de Deus desde a criação. Antes mesmo da queda, o Senhor confiou ao homem a responsabilidade de cuidar daquilo que havia sido criado: “Tomou, pois, o Senhor Deus o homem e o colocou no jardim do Éden para o cultivar e o guardar” (Gênesis 2:15). Assim, o trabalho não é uma maldição, mas um meio pelo qual o ser humano exerce responsabilidade, dignidade e serviço diante de Deus. </p>
 
       <p>Na perspectiva bíblica, o cristão deve compreender que seu trabalho é uma forma de adoração. O apóstolo Paulo ensina: “E tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor e não para homens” (Colossenses 3:23). Essa orientação transforma a maneira de trabalhar, pois o cristão não age apenas para agradar superiores ou buscar reconhecimento humano, mas para honrar a Deus em todas as suas atitudes.</p>
@@ -34,7 +34,7 @@
 
     </div>
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-      <h2 class="mb-4">Fique por Dentro...</h2>
+      <h2 class="mb-4">Estes artigos pode lhe interessar</h2>
 
       <section class="noticias bg-light py-5">
         <div class="container">
@@ -42,11 +42,10 @@
           <div class="row g-4">
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
+                <img src="images/gal_1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 1</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a>
+                  <p class="card-text"><a href="">Você Sabia?</a>
                   </p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
@@ -55,11 +54,10 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
+                <img src="images/gal_2.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 2</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
+                  <p class="card-text"><a href="">Entenda a Bíblia</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -67,77 +65,70 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
+                <img src="images/gal_3.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
+                  <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
+                <img src="images/gal_4.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
+                  <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
+                <img src="images/gal_5.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
+                  <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
+                  <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4" heigth="150">
+              <div class="card h-100">
+                <img src="images/gal_6.jpg" alt="" class="card-img-top">
+                <div class="card-body">
+                  <!-- <h3 class="card-title">Notícia 3</h3> -->
+                  <p class="card-text"><a href="">Estudos Rápidos</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
+                <img src="images/hero_1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
+                  <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
+                <img src="images/hero_2.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
+                  <p class="card-text"><a href="">Promessas de Deus</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
+                <img src="./../public/images/hero_3.jpg" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
-                  <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card h-100">
-                <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
-                <div class="card-body">
-                  <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                      diam amet</a></p>
+                  <p class="card-text"><a href="">Erros Comuns na Fé</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>

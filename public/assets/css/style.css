@@ -165,7 +165,10 @@
 .owl-carousel img{
     height: 300px;
 }
-
+.col-md-4 img{
+    height: 200px;
+    /* object-fit: cover; */
+}
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
         position: relative;
