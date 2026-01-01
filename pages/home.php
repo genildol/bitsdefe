@@ -1,5 +1,4 @@
   <div class="container">
-
     <head>
       <title>Bits de Fé - Início</title>
     </head>
