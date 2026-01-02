@@ -1,4 +1,5 @@
   <div class="container">
+
     <head>
       <title>Bits de Fé - Início</title>
     </head>
@@ -13,15 +14,7 @@
         <h2 class="display-8 mb-4">Bem-vindo ao Bits de Fé!</h2>
         <p>Este é um espaço de reflexão, estudo e crescimento espiritual para todas as idades. Aqui você encontra conteúdos baseados na Palavra de Deus, com temas variados que tocam o coração, fortalecem a fé e promovem a transformação de vidas. Navegue pelos nossos estudos, devocionais, mensagens para famílias, casais, jovens e muito mais. Que Deus fale com você a cada leitura!</p>
 
-        <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos com os desafios do mundo atual. Por meio de conteúdos relevantes, buscamos ajudar você a aplicar a verdade da Palavra de Deus nas decisões do dia a dia, fortalecendo sua caminhada com Cristo de forma autêntica e transformadora.</p>
-
-        <p>Se você está aqui, é porque busca respostas para perguntas profundas e significativas. Queremos que este site seja um ponto de partida para sua jornada de fé, onde cada tema abordado possa trazer luz às suas dúvidas e fortalecer sua caminhada com Deus.</p>
-
-        <p>Explore nossos artigos, participe das discussões e sinta-se à vontade para compartilhar suas próprias reflexões. Juntos, podemos crescer em conhecimento e fé, sempre buscando a verdade que nos liberta.</p>
-        <p>
-
-        <p>Navegue pelos menus, explore os temas e, acima de tudo, abra seu coração para ouvir o que Deus tem a dizer através da Sua Palavra. Este site não é apenas sobre respostas, mas também sobre perguntas sinceras — aquelas que movem a alma a buscar mais do Senhor.</p>
-        <i><strong>“Examinai tudo. Retende o bem.” — 1 Tessalonicenses 5:21</strong></i>
+        <p>Aqui é um ambiente onde fé e propósito se encontram. Nosso objetivo é inspirar uma vida cristã prática e consciente, conectando os ensinamentos bíblicos... <a href="index.php?page=sobre/sobre">ver mais</a></p>
       </div>
       <!-- Card 1 -->
       <div class="col-lg-4 col-md-6">
