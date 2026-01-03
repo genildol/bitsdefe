@@ -1,5 +1,8 @@
-<!-- <div class="container-xxl py-5"> -->
 <div class="container">
+
+  <head>
+    <title>Bits de Fé - O Novo Testamento</title>
+  </head>
   <div class="right d-flex justify-content-end mb-3">
     <button type="button" onclick="likePage('novotestamento')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
     <span id="like-count">
@@ -75,7 +78,7 @@
         <p>O Novo Testamento também destaca a atuação do Espírito Santo na vida dos cristãos, capacitando-os a viver segundo os ensinamentos de Jesus e a testemunhar com poder (João 14:26; Atos 1:8; Gálatas 5:22–23). Ele reforça a prática do amor, da compaixão, do perdão e do serviço ao próximo como evidências de uma fé verdadeira (João 13:34–35; Colossenses 3:12–14).</p>
 
         <p> Além disso, o Novo Testamento é uma rica fonte de ensinamentos morais e éticos, orientando os cristãos a viverem segundo os princípios do Reino de Deus. Ele aborda valores como amor ao próximo, humildade, justiça, honestidade, pureza e santidade, estabelecendo um padrão elevado para a conduta cristã (Romanos 12:1–2; Miqueias 6:8; 1 Pedro 1:15–16).</p>
-        
+
         <p>Em resumo, o Novo Testamento é uma parte essencial da Bíblia que revela a pessoa e a obra de Jesus Cristo e registra o desenvolvimento da Igreja primitiva. Ele constitui a base da fé cristã e continua oferecendo direção espiritual, doutrinária e moral para os crentes em todo o mundo (2 Timóteo 3:16–17).</p>
 
         <i>📖 “Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus.” (Efésios 2:8)</i>

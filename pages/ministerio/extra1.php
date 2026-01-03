@@ -1,19 +1,16 @@
-<!-- <div class="container-xxl py-5"> -->
+<div class="container-xxl py-5">                         
   <div class="container">
-    <div class="container">
         <div class="right d-flex justify-content-end mb-3">
-          <button type="button" onclick="likePage('temas')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
-            <span id="like-count">
-              <button type="button" class="btn btn-outline-primary">0</button>
-              </span>
-        </div>
+          <button type="button" onclick="likePage('ministerio')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+          <span id="like-count">
+          </span>
+        </div>  
+
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <h2 class="display-8 mb-4">Sobre o site</h2>
-
-        <p>Abordamos assuntos do dia a dia, dilemas modernos e reflexões profundas sempre à luz da Bíblia. Fé, ética, escolhas, propósito de vida, identidade, sexualidade, amizades e muito mais. Um conteúdo voltado para quem busca respostas e direção em meio ao mundo atual.</p>
-
-        <p>Where does it come from? </p>
+        <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
+        <h3 class="display-8 mb-4">Um Ministério forjado por Deus</h3>
+        <p>Where does it come from?
           Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
           literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
           College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
@@ -40,11 +37,10 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
-
       </div>
 
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-        <h2 class="mb-4">Aumente seu conhecimento</h2>
+        <h3 class="display-8 mb-4">Um Líder de Deus</h3>
 
         <p>Where does it come from?
           Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
@@ -73,6 +69,7 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
+
       </div>
     </div>
   </div>

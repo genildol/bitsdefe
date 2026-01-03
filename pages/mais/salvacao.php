@@ -1,4 +1,5 @@
 <div class="container my-5">
+  <title>Bits de Fé - Salvação</title>
   <div class="right d-flex justify-content-end mb-3">
     <button type="button" onclick="likePage('salvacao')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
     <span id="like-count">

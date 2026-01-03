@@ -1,4 +1,9 @@
 <div class="container my-5">
+
+  <head>
+    <title>Bits de Fé - Mocidade</title>
+  </head>
+  
   <div class="right d-flex justify-content-end mb-3">
     <button type="button" onclick="likePage('mocidade')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
     <span id="like-count"></span>

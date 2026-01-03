@@ -1,4 +1,8 @@
 		<div class="container">
+
+			<head>
+				<title>Bits de Fé - Dicionário</title>
+			</head>
 			<div class="right d-flex justify-content-end mb-3">
 				<button type="button" onclick="likePage('home')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
 				<span id="like-count">
@@ -60,32 +64,32 @@
 		<!-- BOTÕES DO ALFABETO -->
 		<div class="container-xxl py-5">
 			<div class="container">
-				<a href="index.php?page=igreja/dicionario/a" class="btn btn-primary">A</a>
-				<a href="index.php?page=igreja/dicionario/b" class="btn btn-primary">B</a>
-				<a href="index.php?page=igreja/dicionario/c" class="btn btn-primary">C</a>
-				<a href="index.php?page=igreja/dicionario/d" class="btn btn-primary">D</a>
-				<a href="index.php?page=igreja/dicionario/e" class="btn btn-primary">E</a>
-				<a href="index.php?page=igreja/dicionario/f" class="btn btn-primary">F</a>
-				<a href="index.php?page=igreja/dicionario/g" class="btn btn-primary">G</a>
-				<a href="index.php?page=igreja/dicionario/h" class="btn btn-primary">H</a>
-				<a href="index.php?page=igreja/dicionario/i" class="btn btn-primary">I</a>
-				<a href="index.php?page=igreja/dicionario/j" class="btn btn-primary">J</a>
-				<a href="index.php?page=igreja/dicionario/k" class="btn btn-primary">K</a>
-				<a href="index.php?page=igreja/dicionario/l" class="btn btn-primary">L</a>
-				<a href="index.php?page=igreja/dicionario/m" class="btn btn-primary">M</a>
-				<a href="index.php?page=igreja/dicionario/n" class="btn btn-primary">N</a>
-				<a href="index.php?page=igreja/dicionario/o" class="btn btn-primary">O</a>
-				<a href="index.php?page=igreja/dicionario/p" class="btn btn-primary">P</a>
-				<a href="index.php?page=igreja/dicionario/q" class="btn btn-primary">Q</a>
-				<a href="index.php?page=igreja/dicionario/r" class="btn btn-primary">R</a>
-				<a href="index.php?page=igreja/dicionario/s" class="btn btn-primary">S</a>
-				<a href="index.php?page=igreja/dicionario/t" class="btn btn-primary">T</a>
-				<a href="index.php?page=igreja/dicionario/u" class="btn btn-primary">U</a>
-				<a href="index.php?page=igreja/dicionario/v" class="btn btn-primary">V</a>
-				<a href="index.php?page=igreja/dicionario/w" class="btn btn-primary">W</a>
-				<a href="index.php?page=igreja/dicionario/x" class="btn btn-primary">X</a>
-				<a href="index.php?page=igreja/dicionario/y" class="btn btn-primary">Y</a>
-				<a href="index.php?page=igreja/dicionario/z" class="btn btn-primary">Z</a>
+				<a href="index.php?page=files/dicionario/a" class="btn btn-primary">A</a>
+				<a href="index.php?page=files/dicionario/b" class="btn btn-primary">B</a>
+				<a href="index.php?page=files/dicionario/c" class="btn btn-primary">C</a>
+				<a href="index.php?page=files/dicionario/d" class="btn btn-primary">D</a>
+				<a href="index.php?page=files/dicionario/e" class="btn btn-primary">E</a>
+				<a href="index.php?page=files/dicionario/f" class="btn btn-primary">F</a>
+				<a href="index.php?page=files/dicionario/g" class="btn btn-primary">G</a>
+				<a href="index.php?page=files/dicionario/h" class="btn btn-primary">H</a>
+				<a href="index.php?page=files/dicionario/i" class="btn btn-primary">I</a>
+				<a href="index.php?page=files/dicionario/j" class="btn btn-primary">J</a>
+				<a href="index.php?page=files/dicionario/k" class="btn btn-primary">K</a>
+				<a href="index.php?page=files/dicionario/l" class="btn btn-primary">L</a>
+				<a href="index.php?page=files/dicionario/m" class="btn btn-primary">M</a>
+				<a href="index.php?page=files/dicionario/n" class="btn btn-primary">N</a>
+				<a href="index.php?page=files/dicionario/o" class="btn btn-primary">O</a>
+				<a href="index.php?page=files/dicionario/p" class="btn btn-primary">P</a>
+				<a href="index.php?page=files/dicionario/q" class="btn btn-primary">Q</a>
+				<a href="index.php?page=files/dicionario/r" class="btn btn-primary">R</a>
+				<a href="index.php?page=files/dicionario/s" class="btn btn-primary">S</a>
+				<a href="index.php?page=files/dicionario/t" class="btn btn-primary">T</a>
+				<a href="index.php?page=files/dicionario/u" class="btn btn-primary">U</a>
+				<a href="index.php?page=files/dicionario/v" class="btn btn-primary">V</a>
+				<a href="index.php?page=files/dicionario/w" class="btn btn-primary">W</a>
+				<a href="index.php?page=files/dicionario/x" class="btn btn-primary">X</a>
+				<a href="index.php?page=files/dicionario/y" class="btn btn-primary">Y</a>
+				<a href="index.php?page=files/dicionario/z" class="btn btn-primary">Z</a>
 			</div>
 		</div>
 		</div>
@@ -104,7 +108,7 @@
 					</a>
 					<div id="panel1" class="collapse mt-2">
 						<p>A palavra “Abba” é um termo aramaico que significa “pai”. É um dos poucos termos aramaicos incorporados ao Novo Testamento, uma língua que Jesus e Paulo usavam.
-							<a href="index.php?page=igreja/alphabet/aba">mais</a>
+							<a href="index.php?page=files/alphabet/aba">mais</a>
 						</p>
 					</div>
 				</div>
@@ -114,7 +118,7 @@
 						Transitório
 					</a>
 					<div id="panel2" class="collapse mt-2">
-						<p>Paulo está comparando o ministério da Lei (a "ministração da condenação") com o ministério do Espírito (a "ministração da justiça"). <a href="index.php?page=igreja/alphabet/transitorio">mais</a></p>
+						<p>Paulo está comparando o ministério da Lei (a "ministração da condenação") com o ministério do Espírito (a "ministração da justiça"). <a href="index.php?page=files/alphabet/transitorio">mais</a></p>
 					</div>
 				</div>
 				<!-- Item 3 -->
@@ -124,7 +128,7 @@
 					</a>
 					<div id="panel3" class="collapse mt-2">
 						<p>Apostasia é o ato ou processo de abandonar a fé, a doutrina e os princípios do evangelho. Ela se manifesta quando há rejeição da verdade, substituição do...
-							<a href="index.php?page=igreja/alphabet/apostasia">mais</a>
+							<a href="index.php?page=files/alphabet/apostasia">mais</a>
 						</p>
 					</div>
 				</div>
@@ -257,106 +261,7 @@
 					</div>
 				</div>
 			</div>
-			<!-- Video Modal End -->
-			<!-- Service Start -->
-			<div class="container-xxl py-5">
-				<div class="container">
-					<div class="row g-4">
-						<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-							<div class="service-item position-relative h-100">
-								<div class="service-text rounded p-5">
-									<div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-										<img class="img-fluid" src="./public/assets/img/icon/icon-5.png" alt="Icon">
-									</div>
-									<h5 class="mb-3">Digital Marketing</h4>
-										<p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-											stet</p>
-								</div>
-								<div class="service-btn rounded-0 rounded-bottom">
-									<a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-							<div class="service-item position-relative h-100">
-								<div class="service-text rounded p-5">
-									<div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-										<img class="img-fluid" src="./public/assets/img/icon/icon-6.png" alt="Icon">
-									</div>
-									<h5 class="mb-3">Internet Marketing</h4>
-										<p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-											stet</p>
-								</div>
-								<div class="service-btn rounded-0 rounded-bottom">
-									<a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-							<div class="service-item position-relative h-100">
-								<div class="service-text rounded p-5">
-									<div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-										<img class="img-fluid" src="./public/assets/img/icon/icon-7.png" alt="Icon">
-									</div>
-									<h5 class="mb-3">Content Marketing</h4>
-										<p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-											stet</p>
-								</div>
-								<div class="service-btn rounded-0 rounded-bottom">
-									<a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-							<div class="service-item position-relative h-100">
-								<div class="service-text rounded p-5">
-									<div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-										<img class="img-fluid" src="./public/assets/img/icon/icon-8.png" alt="Icon">
-									</div>
-									<h5 class="mb-3">Social Marketing</h4>
-										<p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-											stet</p>
-								</div>
-								<div class="service-btn rounded-0 rounded-bottom">
-									<a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-							<div class="service-item position-relative h-100">
-								<div class="service-text rounded p-5">
-									<div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-										<img class="img-fluid" src="./public/assets/img/icon/icon-9.png" alt="Icon">
-									</div>
-									<h5 class="mb-3">B2B Marketing</h4>
-										<p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-											stet</p>
-								</div>
-								<div class="service-btn rounded-0 rounded-bottom">
-									<a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-							<div class="service-item position-relative h-100">
-								<div class="service-text rounded p-5">
-									<div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-										<img class="img-fluid" src="./public/assets/img/icon/icon-10.png" alt="Icon">
-									</div>
-									<h5 class="mb-3">E-mail Marketing</h4>
-										<p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-											stet</p>
-								</div>
-								<div class="service-btn rounded-0 rounded-bottom">
-									<a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- Service End -->
-				<!-- Team Start -->
-			</div>
+			
 		</div>
 		</div>
 		<!-- Team End -->

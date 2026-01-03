@@ -1,4 +1,7 @@
  <div class="container">
+  <head>
+    <title>Bits de Fé - Antigo Testamento</title>
+  </head>
    <div class="right d-flex justify-content-end mb-3">
      <button type="button" onclick="likePage('antigotestamento')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
      <span id="like-count">

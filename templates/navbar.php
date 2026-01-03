@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -38,17 +39,17 @@
   </div>
   <!-- Spinner End -->
   <!-- INICIO DO PRIMEIRO TOPO -->
-      <div class="container-fluid bg-primary text-white d-none d-lg-flex">
-      <div class="container py-3">
-        <div class="d-flex align-items-center">
-          <a href="index.php?page=home">
-            <img src="./public/assets/bits.png" width="50" height="50" alt="Logo do Site Bits de Fé">
-          </a>
-            <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
-          <span class="ms-auto fw-bold text-warning"> Em Desenvolvimento</span>
-        </div>
+  <div class="container-fluid bg-primary text-white d-none d-lg-flex">
+    <div class="container py-3">
+      <div class="d-flex align-items-center">
+        <a href="index.php?page=home">
+          <img src="./public/assets/bits.png" width="50" height="50" alt="Logo do Site Bits de Fé">
+        </a>
+        <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
+        <span class="ms-auto fw-bold text-warning"> Em Desenvolvimento</span>
       </div>
     </div>
+  </div>
   <!-- FIM DO PRIMEIRO TOPO -->
   <!-- INICIO DO SEGUNDO TOPO -->
   <div class="container-fluid bg-white sticky-top">
@@ -72,13 +73,13 @@
               </div>
             </div>
             <script>
-                // Quando clicar e não for em um submenu, vai para o link
-                document.querySelector('#igrejaDropdown').addEventListener('click', function(e) {
-                  if (!e.target.closest('.dropdown-menu')) {
-                    window.location.href = this.href;
-                  }
-                });
-              </script>
+              // Quando clicar e não for em um submenu, vai para o link
+              document.querySelector('#igrejaDropdown').addEventListener('click', function(e) {
+                if (!e.target.closest('.dropdown-menu')) {
+                  window.location.href = this.href;
+                }
+              });
+            </script>
             <div class="nav-item dropdown">
               <a href="index.php?page=estudos/estudos" class="nav-link dropdown-toggle" id="estudosDropdown" data-bs-toggle="dropdown">Estudos</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
@@ -90,14 +91,14 @@
                 <a href="index.php?page=estudos/graca" class="dropdown-item">A graça de Deus</a>
               </div>
             </div>
-             <script>
-                // Quando clicar e não for em um submenu, vai para o link
-                document.querySelector('#estudosDropdown').addEventListener('click', function(e) {
-                  if (!e.target.closest('.dropdown-menu')) {
-                    window.location.href = this.href;
-                  }
-                });
-              </script>
+            <script>
+              // Quando clicar e não for em um submenu, vai para o link
+              document.querySelector('#estudosDropdown').addEventListener('click', function(e) {
+                if (!e.target.closest('.dropdown-menu')) {
+                  window.location.href = this.href;
+                }
+              });
+            </script>
             <div class="nav-item dropdown">
               <a href="index.php?page=familia/familia" class="nav-link dropdown-toggle" id="familiaDropdown" data-bs-toggle="dropdown">Família</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
@@ -111,34 +112,34 @@
                 <a href="index.php?page=familia/filhos" class="dropdown-item">Os Filhos</a>
               </div>
             </div>
-             <script>
-                document.querySelector('#familiaDropdown').addEventListener('click', function(e) {
-                  if (!e.target.closest('.dropdown-menu')) {
-                    window.location.href = this.href;
-                  }
-                });
-              </script>
-             <div class="nav-item dropdown">
+            <script>
+              document.querySelector('#familiaDropdown').addEventListener('click', function(e) {
+                if (!e.target.closest('.dropdown-menu')) {
+                  window.location.href = this.href;
+                }
+              });
+            </script>
+            <div class="nav-item dropdown">
               <a href="index.php?page=ministerio/ministerio" class="nav-link dropdown-toggle" id="ministerioDropdown" data-bs-toggle="dropdown">Ministério</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
-                <a href="index.php?page=temas/ministerio" class="dropdown-item">Família</a>
-                <a href="index.php?page=temas/relacionamentos" class="dropdown-item">Ministério e Liderança</a>
-                <a href="index.php?page=temas/ensinamentos" class="dropdown-item">Ministério de Infantil</a>                  
-                <a href="index.php?page=temas/ensinamentos" class="dropdown-item">Ministério de Mulheres</a>                  
-                <a href="index.php?page=temas/cartas" class="dropdown-item">Cartas do Apósolo</a>
-                <a href="index.php?page=temas/cartas" class="dropdown-item">Culto de Doutrina</a>
+                <a href="index.php?page=ministerio/ministerio" class="dropdown-item">Ministério e Liderança</a>
+                <a href="index.php?page=ministerio/missaoigreja" class="dropdown-item">Missão da Igreja</a>
+                <a href="index.php?page=ministerio/minisinfantil" class="dropdown-item">Ministério de Infantil</a>
+                <a href="index.php?page=ministerio/minismulheres" class="dropdown-item">Ministério de Mulheres</a>
+                <a href="index.php?page=ministerio/cartasapostolo" class="dropdown-item">Cartas do Apósolo</a>
+                <a href="index.php?page=ministerio/cultodoutrina" class="dropdown-item">Culto de Doutrina</a>
                 <a href="" class="dropdown-item"></a>
               </div>
             </div>
             <script>
-                document.querySelector('#ministerioDropdown').addEventListener('click', function(e) {
-                  if (!e.target.closest('.dropdown-menu')) {
-                    window.location.href = this.href;
-                  }
-                });
-              </script>
+              document.querySelector('#ministerioDropdown').addEventListener('click', function(e) {
+                if (!e.target.closest('.dropdown-menu')) {
+                  window.location.href = this.href;
+                }
+              });
+            </script>
             <div class="nav-item dropdown">
-              <a href="index.php?page=mais/mais" class="nav-link dropdown-toggle" id="maisDropdown"data-bs-toggle="dropdown">Mais</a>
+              <a href="index.php?page=mais/mais" class="nav-link dropdown-toggle" id="maisDropdown" data-bs-toggle="dropdown">Mais</a>
               <div class="dropdown-menu bg-light rounded-0 rounded-bottom m-0">
                 <a href="index.php?page=mais/vidacrista" class="dropdown-item">Vida cristã</a>
                 <a href="index.php?page=mais/salvacao" class="dropdown-item">Salvação</a>
@@ -148,12 +149,12 @@
               </div>
             </div>
             <script>
-                document.querySelector('#maisDropdown').addEventListener('click', function(e) {
-                  if (!e.target.closest('.dropdown-menu')) {
-                    window.location.href = this.href;
-                  }
-                });
-              </script>
+              document.querySelector('#maisDropdown').addEventListener('click', function(e) {
+                if (!e.target.closest('.dropdown-menu')) {
+                  window.location.href = this.href;
+                }
+              });
+            </script>
           </div>
         </div>
       </nav>
