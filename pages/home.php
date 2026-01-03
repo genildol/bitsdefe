@@ -109,7 +109,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/alianca.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="index.php?page=/files/">Aliança com Deus</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/aliancadeus">Aliança com Deus</a></h5>
             <p class="mb-0">A aliança com Deus é um compromisso sagrado que envolve fé e obediência...</p>
           </div>
         </div>
@@ -118,7 +118,7 @@
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 200px; height: 100px;">
               <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/prova.jpg" alt="Icon">
             </div>
-            <h5 class="mb-3"><a href="index.php?page=/files/">Prova de Fogo</a></h5>
+            <h5 class="mb-3"><a href="index.php?page=/files/provafogo">Prova de Fogo</a></h5>
             <p class="mb-0">A prova de fogo é um teste rigoroso que revela a verdadeira natureza de algo...</p>
           </div>
         </div>
