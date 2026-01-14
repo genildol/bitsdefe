@@ -8,36 +8,33 @@
       <div class="row g-5">
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
 
-          <h2 class="display-8 mb-4">Incompatibilidade ou Desistência do relacionamento?</h2>
+          <h2 class="display-8 mb-4">Incompatibilidade ou desistência do relacionamento?</h2>
 
-          <p>Muitas pessoas confundem a incompatibilidade com a desistência do relacionamento. A
-            incompatibilidade ocorre quando duas pessoas têm diferenças significativas em valores,
-            interesses ou estilos de vida que dificultam a convivência harmoniosa. Por outro lado, a
-            desistência do relacionamento pode ocorrer mesmo quando há compatibilidade, devido a
-            fatores como falta de comunicação, confiança abalada ou mudanças pessoais.</p>
+          <p>Muitas pessoas confundem incompatibilidade com desistência do relacionamento, porém a Bíblia nos ensina a discernir as situações com sabedoria. A incompatibilidade ocorre quando duas pessoas possuem diferenças profundas de valores, princípios, fé ou modo de viver, o que dificulta uma convivência harmoniosa.</p>
 
-          <p>É importante avaliar cuidadosamente a situação antes de tomar uma decisão. A
-            incompatibilidade pode ser superada com esforço mútuo, comunicação aberta e disposição para
-            mudanças. No entanto, se a incompatibilidade for profunda e irreversível, pode ser necessário
-            considerar a desistência do relacionamento para o bem de ambas as partes.</p>
+          <p>A Escritura alerta sobre alianças desalinhadas: “Não vos prendais a um jugo desigual com os incrédulos” (2 Coríntios 6:14). Quando não há unidade de propósito e direção espiritual, o relacionamento tende a se tornar fonte constante de conflito: “Andarão dois juntos, se não estiverem de acordo?” (Amós 3:3).</p>
 
-          <p>Em resumo, a incompatibilidade refere-se a diferenças fundamentais entre as pessoas, enquanto
-            a desistência do relacionamento é uma decisão tomada com base em vários fatores, incluindo as
-            circunstâncias e o bem-estar de ambas as partes.</p>
+          <p>Por outro lado, a desistência do relacionamento pode acontecer mesmo quando há compatibilidade, geralmente por fatores como falta de comunicação, quebra de confiança, egoísmo ou imaturidade emocional. A Bíblia mostra que relacionamentos <strong>exigem esforço, perdão e diálogo constante:</strong> “Suportai-vos uns aos outros, e perdoai-vos uns aos outros” (Colossenses 3:13). A falta de disposição para ouvir e compreender pode enfraquecer vínculos que poderiam ser fortalecidos: “O que responde antes de ouvir comete estultícia” (Provérbios 18:13).</p>
+
+          <p>A Palavra de Deus ensina que é necessário avaliar cuidadosamente cada situação antes de tomar decisões definitivas. Em muitos casos, a incompatibilidade pode ser trabalhada quando há humildade, amor e comunicação sincera: “Melhor é o fim das coisas do que o princípio delas; melhor é o paciente de espírito do que o altivo de espírito” (Eclesiastes 7:8). O amor bíblico envolve compromisso e crescimento mútuo: “O amor é paciente, é benigno… tudo sofre, tudo crê, tudo espera, tudo suporta” (1 Coríntios 13:4–7).</p>
+
+          <p>Entretanto, quando a incompatibilidade é profunda, persistente e compromete a fé, a paz e o bem-estar emocional e espiritual, a Bíblia reconhece a importância da paz e da sabedoria na tomada de decisões: “Se for possível, quanto estiver em vós, tende paz com todos os homens” (Romanos 12:18). “O prudente atenta para os seus passos” (Provérbios 14:15).</p>
+
+          <p>Em resumo, a incompatibilidade refere-se a diferenças fundamentais que dificultam a harmonia no relacionamento, enquanto a desistência é uma decisão que pode ocorrer por vários fatores além dessas diferenças. A orientação bíblica é buscar discernimento, agir com amor e sabedoria, e colocar Deus no centro de toda decisão: “Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas” (Provérbios 3:6).</p>
 
         </div>
 
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-          <h2 class="mb-4">Aumente seu conhecimento</h2>
+          <h2 class="mb-4">Isso pode ser muito importante</h2>
           <div class="row g-4">
 
             <!-- Card 1 -->
             <div class="col-lg-4 col-md-6">
               <div class="card h-100">
-                <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
+                <!-- <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image"> -->
                 <div class="card-body">
                   <p class="card-text">
-                    O Antigo Testamento é a primeira parte da Bíblia cristã.
+                    Não dar certo ou não quer dar certo?
                   </p>
                   <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
@@ -46,10 +43,10 @@
             <!-- Card 2 -->
             <div class="col-lg-4 col-md-6">
               <div class="card h-100">
-                <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 2 Image">
+                <!-- <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 2 Image"> -->
                 <div class="card-body">
                   <p class="card-text">
-                    O Novo Testamento é a segunda parte da Bíblia cristã.
+                    Lembre-se: Deus é amor e você é precioso para Ele.
                   </p>
                   <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
@@ -58,10 +55,10 @@
             <!-- Card 3 -->
             <div class="col-lg-4 col-md-6">
               <div class="card h-100">
-                <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image">
+                <!-- <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 3 Image"> -->
                 <div class="card-body">
                   <p class="card-text">
-                    A graça de Deus é amor e misericórdia que salva e transforma.
+                    Você desistiu ou foi incompatível?
                   </p>
                   <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
@@ -79,7 +76,7 @@
                     <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
                     <div class="card-body">
                       <!-- <h3 class="card-title">Notícia 1</h3> -->
-                      <p class="card-text"><a href="">Você Sabia que...</a>
+                      <p class="card-text"><a href="">Não dar certo ou não quer dar certo?</a>
                       </p>
                       <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                     </div>
@@ -91,7 +88,7 @@
                     <img src="./public/assets/cards/card2.jpg" alt="" class=" card-img-top">
                     <div class="card-body">
                       <!-- <h3 class="card-title">Notícia 2</h3> -->
-                      <p class="card-text"><a href="">Entenda a Bíblia</a></p>
+                      <p class="card-text"><a href="">Sua idade não permite aventuras</a></p>
                       <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                     </div>
                   </div>
@@ -102,7 +99,7 @@
                     <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
                     <div class="card-body">
                       <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
+                      <p class="card-text"><a href="">Cuidados com o </a></p>
                       <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                     </div>
                   </div>

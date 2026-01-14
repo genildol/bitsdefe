@@ -10,19 +10,13 @@
 
           <h2 class="display-8 mb-4">Aliança com Deus</h2>
 
-          <p> A aliança com Deus é um compromisso sagrado entre Deus e a humanidade, onde Ele promete amor,
-            proteção e bênçãos em troca de fé, obediência e adoração. Essa aliança é um tema central na Bíblia,
-            destacando a relação especial entre Deus e Seu povo escolhido, oferecendo esperança e redenção através
-            de Jesus Cristo.</p>
+          <p>A aliança com Deus é um compromisso sagrado estabelecido pelo próprio Deus com a humanidade, no qual Ele revela Seu amor, cuidado e fidelidade, chamando o homem à fé, obediência e adoração. Desde o início, Deus se apresenta como aquele que faz aliança com o Seu povo: “E estabelecerei a minha aliança entre mim e ti, e a tua semente depois de ti” (Gênesis 17:7). Essa aliança revela o desejo de Deus de manter um relacionamento contínuo com o ser humano, oferecendo esperança e redenção, que se cumprem plenamente em Jesus Cristo (Lucas 22:20).</p>
 
-          <p> A aliança com Deus é um pacto divino que estabelece um relacionamento especial entre Deus e a
-            humanidade. Na Bíblia, Deus fez várias alianças com figuras importantes, como Noé, Abraão, Moisés e Davi,
-            cada uma com promessas e responsabilidades específicas. A aliança mais significativa é a nova aliança
-            estabelecida por Jesus Cristo, que oferece salvação e vida eterna a todos que creem Nele. Essa aliança é baseada no amor, na graça e na fidelidade de Deus, convidando-nos a viver em comunhão com Ele.</p>
+          <p>Na Bíblia, Deus firmou alianças com homens específicos para revelar Seu plano redentor. Com Noé, Deus prometeu preservar a humanidade e a criação (Gênesis 9:11). Com Abraão, Deus estabeleceu uma aliança de bênção para todas as nações: “E em ti serão benditas todas as famílias da terra” (Gênesis 12:3). Com Moisés, Deus entregou a Lei, chamando o povo à obediência (Êxodo 19:5). Com Davi, Deus prometeu um reino eterno (2 Samuel 7:16). Todas essas alianças apontam para a Nova Aliança, estabelecida por Jesus Cristo, que oferece salvação e vida eterna a todos os que creem: “Este cálice é o novo testamento no meu sangue, que é derramado por vós” (Lucas 22:20).</p>
 
-          <p> A aliança com Deus é um compromisso sagrado que envolve fé, obediência e adoração. Ela nos chama a viver de acordo com os princípios divinos, buscando uma vida de justiça, amor e serviço aos outros. Ao honrar essa aliança, experimentamos a presença transformadora de Deus em
-            nossas vidas, recebendo Sua orientação, proteção e bênçãos abundantes.</p>
+          <p>A Nova Aliança é fundamentada no amor, na graça e na fidelidade de Deus, não em méritos humanos. Por meio dela, o perdão dos pecados e a restauração da comunhão com Deus são possíveis: “Porque este é o concerto que depois daqueles dias farei… perdoarei a sua maldade, e nunca mais me lembrarei dos seus pecados” (Jeremias 31:33–34). Essa aliança nos convida a viver em comunhão com o Senhor, guiados pelo Espírito e pela Palavra (Romanos 8:1–2).</p>
 
+          <p>Viver em aliança com Deus envolve fé, obediência e adoração. A Palavra de Deus nos chama a andar segundo Seus princípios, praticando a justiça, o amor e o serviço ao próximo: “Agora, pois, ó Israel, que é o que o Senhor teu Deus pede de ti, senão que temas ao Senhor teu Deus, e que andes em todos os seus caminhos” (Deuteronômio 10:12). Ao honrar essa aliança, experimentamos a presença transformadora de Deus, Sua direção e Suas bênçãos: “Bem-aventurado o povo cujo Deus é o Senhor” (Salmos 144:15).</p>
           <p></p>
 
         </div>

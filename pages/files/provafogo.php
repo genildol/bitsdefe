@@ -10,14 +10,13 @@
 
           <h2 class="display-8 mb-4">Prova de Fogo que o Cristão passa na terra</h2>
 
-          <p>Prova de fogo é um conceito bíblico que se refere à tribulação e ao julgamento divino que os cristãos enfrentam durante sua vida na terra. Essa prova é uma manifestação do amor e da justiça de Deus, visando purificar os fiéis e fortalecer sua fé. A Bíblia ensina que, ao longo da história, Deus permite que Seus filhos passem por provações para que eles cresçam espiritualmente e sejam preparados para o reino celestial.</p>
+          <p>A prova de fogo é um conceito bíblico que se refere às tribulações, provações e ao processo de purificação espiritual pelo qual o cristão passa durante sua caminhada nesta terra. A Palavra de Deus ensina que essas provações não são sinais de abandono, mas instrumentos usados por Deus para fortalecer a fé e produzir maturidade espiritual. “Amados, não estranheis a ardente prova que vem sobre vós, para vos tentar, como se coisa estranha vos acontecesse” (1 Pedro 4:12). Assim, Deus permite as provações para aperfeiçoar aqueles que lhe pertencem (Tiago 1:2–4).</p>
 
-          <p>As provas de fogo podem assumir diversas formas, como dificuldades financeiras, problemas de saúde, perseguições religiosas, perdas pessoais e desafios emocionais. Essas experiências são vistas como oportunidades para os cristãos demonstrarem sua confiança em Deus, perseverarem na fé e se tornarem mais semelhantes a Cristo.</p>
+          <p>As provas de fogo podem se manifestar de diversas formas, como dificuldades financeiras, enfermidades, perseguições por causa da fé, perdas pessoais e lutas emocionais. Em meio a essas situações, o cristão é chamado a confiar plenamente no Senhor e perseverar. A Escritura declara: “Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente” (2 Coríntios 4:17). Essas experiências contribuem para nos tornar mais semelhantes a Cristo, moldando nosso caráter e nossa esperança (Romanos 8:18).</p>
 
-          <p>Nos livros bíblicos, encontramos vários exemplos de personagens que passaram por provas de fogo. Por exemplo, Jó enfrentou uma série de calamidades, mas manteve sua fé em Deus, sendo recompensado no final. Da mesma forma, os apóstolos enfrentaram perseguições e dificuldades enquanto espalhavam o evangelho, mas permaneceram firmes em sua missão.</p>
+          <p>A Bíblia apresenta vários exemplos de servos de Deus que passaram por provas intensas. Jó enfrentou perdas profundas, sofrimento físico e emocional, mas permaneceu fiel ao Senhor: “O Senhor o deu, e o Senhor o tomou; bendito seja o nome do Senhor” (Jó 1:21). Ao final, Deus restaurou sua vida e o abençoou grandemente (Jó 42:10). Da mesma forma, os apóstolos enfrentaram perseguições e aflições por causa do evangelho, mas perseveraram firmes no chamado: “Importa que através de muitas tribulações entremos no reino de Deus” (Atos 14:22).</p>
 
-          <p>A prova de fogo também é mencionada no Novo Testamento, onde Jesus Cristo alertou Seus seguidores sobre as tribulações que enfrentariam. Ele encorajou-os a permanecerem firmes na fé, prometendo que aqueles que perseverassem seriam recompensados com a vida eterna.</p>
-
+          <p>No Novo Testamento, Jesus Cristo alertou Seus seguidores de que as provações fariam parte da vida cristã. Ele declarou: “No mundo tereis aflições, mas tende bom ânimo; eu venci o mundo” (João 16:33). Ao mesmo tempo, o Senhor prometeu recompensa àqueles que perseveram até o fim: “Sê fiel até à morte, e dar-te-ei a coroa da vida” (Apocalipse 2:10). A prova de fogo, portanto, não é o fim, mas um meio pelo qual Deus prepara Seus filhos para a glória eterna.</p>
         </div>
 
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">

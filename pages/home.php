@@ -314,7 +314,7 @@
             <img class="img-fluid" src="./public/assets/img/osilencio1.PNG" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">O Silêncio que revela: Quando Deus pergunta o que você quer da sua vida</a>
+            <a class="d-block h5" href="index.php?page=files/parepense/osilencio">O Silêncio que revela: Quando Deus pergunta o que você quer da sua vida</a>
             <span>Em meio ao barulho do mundo, das cobranças, das expectativas alheias e até...</span>
           </div>
         </div>
@@ -324,7 +324,7 @@
             <img class="img-fluid" src="./public/assets/img/prova1.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Escolhas invisíveis, consequências eternas</a>
+            <a class="d-block h5" href="index.php?page=files/parepense/escolhasinvisiveis">Escolhas invisíveis, consequências eternas</a>
             <span>Grande parte da nossa vida é construída por escolhas que ninguém vê. Pensamentos...</span>
           </div>
         </div>
@@ -333,16 +333,27 @@
             <img class="img-fluid" src="./public/assets/img/casalidoso.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">O tempo que passou não volta, mas pode ensinar</a>
+            <a class="d-block h5" href="index.php?page=files/parepense/tempopassou">O tempo que passou não volta, mas pode ensinar</a>
             <span>Há lembranças que nos alegram e outras que nos ferem. O passado carrega acertos</span>
           </div>
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
+            <img class="img-fluid" src="./public/assets/img/fantasia.jpg" alt="">
+          </div>
+          <div class="p-4">
+            <a class="d-block h5" href="index.php?page=files/parepense/fantasia">Um mundo de fantasias</a>
+            <span>Algumas pessoas pensam que sua vida está baseada em imaginação ou ficção...</span>
+          </div>
+        </div>
+
+
+        <div class="project-item mb-5">
+          <div class="position-relative">
             <img class="img-fluid" src="./public/assets/img/seducao.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">O que você tem vivido reflete o que você crê</a>
+            <a class="d-block h5" href="index.php?page=files/parepense/oquevcvive">O que você tem vivido reflete o que você crê</a>
             <span>A vida que levamos revela aquilo em que realmente acreditamos. Não no discurso</span>
           </div>
         </div>
@@ -351,7 +362,7 @@
             <img class="img-fluid" src="./public/assets/img/perdido.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Dúvidas não são o fim, podem ser o começo</a>
+            <a class="d-block h5" href="index.php?page=files/parepense/duvidasofim">Dúvidas não são o fim, podem ser o começo</a>
             <span>Dúvidas fazem parte da caminhada humana. Até grandes homens de Deus...</span>
           </div>
         </div>
@@ -360,7 +371,7 @@
             <img class="img-fluid" src="./public/assets/img/idosopensando.jpg" alt="">
           </div>
           <div class="p-4">
-            <a class="d-block h5" href="">Quando tudo terminar, o que terá valido a pena?</a>
+            <a class="d-block h5" href="index.php?page=files/parepense/quandoterminar">Quando tudo terminar, o que terá valido a pena?</a>
             <span>No final da vida, nenhuma pessoa pergunta quanto dinheiro ganhou, mas se viveu com</span>
           </div>
         </div>

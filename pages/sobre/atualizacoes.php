@@ -2,30 +2,9 @@
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">Últimas Atualizações</h2>
-         <p> O Bits de Fé nasceu com o desejo de compartilhar conhecimento bíblico de forma acessível, autêntica e profunda. Nossa missão é levar a mensagem do Evangelho a todos os públicos, usando a linguagem da fé com responsabilidade, amor e verdade. Somos movidos por princípios cristãos e pela certeza de que a Palavra de Deus transforma vidas.</p>
-         <p> literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
-          Hampden-Sydney</p>
-          <p>College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem</p>
-          <p> Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and </p>
-          <p>Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the</p>
-          Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-          1.10.32.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-          dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-          nobis assumenda suscipit.</p>
-
-        <p>Where does it come from?</p>
-        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical</p>
-         
-        <p>  Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-        Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the </p>
-        Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-        dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-        nobis assumenda suscipit.</p>
+        
+        
 
       </div>
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -37,11 +16,10 @@
             <div class="row g-4">
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
+                  <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 1</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a>
+                    <p class="card-text"><a href="">Você Sabia que...</a>
                     </p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
@@ -50,11 +28,10 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
+                  <img src="./public/assets/cards/card2.jpg" alt="" class=" card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 2</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
+                    <p class="card-text"><a href="">Entenda a Bíblia</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -62,77 +39,70 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
+                    <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="./public/assets/cards/card4.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
+                    <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="./public/assets/cards/card5.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
+                    <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4" heigth="150">
+                <div class="card h-100">
+                  <img src="./public/assets/cards/card6.jpg" alt="" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Estudos Rápidos</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="./public/assets/cards/card7.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
+                    <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="./public/assets/cards/card8.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
+                    <p class="card-text"><a href="">Promessas de Deus</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="./public/assets/cards/card9.jpg" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
+                    <p class="card-text"><a href="">Erros Comuns na Fé</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -144,4 +114,4 @@
       </div>
     </div>
   </div>
-</div>
+  </div>
