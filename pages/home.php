@@ -1,7 +1,11 @@
   <div class="container">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4195998032146447"
+      crossorigin="anonymous"></script>
 
     <head>
       <title>Bits de Fé - Início</title>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4195998032146447"
+        crossorigin="anonymous"></script>
     </head>
     <div class="right d-flex justify-content-end mb-3">
       <button type="button" onclick="likePage('home')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
@@ -392,43 +396,34 @@
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-1.jpg" alt="">
             <h5>Pregue a Palavra, não opiniões</h5>
-            <span class="text-primary"><a href="">A autoridade da pregação está na Escritura, não na experiência pessoal</a></span>
+            <span class="text-primary"><a href="index.php?page=/files/preguepalavra">A autoridade da pregação está na Escritura, não na experiência pessoal</a></span>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-2.jpg" alt="">
             <h5>Pregue com fidelidade e verdade</h5>
-            <span class="text-primary"><a href="">Não adapte a mensagem para agradar pessoas. Pregue o que Deus diz, como Ele diz</a></span>
+            <span class="text-primary"><a href="index.php?page=/files/oreguefidelidade">Não adapte a mensagem para agradar pessoas. Pregue o que Deus diz, como Ele diz</a></span>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-3.jpg" alt="">
             <h5>Pregue com dependência do Espírito Santo</h5>
-            <span class="text-primary"><a href="">Sem o Espírito, há discurso; com o Espírito, há transformação</a></span>
+            <span class="text-primary"><a href="index.php?page=/files/preguedepedencia">Sem o Espírito, há discurso; com o Espírito, há transformação</a></span>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-4.jpg" alt="">
             <h5>Pregue para edificar, exortar e corrigir</h5>
-            <span class="text-primary"><a href="">A pregação bíblica confronta o pecado, consola o coração e direciona a vida</a></span>
+            <span class="text-primary"><a href="index.php?page=/files/pregueedificar">A pregação bíblica confronta o pecado, consola o coração e direciona a vida</a></span>
           </div>
         </div>
-        <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-          <div class="team-item rounded overflow-hidden pb-4">
-            <img class="img-fluid mb-4" src="img/team-4.jpg" alt="">
-            <h5>Pregue vivendo o que anuncia</h5>
-            <span class="text-primary"><a href="">A vida do pregador valida a mensagem que ele proclama</a></span>
-          </div>
-        </div> -->
       </div>
     </div>
   </div>
   <!-- Team End -->
-
-
   <!-- Testimonial Start -->
   <div class="container-xxl pt-5">
     <div class="container">

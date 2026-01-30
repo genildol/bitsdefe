@@ -26,7 +26,7 @@
       <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-4">Bits de Fé</h4>
         <!-- <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p> -->
-        <p class="mb-2">Pregações, estudos bíblicos e recursos online para edificar o ministério,</p>
+        <p class="mb-2">Pregações, estudos bíblicos e recursos online para edificar o seu ministério,</p>
         <p class="mb-2">fortalecer a fé e aprofundar o conhecimento da Palavra de Deus.</p>
         <div class="d-flex pt-3">
           <a class="btn btn-square btn-light rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
@@ -76,7 +76,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-        &copy; <a class="fw-medium text-light" href="#">2025</a>, Todos os direitos reservados.
+        &copy; <a class="fw-medium text-light" href="#">2026</a>, Todos os direitos reservados.
       </div>
       <div class="col-md-6 text-center text-md-end">
         Desenvolvido por <a class="fw-medium text-light" href="https://gsmicros.com.br" target="_blank">gsmicros</a>
