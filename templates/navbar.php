@@ -148,6 +148,7 @@
                 <a href="index.php?page=mais/salvacao" class="dropdown-item">Salvação</a>
                 <a href="index.php?page=mais/curiosidades" class="dropdown-item">Curiosidades</a>
                 <a href="index.php?page=mais/reflexoes" class="dropdown-item">Reflexões bíblicas</a>
+                <a href="index.php?page=mais/politicaReligiao" class="dropdown-item">Política vs Religião</a>
                 <a href="index.php?page=mais/" class="dropdown-item"></a>
               </div>
             </div>
