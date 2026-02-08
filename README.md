@@ -34,21 +34,31 @@
 <!-- <h2>:large_blue_circle: Site em desenvolvimento...</h2><br/> -->
 
 <hr>
- <h3>🌍 Site Oficial 🔗 <h3>
-<h4> https://bitsdefe.com.br </h4>
-<hr>
+  <h3>📁 Estrutura do Projeto</h3>
 
 
- * Item 1;            
-    * Item 1.1;
-    * Item
-    * Item
-    * Item
- * Item 2;
-   * Item 2.1;
-   * Item 2.2;
+bitsdefe/<br/>
+├── index.php<br/>
+├── pages/<br/>
+│   ├── home.php<br/>
+│   ├── sobre.php<br/>
+│   ├── igreja/<br/>
+│   ├── estudos/<br/>
+│   ├── familia/<br/>
+│   └── ...<br/>
+├── templates/<br/>
+│   ├── navbar.php<br/>
+│   └── footer.php<br/>
+├── public/<br/>
+│   ├── css/<br/>
+│   ├── js/<br/>
+│   └── images/<br/>
+├── db.php<br/>
+├── like.php<br/>
+├── textos.php<br/>
+├── README.md<br/>
+└── .htaccess<br/>
   
-   <h4>	[Google](https://bitsdefe.com.br) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive</h4>
 
 <h3> :white_check_mark: Tecnologias Utilizadas<h3/>
 <div>  
@@ -116,6 +126,14 @@
       </td>
       <td>
         <code>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </td>
+      <td>
+        <code>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)</code>
       </td>
     </tr>
   </tbody>
