@@ -1,23 +1,43 @@
-
-
 <div align="center">
- <h2> Bits de Fé</h2>
+ <h1> Bits de Fé</h1>
 <div> 
 
 <div align="left">
 <h3>  Bits de Fé : Explorando Todos os Temas da Palavra de Deus</h3>
 
-A Bíblia é um livro vivo, repleto de sabedoria para todas as áreas da vida. No bitsdefe, queremos explorar cada tema da Palavra de Deus de forma profunda e acessível, trazendo reflexões que nos ajudem a crescer espiritualmente.
-<br/><br/>
-Neste espaço, tecnologia e fé caminham juntas. Assim como a tecnologia evolui e transforma o mundo, a Palavra de Deus nos transforma por dentro. Vamos abordar temas essenciais como graça, salvação, amor, justiça, ética e muitos outros, sempre com base na Bíblia e em uma visão equilibrada.
-<br/><br/>
-Nosso objetivo não é apenas estudar, mas também debater e aprender juntos. Cada tema será explorado com perguntas, desafios e aplicações práticas, para que possamos viver a fé no dia a dia.
-Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versículo nos aproximam mais da verdade.
+<p>Bits de Fé é um site cristão com foco em ensino, reflexão e crescimento espiritual, unindo fé e tecnologia.  </p>
+ 
+<p>O projeto tem como objetivo compartilhar conteúdos bíblicos, estudos, ensinamentos e temas relacionados à vida cristã, família e igreja, de forma acessível para todas as idades.</p>
+
+<p> A Bíblia é um livro vivo, repleto de sabedoria para todas as áreas da vida. No bitsdefe, queremos explorar cada tema da Palavra de Deus de forma profunda e acessível, trazendo reflexões que nos ajudem a crescer espiritualmente.</p>
+
+<p>Neste espaço, tecnologia e fé caminham juntas. Assim como a tecnologia evolui e transforma o mundo, a Palavra de Deus nos transforma por dentro. Vamos abordar temas essenciais como graça, salvação, amor, justiça, ética e muitos outros, sempre com base na Bíblia e em uma visão equilibrada.</p>
+
+<p> Nosso objetivo não é apenas estudar, mas também debater e aprender juntos. Cada tema será explorado com perguntas, desafios e aplicações práticas, para que possamos viver a fé no dia a dia.</p>
+
+<p>Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versículo nos aproximam mais da verdade.</p>
+
 <div> 
 <br/><br/>
 
-<h2>:large_blue_circle: Site em desenvolvimento...</h2><br/>
+<h3> Objetivo do Projeto</h3>
+
+### O Bits de Fé nasceu com o propósito de:
+
+- Compartilhar a Palavra de Deus de forma clara e organizada
+- Incentivar o estudo bíblico e a reflexão cristã
+- Oferecer conteúdos para famílias, casais, jovens e igrejas
+- Utilizar a tecnologia como ferramenta para edificação espiritual
+
+> “A fé vem pelo ouvir, e o ouvir pela Palavra de Deus.”  
+> — Romanos 10:17
+<!-- <h2>:large_blue_circle: Site em desenvolvimento...</h2><br/> -->
+
 <hr>
+ <h3>🌍 Site Oficial 🔗 <h3>
+<h4> https://bitsdefe.com.br </h4>
+<hr>
+
 
  * Item 1;            
     * Item 1.1;
@@ -30,7 +50,7 @@ Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versí
   
    <h4>	[Google](https://bitsdefe.com.br) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive</h4>
 
-<h3> :white_check_mark: Linguagens de Marcação e Estilo<h3/>
+<h3> :white_check_mark: Tecnologias Utilizadas<h3/>
 <div>  
 <table>
   <thead>
