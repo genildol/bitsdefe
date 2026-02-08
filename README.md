@@ -1,10 +1,10 @@
 
 
 <div align="center">
-  # Bits de Fé
+ <h2> Bits de Fé</h2>
 <div> 
 
-
+<div align="left">
 <h3>  Bits de Fé : Explorando Todos os Temas da Palavra de Deus</h3>
 
 A Bíblia é um livro vivo, repleto de sabedoria para todas as áreas da vida. No bitsdefe, queremos explorar cada tema da Palavra de Deus de forma profunda e acessível, trazendo reflexões que nos ajudem a crescer espiritualmente.
@@ -31,6 +31,7 @@ Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versí
    <h4>	[Google](https://bitsdefe.com.br) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive</h4>
 
 <h3> :white_check_mark: Linguagens de Marcação e Estilo<h3/>
+<div>  
 <table>
   <thead>
     <tr align="left">
