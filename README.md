@@ -58,7 +58,20 @@ bitsdefe/<br/>
 ├── textos.php<br/>
 ├── README.md<br/>
 └── .htaccess<br/>
-  
+
+## Status do Projeto
+
+### Em desenvolvimento contínuo
+Novos conteúdos e funcionalidades estão sendo adicionados gradualmente.
+
+<hr>
+Autor
+
+Genildo Souza
+Projeto desenvolvido com fé, propósito e tecnologia.
+
+“Tudo o que fizerem, façam para a glória de Deus.”
+— 1 Coríntios 10:31
 
 <h3> :white_check_mark: Tecnologias Utilizadas<h3/>
 <div>  
