@@ -1,5 +1,9 @@
 
-# Bits de Fé
+
+<div align="center">
+  # Bits de Fé
+<div> 
+
 
 <h3>  Bits de Fé : Explorando Todos os Temas da Palavra de Deus</h3>
 
@@ -24,7 +28,7 @@ Seja bem-vindo ao bitsdefe – um lugar onde cada linha de código e cada versí
    * Item 2.1;
    * Item 2.2;
   
-   <h4>	[Google](https://www.bitsdefe.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive</h4>
+   <h4>	[Google](https://bitsdefe.com.br) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive</h4>
 
 <h3> :white_check_mark: Linguagens de Marcação e Estilo<h3/>
 <table>
