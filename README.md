@@ -36,21 +36,16 @@
 <hr>
   <h3>📁 Estrutura do Projeto</h3>
 
-
 bitsdefe/<br/>
 ├── index.php<br/>
 ├── pages/<br/>
 │   └── ...<br/>
 ├── templates/<br/>
-│   ├── navbar.php<br/>
-│   └── footer.php<br/>
 ├── public/<br/>
 │   ├── css/<br/>
 │   ├── js/<br/>
 │   └── images/<br/>
 ├── db.php<br/>
-├── like.php<br/>
-├── textos.php<br/>
 ├── README.md<br/>
 └── .htaccess<br/>
 
