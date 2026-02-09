@@ -40,11 +40,6 @@
 bitsdefe/<br/>
 ├── index.php<br/>
 ├── pages/<br/>
-│   ├── home.php<br/>
-│   ├── sobre.php<br/>
-│   ├── igreja/<br/>
-│   ├── estudos/<br/>
-│   ├── familia/<br/>
 │   └── ...<br/>
 ├── templates/<br/>
 │   ├── navbar.php<br/>
