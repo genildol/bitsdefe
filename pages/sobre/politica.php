@@ -1,4 +1,5 @@
   <div class="container">
+    <title>Bits de Fé - Política de Privacidade</title>
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">Política de Privacidade – Bits de Fé</h2>
@@ -32,132 +33,142 @@
             <li>Dados anônimos de navegação (como páginas acessadas e tempo de visita.</li>
           </ul>
           <p>Essas informações são coletadas de forma justa, legal e transparente, sempre com o conhecimento do usuário.</p>
-
-
-
-          <p></p>
-
-          <p></p>
-
-          <p></p>
-
-          <p></p>
-
         </div>
-        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-          <h2 class="mb-4">Aumente seu conhecimento</h2>
 
-          <section class="noticias bg-light py-5">
-            <div class="container">
-              <!-- <h2 class="mb-4">Notícias</h2> -->
-              <div class="row g-4">
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 1</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a>
-                      </p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
-                  </div>
-                </div>
+        <div class="col-md-12 mb-4">
+          <strong>
+            <ul>4. Status do Projeto</ul>
+          </strong>
+          <ul>
+            <li>Em desenvolvimento contínuo</li>
+          </ul>
+        </div>
 
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 2</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
-                  </div>
-                </div>
+        <div class="col-md-12 mb-4">
+          <strong>
+            <ul>5. Autor do Projeto</ul>
+          </strong>
+          <ul>
+            <li>Genildo Souza - Projeto desenvolvido com fé, propósito e tecnologia</li>
+          </ul>
+          <ul><i>“Tudo o que fizerem, façam para a glória de Deus.” — 1 Coríntios 10:31</i></ul>
+        </div>
 
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
+      </div>
+      <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+        <h2 class="mb-4">Aumente seu conhecimento</h2>
+
+        <section class="noticias bg-light py-5">
+          <div class="container">
+            <!-- <h2 class="mb-4">Notícias</h2> -->
+            <div class="row g-4">
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 1</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a>
+                    </p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 2</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
+              </div>
+
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
-                <div class="col-md-4">
-                  <div class="card h-100">
-                    <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
-                    <div class="card-body">
-                      <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                          diam amet</a></p>
-                      <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                    </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                        diam amet</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
               </div>
             </div>
-          </section>
+          </div>
+        </section>
 
-        </div>
       </div>
     </div>
+  </div>
   </div>
