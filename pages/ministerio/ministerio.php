@@ -14,45 +14,46 @@
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
         <h3 class="display-8 mb-4">Um Ministério forjado por Deus</h3>
-        <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-          literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-          College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-          Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-          Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-          Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-          1.10.32.</p>
+        <p>O caráter e a responsabilidade dos homens que conduzem o povo de Deus</p>
+        <p> O ministério cristão não é uma posição de prestígio, status ou reconhecimento humano. Na verdade, é uma responsabilidade espiritual extremamente séria, concedida por Deus àqueles que são chamados para cuidar, ensinar, aconselhar e guiar o Seu povo.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-          dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-          nobis assumenda suscipit.</p>
+        <p>Ao longo das Escrituras, vemos que Deus levanta homens para servir como pastores, presbíteros, anciãos, cooperadores e pregadores da Palavra, homens que se colocam diante da igreja para orientar, corrigir, consolar e fortalecer os irmãos.</p>
 
-        <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-          literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-          College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-          Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-          Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-          Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-          1.10.32.</p>
+        <p>Porém, a Bíblia deixa claro que nem todo aquele que deseja uma posição está preparado para ela. O ministério não nasce do desejo humano, mas do chamado e da formação de Deus.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-          dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-          nobis assumenda suscipit.</p>
+        <i>“Ninguém toma esta honra para si mesmo, senão quando é chamado por Deus.”
+          (Hebreus 5:4)</i>
+
+
+        <h5 class="display-8 mb-4">O que é o ministério cristão?</h5>
+
+        <p>O ministério é, antes de tudo, serviço. A palavra "ministério" significa justamente isso: servir.Jesus ensinou que liderança no Reino de Deus não funciona como liderança no mundo. No mundo, líderes dominam; no Reino de Deus, líderes servem.</p>
+
+        <i>“Quem quiser tornar-se grande entre vós será esse o que vos sirva.”
+          (Mateus 20:26)</i>
+        <p>Portanto, o homem que assume um ministério precisa compreender que não está acima da igreja, mas a serviço dela.</p>
+
+        <h5 class="display-8 mb-4">Quem são os homens que exercem ministério na igreja?</h5>
+        <p>A Bíblia apresenta diferentes funções dentro da liderança espiritual da igreja:</p>
+        <p><strong>Pastor</strong> O pastor é aquele que cuida do rebanho, alimenta espiritualmente, protege contra falsos ensinamentos e acompanha o crescimento espiritual da igreja.</p>
+
+        <i>“Apascentai o rebanho de Deus que está entre vós.”
+          (1 Pedro 5:2)</i>
+
+
+
+
+
+
+
+
       </div>
 
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
         <h3 class="display-8 mb-4">Um Líder de Deus</h3>
 
         <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-          literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-          College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-          Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-          Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
+          Contrary to popular belief,eory of ethics, very popular during the
           Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
           1.10.32.</p>
 
@@ -60,15 +61,6 @@
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
           nobis assumenda suscipit.</p>
 
-        <p>Where does it come from?
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-          literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-          College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-          and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-          Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-          Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-          Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-          1.10.32.</p>
 
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
           dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
