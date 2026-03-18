@@ -156,7 +156,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="card text-center h-100">
           <div class="card-body">
-            <img src="./public/assets/img/icon/icon-1.png" class="mb-3" alt="Icon 1" style="width: 60px;">
+            <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-1.png" class="mb-3" alt="Icon 1" style="width: 60px;">
             <h5 class="card-title">Sentido da Vida</h5>
             <p class="card-text">Deus convida você a refletir sobre o verdadeiro sentido da existência e sobre as escolhas que têm moldado sua caminhada</p>
           </div>
@@ -166,7 +166,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="card text-center h-100">
           <div class="card-body">
-            <img src="./public/assets/img/icon/icon-2.png" class="mb-3" alt="Icon 2" style="width: 60px;">
+            <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-2.png" class="mb-3" alt="Icon 2" style="width: 60px;">
             <h5 class="card-title">Verdade que Confronta</h5>
             <p class="card-text">A Bíblia conforta e confronta o coração humano. Deus nos leva a rever pensamentos, atitudes e caminhos, revelando o que precisa ser alinhado à vontade do Senhor</p>
           </div>
@@ -176,7 +176,7 @@
       <div class="col-lg-4 col-md-6">
         <div class="card text-center h-100">
           <div class="card-body">
-            <img src="./public/assets/img/icon/icons8-chama-48.png" alt="Icon 3" style="width: 60px;">
+            <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-3.png" alt="Icon 3" style="width: 60px;">
             <h5 class="card-title">Tempo e Eternidade</h5>
             <p class="card-text">O tempo passa, mas a eternidade permanece. Este conteúdo conduz você a refletir sobre como tem vivido hoje e como suas decisões ecoam na eternidade</p>
           </div>
@@ -219,7 +219,7 @@
           <div class="service-item position-relative h-100">
             <div class="service-text rounded p-5">
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="./public/assets/img/icon/icon-5.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-5.png" alt="Icon">
               </div>
               <h5 class="mb-3">Salvar o ser humano do pecado</h4>
                 <p class="mb-0">Essa é a missão central de Jesus. Ele veio para oferecer salvação e reconciliação com Deus. Tudo o que Jesus ensina</p>
@@ -233,7 +233,7 @@
           <div class="service-item position-relative h-100">
             <div class="service-text rounded p-5">
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="./public/assets/img/icon/icon-6.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-6.png" alt="Icon">
               </div>
               <h5 class="mb-3">Fazer discípulos e “pescadores de homens”</h4>
                 <p class="mb-0">Jesus não veio agir sozinho, mas formar pessoas que continuariam Sua obra. Ao chamar os discípulos, Ele os </p>
@@ -247,7 +247,7 @@
           <div class="service-item position-relative h-100">
             <div class="service-text rounded p-5">
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="./public/assets/img/icon/icon-7.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-7.png" alt="Icon">
               </div>
               <h5 class="mb-3">Unir pessoas, povos e nações</h4>
                 <p class="mb-0">Jesus revela que o Reino de Deus não está limitado a um povo, língua ou cultura. Ele quebra barreiras religiosas e</p>
@@ -261,7 +261,7 @@
           <div class="service-item position-relative h-100">
             <div class="service-text rounded p-5">
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="./public/assets/img/icon/icon-8.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-8.png" alt="Icon">
               </div>
               <h5 class="mb-3">Cuidar dos pobres, marginalizados e presos</h4>
                 <p class="mb-0">Jesus demonstra que o Reino de Deus se manifesta por meio da misericórdia prática. Ele se identifica com os que sofrem</p>
@@ -275,7 +275,7 @@
           <div class="service-item position-relative h-100">
             <div class="service-text rounded p-5">
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="./public/assets/img/icon/icon-9.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-9.png" alt="Icon">
               </div>
               <h5 class="mb-3">Mostrar quem é Deus</h4>
                 <p class="mb-0">Jesus veio revelar o caráter do Pai por meio de Suas palavras e atitudes. Por meio de Jesus, Deus se revela como amor, graça, justiça e verdade</p>
@@ -289,7 +289,7 @@
           <div class="service-item position-relative h-100">
             <div class="service-text rounded p-5">
               <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="./public/assets/img/icon/icon-10.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-10.png" alt="Icon">
               </div>
               <h5 class="mb-3">Transformar vidas e a criação</h4>
                 <p class="mb-0">Jesus não veio apenas para perdoar pecados, mas para restaurar a dignidade humana e trazer vida plena. Jesus veio transformar vidas e a criação inteira.</p>
@@ -315,7 +315,7 @@
       <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.1s">
         <div class="project-item mb-5">
           <div class="position-relative" height="400px">
-            <img class="img-fluid" src="./public/assets/img/osilencio1.PNG" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/osilencio1.PNG" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/osilencio">O Silêncio que revela: Quando Deus pergunta o que você quer da sua vida</a>
@@ -325,7 +325,7 @@
 
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/prova1.jpg" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/prova1.jpg" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/escolhasinvisiveis">Escolhas invisíveis, consequências eternas</a>
@@ -334,7 +334,7 @@
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/casalidoso.jpg" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/casalidoso.jpg" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/tempopassou">O tempo que passou não volta, mas pode ensinar</a>
@@ -343,7 +343,7 @@
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/fantasia.jpg" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/fantasia.jpg" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/fantasia">Um mundo de fantasias</a>
@@ -354,7 +354,7 @@
 
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/seducao.jpg" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/seducao.jpg" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/oquevcvive">O que você tem vivido reflete o que você crê</a>
@@ -363,7 +363,7 @@
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/perdido.jpg" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/perdido.jpg" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/duvidasofim">Dúvidas não são o fim, podem ser o começo</a>
@@ -372,7 +372,7 @@
         </div>
         <div class="project-item mb-5">
           <div class="position-relative">
-            <img class="img-fluid" src="./public/assets/img/idosopensando.jpg" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/idosopensando.jpg" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/quandoterminar">Quando tudo terminar, o que terá valido a pena?</a>
