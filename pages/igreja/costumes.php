@@ -82,7 +82,7 @@
             <div class="row g-4">
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card1.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 1</h3> -->
                     <p class="card-text"><a href="">Você Sabia que...</a>
@@ -94,7 +94,7 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card2.jpg" alt="" class=" card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card2.jpg" alt="" class=" card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 2</h3> -->
                     <p class="card-text"><a href="">Entenda a Bíblia</a></p>
@@ -105,7 +105,7 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card3.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
@@ -115,7 +115,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card4.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card4.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
@@ -125,7 +125,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card5.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card5.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
@@ -135,7 +135,7 @@
               </div>
               <div class="col-md-4" heigth="150">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card6.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card6.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Estudos Rápidos</a></p>
@@ -145,7 +145,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card7.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card7.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
@@ -155,7 +155,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card8.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card8.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Promessas de Deus</a></p>
@@ -165,7 +165,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card9.jpg" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card9.jpg" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Erros Comuns na Fé</a></p>
@@ -195,7 +195,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-              <img class="img-fluid" src="img/icon/icon-1.png" alt="Icon">
+              <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-1.png" alt="Icon">
             </div>
             <h5 class="mb-3">Award Winning</h5>
             <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
@@ -213,7 +213,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-              <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
+              <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-3.png" alt="Icon">
             </div>
             <h5 class="mb-3">Fair Prices</h5>
             <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
@@ -222,7 +222,7 @@
         <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
           <div class="feature-item border h-100 p-5">
             <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-              <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
+              <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-4.png" alt="Icon">
             </div>
             <h5 class="mb-3">24/7 Support</h5>
             <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>

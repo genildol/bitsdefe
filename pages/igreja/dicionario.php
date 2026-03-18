@@ -21,7 +21,7 @@
 				<!-- Card 1 -->
 				<div class="col-lg-4 col-md-6">
 					<div class="card h-100">
-						<img src="./public/assets/images/home/antigotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 1 Image">
+						<img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/home/antigotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 1 Image">
 						<div class="card-body">
 							<h5 class="card-title">Antigo Testamento</h5>
 							<p class="card-text">
@@ -34,7 +34,7 @@
 				<!-- Card 2 -->
 				<div class="col-lg-4 col-md-6">
 					<div class="card h-100">
-						<img src="./public/assets/images/home/novotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 2 Image">
+						<img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/home/novotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 2 Image">
 						<div class="card-body">
 							<h5 class="card-title">Novo Testamento</h5>
 							<p class="card-text">
@@ -48,7 +48,7 @@
 				<!-- Card 3 -->
 				<div class="col-lg-4 col-md-6">
 					<div class="card h-100">
-						<img src="./public/assets/images/home/mortedejesuscristo.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 3 Image">
+						<img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/home/graca.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 3 Image">
 						<div class="card-body">
 							<h5 class="card-title">A graça de Deus</h5>
 							<p class="card-text">

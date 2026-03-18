@@ -14,7 +14,7 @@
     <!-- Card 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="card h-100">
-        <img src="img/carousel-2.jpg" alt="Image" class="card-img-top" alt="Card 1 Image">
+        <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon" alt="Image" class="card-img-top" alt="Card 1 Image">
         <div class="card-body">
           <h5 class="card-title">Antigo Testamento</h5>
           <p class="card-text">
@@ -163,7 +163,7 @@
             <div class="row g-4">
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/cards/card1.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 1</h3> -->
                     <p class="card-text"><a href="">Você Sabia que...</a>
