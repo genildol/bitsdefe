@@ -16,7 +16,7 @@
 
           Tenha a guia de Deus, peça sabedoria ao Espírito Santo para tomar decisões corretas em sua vida para saber que diante dessa situação continuar em um relacionamento é está assinando um cheque em branco para o sofrimento. Muias pessoas assumem compromissos sem antes avaliar se há compatibilidade real entre as partes envolvidas.</p> Não vamos negar que a convivência humana é complexa e que diferenças podem ser superadas com amor, respeito e compromisso mútuo. No entanto, quando essas diferenças são irreconciliáveis e afetam negativamente a fé, a paz e o bem-estar emocional, a Bíblia reconhece que pode ser necessário encerrar o relacionamento: “Se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão” (Mateus 18:15). Se não houver arrependimento ou mudança, a separação pode ser a melhor opção para preservar a integridade espiritual de ambos.</p>
 
-         <p>Algumas pessoas já assumem a fala dizendo que não vai mudar, que é assim mesmo, que não tem jeito, e assumir uma relação sabendo que pode evitar tanto transtornos é o melhor a si fazer. Bíblia nos encoraja a buscar a sabedoria de Deus em todas as decisões: “Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada” (Tiago 1:5).</p>
+          <p>Algumas pessoas já assumem a fala dizendo que não vai mudar, que é assim mesmo, que não tem jeito, e assumir uma relação sabendo que pode evitar tanto transtornos é o melhor a si fazer. Bíblia nos encoraja a buscar a sabedoria de Deus em todas as decisões: “Se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada” (Tiago 1:5).</p>
 
           <p>Por outro lado, a desistência do relacionamento pode acontecer mesmo quando há compatibilidade, geralmente por fatores como falta de comunicação, quebra de confiança, egoísmo ou imaturidade emocional. A Bíblia mostra que relacionamentos <strong>exigem esforço, perdão e diálogo constante:</strong> “Suportai-vos uns aos outros, e perdoai-vos uns aos outros” (Colossenses 3:13). A falta de disposição para ouvir e compreender pode enfraquecer vínculos que poderiam ser fortalecidos: “O que responde antes de ouvir comete estultícia” (Provérbios 18:13).</p>
 
@@ -25,6 +25,11 @@
           <p>Entretanto, quando a incompatibilidade é profunda, persistente e compromete a fé, a paz e o bem-estar emocional e espiritual, a Bíblia reconhece a importância da paz e da sabedoria na tomada de decisões: “Se for possível, quanto estiver em vós, tende paz com todos os homens” (Romanos 12:18). “O prudente atenta para os seus passos” (Provérbios 14:15).</p>
 
           <p>Em resumo, a incompatibilidade refere-se a diferenças fundamentais que dificultam a harmonia no relacionamento, enquanto a desistência é uma decisão que pode ocorrer por vários fatores além dessas diferenças. A orientação bíblica é buscar discernimento, agir com amor e sabedoria, e colocar Deus no centro de toda decisão: “Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas” (Provérbios 3:6).</p>
+
+          Pensamento Crítico
+          <strong>
+            <p><i>"Quem alimenta o fogo não deve reclamar da fumaça."</i></p>
+          </strong>
 
         </div>
 
@@ -40,7 +45,7 @@
                   <p class="card-text">
                     Não dar certo ou não quer dar certo?
                   </p>
-                  <a href="#" class="btn btn-primary">Learn More</a>
+                  <a href="#" class="btn btn-primary">Veja aqui...</a>
                 </div>
               </div>
             </div>
@@ -52,7 +57,7 @@
                   <p class="card-text">
                     Lembre-se: Deus é amor e você é precioso para Ele.
                   </p>
-                  <a href="#" class="btn btn-primary">Learn More</a>
+                  <a href="#" class="btn btn-primary">Veja aqui...</a>
                 </div>
               </div>
             </div>
@@ -64,7 +69,7 @@
                   <p class="card-text">
                     Você desistiu ou foi incompatível?
                   </p>
-                  <a href="#" class="btn btn-primary">Learn More</a>
+                  <a href="#" class="btn btn-primary">Veja aqui...</a>
                 </div>
               </div>
             </div>
@@ -100,10 +105,11 @@
 
                 <div class="col-md-4">
                   <div class="card h-100">
-                    <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
+                    <img src="./public/assets/images/fidelidade.png" alt="" class="card-img-top" width="150px" height="200px">
+                    <!-- <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/fidelidade.png" alt="" class="card-img-top"> -->
                     <div class="card-body">
                       <!-- <h3 class="card-title">Notícia 3</h3> -->
-                      <p class="card-text"><a href="">Cuidados com o </a></p>
+                      <p class="card-text"><a href="index.php?page=files/preguefidelidade">Um Reflexo do Caráter de Deus</a></p>
                       <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                     </div>
                   </div>
@@ -191,37 +197,37 @@
           <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
             <div class="feature-item border h-100 p-5">
               <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="img/icon/icon-1.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-1.png" alt="Icon">
               </div>
-              <h5 class="mb-3">Award Winning</h5>
-              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+              <h5 class="mb-3">O que você quer?</h5>
+              <p class="mb-0">Entenda suas prioridades e objetivos para tomar decisões alinhadas com seus valores.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
             <div class="feature-item border h-100 p-5">
               <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="img/icon/icon-2.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-1.png" alt="Icon">
               </div>
-              <h5 class="mb-3">Professional Staff</h5>
-              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+              <h5 class="mb-3">Pensamento Crítico</h5>
+              <p class="mb-0">Desenvolva a capacidade de analisar informações e tomar decisões informadas.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
             <div class="feature-item border h-100 p-5">
               <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-1.png" alt="Icon">
               </div>
-              <h5 class="mb-3">Fair Prices</h5>
-              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+              <h5 class="mb-3">Comunicação Eficaz</h5>
+              <p class="mb-0">Aprenda a expressar suas ideias de forma clara e respeitosa, melhorando suas relações interpessoais.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
             <div class="feature-item border h-100 p-5">
               <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-                <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
+                <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-1.png" alt="Icon">
               </div>
-              <h5 class="mb-3">24/7 Support</h5>
-              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+              <h5 class="mb-3">Resolução de Conflitos</h5>
+              <p class="mb-0">Aprenda a lidar com desacordos e conflitos de forma construtiva, promovendo entendimento e harmonia.</p>
             </div>
           </div>
         </div>
