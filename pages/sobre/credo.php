@@ -1,5 +1,5 @@
 <div class="container-fluid">
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-md-6 offset-md-3">
       <div id="carouselExampleIndicators" class="carousel carousel-dark slide" data-bs-ride="carousel"
         data-bs-interval="3000">
@@ -16,21 +16,18 @@
             <img src="img/project-1.jpg" alt="Primeiro slide" style="width: 100%; height: 350px;">
             <div class=" carousel-caption d-none d-md-block">
               <h5>Meu Credo</h5>
-              <!-- <p>Descrição do primeiro slide</p> -->
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/project-3.jpg" alt="Segundo slide" style="width: 100%; height: 350px;">
             <div class="carousel-caption d-none d-md-block">
               <h5>Segundo Slide</h5>
-              <!-- <p>Descrição do segundo slide</p> -->
             </div>
           </div>
           <div class="carousel-item">
             <img src="img/project-2.jpg" alt="Terceiro slide" style="width: 100%; height: 350px;">
             <div class="carousel-caption d-none d-md-block">
               <h5>Terceiro Slide</h5>
-              <!-- <p>Descrição do terceiro slide</p> -->
             </div>
           </div>
         </div>
@@ -46,7 +43,7 @@
         </button>
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
 <br>
 <div class="container-xxl py-5">

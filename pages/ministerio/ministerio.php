@@ -107,47 +107,149 @@
 
         <p>Um ministério pode continuar funcionando externamente enquanto espiritualmente já começou a morrer.</p>
         <p>Por isso, todo homem chamado por Deus precisa vigiar continuamente sua comunhão com o Senhor.</p>
+        <hr>
+        <h5 class="display-8 mb-4">Quem alimenta o povo precisa primeiro ser alimentado por Deus</h5>
 
-        <div class="container-xxl py-4">
-          <h6 class="display-8 mb-2">Êxodo 3:10-12</h6>
-          <i>Vem agora, pois, e eu te enviarei a Faraó para que tires o meu povo (os filhos de Israel) do Egito.</i>
-          <i>¹¹ Então Moisés disse a Deus: Quem sou eu, que vá a Faraó e tire do Egito os filhos de Israel?</i>
-          <i>¹² E disse: Certamente eu serei contigo; e isto te será por sinal de que eu te enviei: Quando houveres tirado este povo do Egito, servireis a Deus neste monte.</i>
-        </div>
+        <p>Nenhum pastor consegue alimentar espiritualmente uma igreja se ele próprio estiver espiritualmente vazio.</p>
 
-        <p>No Novo Testamento, Jesus escolheu e preparou os doze apóstolos para apascentarem Seu rebanho (Mateus 10:1-8; João 21:15-17), e os apóstolos estabeleceram presbíteros em cada igreja (Atos 14:23), reconhecendo homens aptos para ensinar e cuidar do rebanho (1 Timóteo 3:1-7; Tito 1:5-9).</p>
-        </p>
+        <p>Jeremias declarou:</p>
+        <i>"Achadas as tuas palavras, logo as comi; e a tua palavra foi para mim o gozo e a alegria do meu coração."
+          (Jeremias 15:16)</i>
 
+        <ul>
+          <li>Antes de anunciar a Palavra...</li>
+          <li>Jeremias a recebeu.</li>
+          <li>Antes de ensinar...</li>
+          <li>Ele foi ensinado.</li>
+          <li>Antes de falar...</li>
+          <li>Ele ouviu.</li>
+        </ul>
+        <p>Esse princípio continua sendo verdadeiro hoje. Todo ministro precisa ser, antes de tudo, um discípulo constante das Escrituras.</p>
 
+        <hr>
+        <h5 class="display-8 mb-4">O pastor deve refletir o coração do Supremo Pastor</h5>
 
-        <p>Porém, a Bíblia deixa claro que nem todo aquele que deseja uma posição está preparado para ela. O ministério não nasce do desejo humano, mas do chamado e da formação de Deus.</p>
+        <p>Jesus não apenas ensinou como um pastor deve agir.</p>
+        <p>Ele viveu isso.</p>
+        <i>"Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas."
+          (João 10:11)</i>
 
-        <i>“Ninguém toma esta honra para si mesmo, senão quando é chamado por Deus.”
-          (Hebreus 5:4)</i>
+        <ul>
+          <li>O bom pastor conhece suas ovelhas.</li>
+          <li>Ora por elas.</li>
+          <li>Chora com elas.</li>
+          <li>Alegra-se com elas.</li>
+          <li>Ensina.</li>
+          <li>Corrige.</li>
+          <li>Protege.</li>
+        </ul>
 
+        <p>Nunca usa as ovelhas para benefício próprio.</p>
+        <p>Antes, entrega sua própria vida em favor delas.</p>
+        <p>O verdadeiro ministério não transforma pessoas em instrumentos para crescimento pessoal. Ele se sacrifica para que elas cresçam em Cristo.</p>
+        <hr>
 
-        <h5 class="display-8 mb-4">O que é o ministério cristão?</h5>
-        <h5 class="display-8 mb-4">Quem são os homens que exercem ministério na igreja?</h5>
+        <h5 class="display-8 mb-4">O zelo pelas almas exige responsabilidade</h5>
 
-        <p>O ministério é, antes de tudo, serviço. A palavra "ministério" significa justamente isso: servir.Jesus ensinou que liderança no Reino de Deus não funciona como liderança no mundo. No mundo, líderes dominam; no Reino de Deus, líderes servem.</p>
+        <p>Cada pessoa confiada aos cuidados de um líder possui valor eterno.</p>
+        <p>Cristo derramou Seu sangue por cada uma delas.</p>
+        <p>Por isso, o escritor aos Hebreus faz uma afirmação extremamente séria.</p>
+        <i>"Obedecei aos vossos guias... pois velam por vossa alma, como quem deve prestar contas."
+          (Hebreus 13:17)</i>
+        <p>Todo líder espiritual um dia prestará contas diante de Deus.</p>
 
-        <i>“Quem quiser tornar-se grande entre vós será esse o que vos sirva.”
-          (Mateus 20:26)</i>
-        <p>Portanto, o homem que assume um ministério precisa compreender que não está acima da igreja, mas a serviço dela.</p>
+        <ul>
+          <li>Não apenas pelo que pregou.</li>
+          <li>Mas por como viveu.</li>
+          <li>Por como tratou as pessoas.</li>
+          <li>Por como aconselhou.</li>
+          <li>Por como exerceu autoridade.</li>
+        </ul>
+        <p>Essa verdade deveria produzir temor santo em todo homem que ocupa um ministério.</p>
 
-        <h5 class="display-8 mb-4">Quem são os homens que exercem ministério na igreja?</h5>
-        <p>A Bíblia apresenta diferentes funções dentro da liderança espiritual da igreja:</p>
-        <p><strong>Pastor</strong> O pastor é aquele que cuida do rebanho, alimenta espiritualmente, protege contra falsos ensinamentos e acompanha o crescimento espiritual da igreja.</p>
+        <hr>
+
+        <h5 class="display-8 mb-4">O Espírito Santo continua sendo o verdadeiro Pastor da Igreja</h5>
+
+        <p>Nenhum homem é dono da Igreja.</p>
+        <p>A Igreja pertence a Cristo.</p>
+        <p>O Espírito Santo continua dirigindo Seu povo.</p>
+        <p>Quando Paulo se despediu dos presbíteros de Éfeso, ele fez uma observação extraordinária.</p>
+
+        <i>"Olhai por vós e por todo o rebanho sobre o qual o Espírito Santo vos constituiu bispos."
+          (Atos 20:28)</i>
+
+        <ul>
+          <li>Não foi uma eleição humana.</li>
+          <li>Não foi um título.</li>
+          <li>Não foi influência.</li>
+        </ul>
+
+        <p>Foi o Espírito Santo quem os colocou naquela função. Da mesma forma, somente o Espírito Santo pode sustentar um verdadeiro ministério.</p>
+
+        <hr>
+        <h5 class="display-8 mb-4">Um ministério sem santidade perde sua autoridade espiritual</h5>
+
+        <p>O ministério não é apenas uma função, mas um estilo de vida.</p>
+        <p>A autoridade do homem de Deus não está em sua voz.</p>
+
+        <p>Nem em seu cargo.</p>
+        <p>Nem em sua fama.</p>
+        <p>Sua autoridade nasce da sua vida diante de Deus.</p>
+        <p>Paulo escreveu:</p>
+
+        <i>"Tem cuidado de ti mesmo e da doutrina; persevera nestas coisas."
+          (1 Timóteo 4:16)</i>
+
+        <ul>
+          <li>Observe a ordem novamente.</li>
+          <li>Primeiro...</li>
+          <li>Cuida de ti mesmo.</li>
+          <li>Depois...</li>
+          <li>Da doutrina.</li>
+        </ul>
+        <p>O homem que não vigia sua própria vida jamais conseguirá cuidar corretamente da vida espiritual de outras pessoas.</p>
+        <hr>
+        <h5 class="display-8 mb-4">Deus continua formando homens escondidos</h5>
+
+        <p>Vivemos em uma geração fascinada por visibilidade.</p>
+        <p>Mas Deus continua formando Seus servos longe dos holofotes.</p>
+
+        <ul>
+          <li>Foi assim com José na prisão.</li>
+          <li>Foi assim com Davi nos campos.</li>
+          <li>Foi assim com Elias junto ao ribeiro de Querite.</li>
+          <li>Foi assim com João Batista no deserto.</li>
+          <li>Foi assim com Paulo durante anos de preparo antes de iniciar suas viagens missionárias.</li>
+          <li>Antes de Deus revelar um homem ao público...</li>
+          <li>Normalmente o forma no secreto.</li>
+        </ul>
+
+        <p>Porque a intimidade construída no anonimato sustenta a fidelidade quando chegam a influência, o reconhecimento e a responsabilidade.</p>
+        <i>"Teu Pai, que vê em secreto, te recompensará."
+          (Mateus 6:6)</i>
+
+        <hr>
+        <h5 class="display-8 mb-4">Um ministério forjado por Deus nunca deixa de depender de Deus</h5>
+        <p>O maior sinal de maturidade espiritual não é o tempo de ministério.</p>
+        <p>Não é a quantidade de sermões pregados.</p>
+        <p>Não é o número de pessoas lideradas.</p>
+        <p>É permanecer dependente de Deus mesmo depois de muitos anos caminhando com Ele.</p>
+        <p>Quanto mais um homem conhece a Deus, mais percebe o quanto precisa da Sua graça.</p>
+        <p>Foi por isso que Jesus declarou:</p>
+        <i>"Sem mim nada podeis fazer."
+          (João 15:5)</i>
+
+        <p>Essa talvez seja a maior lição de um ministério forjado por Deus.</p>
+        <p>O verdadeiro líder espiritual nunca acredita que chegou ao ponto de não precisar mais aprender, orar ou buscar ao Senhor.</p>
+        <p>Ele compreende que sua força não está em sua experiência, mas na presença constante de Deus.</p>
+        <p>E somente um homem que continua sendo diariamente pastoreado pelo Supremo Pastor será capaz de pastorear o rebanho que Cristo comprou com Seu precioso sangue.</p>
+
+        <i>"E, quando se manifestar o Supremo Pastor, recebereis a imarcescível coroa da glória."
+          (1 Pedro 5:4)</i>
 
         <i>“Apascentai o rebanho de Deus que está entre vós.”
           (1 Pedro 5:2)</i>
-
-
-
-
-
-
-
 
       </div>
 
@@ -270,7 +372,7 @@
   <div class="container">
     <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
       <!-- <p class="fs-5 fw-medium text-primary">Our Services</p> -->
-      <h4 class="display-12 mb-5">Digital Marketing Services that We Offer</h4>
+      <h4 class="display-12 mb-5"></h4>
     </div>
     <div class="row g-4">
       <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -279,12 +381,11 @@
             <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
               <img class="img-fluid" src="img/icon/icon-5.png" alt="Icon">
             </div>
-            <h5 class="mb-3">Digital Marketing</h4>
-              <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                stet</p>
+            <h5 class="mb-3">O pastor segundo o coração de Deus</h4>
+              <p class="mb-0"> </p>
           </div>
           <div class="service-btn rounded-0 rounded-bottom">
-            <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+            <a class="text-primary fw-medium" href="">Veja mais<i class="bi bi-chevron-double-right ms-2"></i></a>
           </div>
         </div>
       </div>
@@ -294,12 +395,11 @@
             <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
               <img class="img-fluid" src="img/icon/icon-6.png" alt="Icon">
             </div>
-            <h5 class="mb-3">Internet Marketing</h4>
-              <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                stet</p>
+            <h5 class="mb-3">Humildade antes da autoridade</h4>
+              <p class="mb-0"> </p>
           </div>
           <div class="service-btn rounded-0 rounded-bottom">
-            <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+            <a class="text-primary fw-medium" href="">Veja mais<i class="bi bi-chevron-double-right ms-2"></i></a>
           </div>
         </div>
       </div>
@@ -309,12 +409,11 @@
             <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
               <img class="img-fluid" src="img/icon/icon-7.png" alt="Icon">
             </div>
-            <h5 class="mb-3">Content Marketing</h4>
-              <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                stet</p>
+            <h5 class="mb-3">Prestaremos contas pelas almas</h4>
+              <p class="mb-0"> </p>
           </div>
           <div class="service-btn rounded-0 rounded-bottom">
-            <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+            <a class="text-primary fw-medium" href="">Veja mais<i class="bi bi-chevron-double-right ms-2"></i></a>
           </div>
         </div>
       </div>
@@ -324,12 +423,11 @@
             <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
               <img class="img-fluid" src="img/icon/icon-8.png" alt="Icon">
             </div>
-            <h5 class="mb-3">Social Marketing</h4>
-              <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                stet</p>
+            <h5 class="mb-3">Servindo antes de liderar</h4>
+              <p class="mb-0"></p>
           </div>
           <div class="service-btn rounded-0 rounded-bottom">
-            <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+            <a class="text-primary fw-medium" href="">Veja mais<i class="bi bi-chevron-double-right ms-2"></i></a>
           </div>
         </div>
       </div>
@@ -339,12 +437,11 @@
             <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
               <img class="img-fluid" src="img/icon/icon-9.png" alt="Icon">
             </div>
-            <h5 class="mb-3">B2B Marketing</h4>
-              <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                stet</p>
+            <h5 class="mb-3">O temor do Senhor</h4>
+              <p class="mb-0"></p>
           </div>
           <div class="service-btn rounded-0 rounded-bottom">
-            <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+            <a class="text-primary fw-medium" href="">Veja mais<i class="bi bi-chevron-double-right ms-2"></i></a>
           </div>
         </div>
       </div>
@@ -354,12 +451,11 @@
             <div class="btn-square bg-light rounded-circle mx-auto mb-4" style="width: 64px; height: 64px;">
               <img class="img-fluid" src="img/icon/icon-10.png" alt="Icon">
             </div>
-            <h5 class="mb-3">E-mail Marketing</h4>
-              <p class="mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam
-                stet</p>
+            <h5 class="mb-3">O poder da oração</h4>
+              <p class="mb-0"></p>
           </div>
           <div class="service-btn rounded-0 rounded-bottom">
-            <a class="text-primary fw-medium" href="">Read More<i class="bi bi-chevron-double-right ms-2"></i></a>
+            <a class="text-primary fw-medium" href="">Veja mais<i class="bi bi-chevron-double-right ms-2"></i></a>
           </div>
         </div>
       </div>
