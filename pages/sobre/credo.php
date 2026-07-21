@@ -1,309 +1,325 @@
 <div class="container-fluid">
-  <!-- <div class="row">
-    <div class="col-md-6 offset-md-3">
-      <div id="carouselExampleIndicators" class="carousel carousel-dark slide" data-bs-ride="carousel"
-        data-bs-interval="3000">
-        <div class="carousel-indicators">
-          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
-            aria-current="true" aria-label="Slide 1"></button>
-          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
-            aria-label="Slide 2"></button>
-          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
-            aria-label="Slide 3"></button>
-        </div>
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="img/project-1.jpg" alt="Primeiro slide" style="width: 100%; height: 350px;">
-            <div class=" carousel-caption d-none d-md-block">
-              <h5>Meu Credo</h5>
-            </div>
+  <div class="row">
+    <div class="container-xxl py-5">
+      <div class="container">
+        <div class="row g-5">
+          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+
+            <h1>No que eu creio</h1>
+            <h5 class="mb-3">CREDO BÍBLICO – BITS DE FÉ</h4>
+
+              <ul>
+                <li>A Bíblia deve ser a autoridade máxima acima de tradições humanas.</li>
+                <li>Todo ensino precisa poder ser examinado pelas Escrituras.</li>
+                <li>Nenhuma denominação é dona da salvação.</li>
+                <li>A igreja existe para anunciar Cristo, e não para promover uma instituição.</li>
+                <li>O conhecimento bíblico é indispensável para o crescimento espiritual.</li>
+                <li>A verdade deve ser anunciada com amor, mas também com coragem.</li>
+                <li>O ministério deve ser um chamado de Deus, marcado por humildade e serviço.</li>
+                <li>A transparência, a responsabilidade e o bom testemunho fazem parte da vida cristã.</li>
+              </ul>
+
+		<h5 class="mb-3">"Conhecereis a verdade, e a verdade vos libertará." (João 8:32)</h4>
+
+			<p>Nós cremos que a Palavra de Deus deve ocupar o lugar mais alto na vida do cristão. Acima de opiniões humanas, tradições, costumes, revelações particulares ou instituições religiosas, está a autoridade das Sagradas Escrituras.</p>
+
+			<h5 class="mb-3">DAS SAGRADAS ESCRITURAS</h4>
+
+				<p>Cremos que a Bíblia Sagrada é a Palavra inspirada por Deus, perfeita, suficiente, verdadeira e imutável, sendo a única regra infalível de fé, doutrina, prática e caráter cristão.</p>
+				<p>Toda doutrina, tradição, revelação, profecia, ensino ou experiência espiritual deve ser examinada à luz das Escrituras, pois Deus jamais contradiz a Sua própria Palavra.</p>
+
+				<strong> <i>"Toda a Escritura é divinamente inspirada..." (2 Timóteo 3:16-17)</i></strong><br>
+				<strong> <i>"Examinai tudo. Retende o bem." (1 Tessalonicenses 5:21)</i></strong>
+				<hr>
+				<h5 class="mb-3">DE DEUS </h4>
+					<p>Cremos em um único Deus verdadeiro, eterno, santo e soberano, Criador dos céus e da terra, existente eternamente em três pessoas distintas e inseparáveis: Pai, Filho e Espírito Santo.</p>
+					<p>A Ele pertencem toda glória, honra, domínio e poder pelos séculos dos séculos.</p>
+
+					<strong> <i>(Dt 6:4; Mt 28:19; Gn 1:1; Ap 4:11)</i></strong>
+					<hr>
+					<h5 class="mb-3">DE JESUS CRISTO </h4>
+						<p>Cremos que Jesus Cristo é o Filho unigênito de Deus, verdadeiro Deus e verdadeiro Homem.</p>
+						<p>Cremos em Seu nascimento virginal, Sua vida sem pecado, Sua morte substitutiva na cruz, Sua ressurreição corporal ao terceiro dia, Sua ascensão aos céus e Sua volta gloriosa para julgar vivos e mortos.</p>
+
+						<p>Somente por meio de Jesus Cristo existe salvação.</p>
+
+						<p>Não há outro nome, outra religião ou outra instituição que possa salvar o homem.</p>
+
+						<strong> <i>(João 14:6; Atos 4:12; Romanos 5:8-10)</i></strong>
+
+			<hr>
+			<h5 class="mb-3">DO ESPÍRITO SANTO</h4>
+				<p>Cremos que o Espírito Santo é Deus.</p>
+				<p>Ele convence o homem do pecado, regenera, santifica, consola, capacita, distribui dons espirituais segundo Sua vontade e guia a Igreja em toda a verdade.</p>
+				<p>O Espírito Santo nunca conduz alguém a contrariar as Escrituras.</p>
+			<strong> <i>(João 16:13; Romanos 8; 1 Coríntios 12)</i></strong>
+
+			<hr>
+			<h5 class="mb-3">DO HOMEM</h4>
+				<hr>
+				<p>Cremos que todos pecaram e estão separados da glória de Deus.</p>
+				<p>Nenhum homem pode salvar-se por méritos próprios.</p>
+				<p>Somente o arrependimento sincero e a fé em Jesus Cristo restauram o relacionamento entre Deus e o homem.</p>
+				<strong> <i>(Romanos 3:23; Efésios 2:8-9)</i></strong>
+				<hr>
+
+				<h5 class="mb-3">DA SALVAÇÃO</h4>
+
+			<p>Cremos que a salvação é um dom gratuito da graça de Deus, recebido exclusivamente mediante a fé em Jesus Cristo.</p>
+			<ul>
+				<li>Nenhuma igreja salva.</li>
+				<li>Nenhum pastor salva.</li>
+				<li>Nenhum ministério salva.</li>
+				<li>Nenhuma tradição salva.</li>
+				<li>Somente Cristo salva.</li>
+			</ul>
+			<strong> <i>(Efésios 2:8-9; João 3:16; Atos 4:12)</i></strong>
+			<hr>
+
+			<h5 class="mb-3">DA IGREJA</h4>
+
+				<p>Cremos que a Igreja de Cristo não está limitada a uma denominação.</p>
+				<p>Ela é formada por todos aqueles que nasceram de novo e pertencem verdadeiramente ao Senhor Jesus, independentemente da placa do templo onde congregam.</p>
+				<p>Cristo é o cabeça da Igreja.</p>
+				<p>A Igreja existe para glorificar a Deus, anunciar o Evangelho e fazer discípulos.</p>
+				<strong> <i>(Efésios 1:22-23; Colossenses 1:18)</i></strong>
+				<hr>
+
+			<h5 class="mb-3">DA CENTRALIDADE DAS ESCRITURAS</h4>
+				<p>Cremos que todo cristão deve ler, estudar, meditar e conhecer profundamente a Palavra de Deus.</p>
+				<p>O conhecimento das Escrituras fortalece a fé, protege contra falsos ensinos e conduz à maturidade espiritual.</p>
+				<p>Nenhum cristão deve depender exclusivamente da interpretação de líderes.</p>
+				<p>Todo discípulo deve conhecer pessoalmente a Palavra de Deus.</p>
+				<strong> <i>(João 5:39; Atos 17:11; Salmo 119)</i></strong>
+				<hr>
+
+				<h5 class="mb-3">DO MINISTÉRIO</h4>
+					<p>Cremos que o ministério não é posição de honra, mas chamado para servir.</p>
+					<p>Ninguém deve assumir um ministério por interesse humano, tradição familiar ou desejo de reconhecimento.</p>
+					<p>Todo verdadeiro ministro deve ser formado primeiro por Deus antes de servir ao povo.</p>
+					<p>Autoridade espiritual nunca deve substituir humildade.</p>
+					<strong> <i>(Hebreus 5:4; Marcos 10:42-45)</i></strong>
+					<hr>
+
+				<h5 class="mb-3">DA SANTIDADE</h4>
+					<p>Cremos que Deus chama Seu povo para uma vida de santidade.</p>
+					<p>A santificação não é aparência exterior, mas transformação interior produzida pelo Espírito Santo.</p>
+					<p>O verdadeiro cristão busca parecer-se cada vez mais com Cristo.</p>
+					<strong> <i>(1 Pedro 1:15-16; Romanos 12:1-2)</i></strong>
+					<hr>
+
+					<h5 class="mb-3">DOS DONS ESPIRITUAIS</h4>
+						<p>Cremos que Deus continua distribuindo dons espirituais para edificação da Igreja.</p>
+						<p>Todo dom deve glorificar Cristo, servir ao próximo e estar em perfeita harmonia com as Escrituras.</p>
+						<p>Nenhuma manifestação espiritual possui autoridade superior à Palavra de Deus.</p>
+						<strong> <i>(1 Coríntios 12-14)</i></strong>
+						<hr>
+
+					<h5 class="mb-3">DA VERDADE</h4>
+						<p>Cremos que amar significa também ensinar a verdade.</p>
+						<p>A correção bíblica faz parte do amor cristão.</p>
+						<p>A verdade nunca deve ser sacrificada para agradar pessoas, assim como o amor nunca deve ser abandonado em nome da verdade.</p>
+						<strong> <i>(Efésios 4:15)</i></strong>
+						<hr>
+
+					<h5 class="mb-3">DA TRANSPARÊNCIA E DO TESTEMUNHO</h4>
+						<p>Cremos que toda liderança cristã deve administrar com responsabilidade aquilo que pertence ao Reino de Deus.</p>
+						<p>Integridade, honestidade, prestação de contas, humildade e transparência glorificam a Deus e fortalecem a confiança da Igreja.</p>
+					<strong> <i>(Lucas 16:10; 2 Coríntios 8:21)</i></strong>
+						<hr>
+
+					<h5 class="mb-3">DO CASAMENTO E DA FAMÍLIA</h4>
+						<p>Cremos que o casamento foi instituído por Deus como união entre um homem e uma mulher.</p>
+						<p>A família é um projeto divino e deve refletir o amor, a fidelidade, o serviço e a aliança estabelecida por Deus.</p>
+						<strong> <i>(Gênesis 2:24; Efésios 5:31; Mateus 19:4-6)</i></strong>
+						<hr>
+
+						<h5 class="mb-3">DA VOLTA DE CRISTO</h4>
+							<p>Cremos que Jesus Cristo voltará.</p>
+							<p>Todo ser humano comparecerá diante de Deus.</p>
+							<p>Os salvos viverão eternamente com Cristo.</p>
+							<p>Os que rejeitarem deliberadamente o Evangelho responderão diante do justo juízo de Deus.</p>
+							<strong> <i>(Apocalipse 20; João 14:1-3)</i></strong>
+							<hr>
+
+							<h5 class="mb-3">NOSSO COMPROMISSO</h4>
+								<p>Comprometemo-nos a anunciar o Evangelho de Jesus Cristo com fidelidade às Escrituras.</p>
+								<p>A examinar tudo pela Palavra de Deus.</p>
+								<p>A rejeitar todo ensino contrário ao Evangelho.</p>
+								<p>A amar as pessoas sem negociar a verdade.</p>
+								<p>A servir com humildade.</p>
+								<p>A reconhecer que nenhum homem é infalível, mas somente Deus.</p>
+								<p>A lembrar que toda honra pertence exclusivamente ao Senhor Jesus Cristo.</p>
+								<hr>
+
+				<h5 class="mb-3">NOSSO LEMA</h4>
+					<strong> <i>"Menos tradição humana. Mais Palavra de Deus. Menos religião. 
+					Mais Cristo. Menos opiniões. Mais Escrituras."</i></strong>
+				<strong> <i>"Soli Deo Gloria — Somente a Deus seja toda a glória."</i></strong>
+
+
+
           </div>
-          <div class="carousel-item">
-            <img src="img/project-3.jpg" alt="Segundo slide" style="width: 100%; height: 350px;">
-            <div class="carousel-caption d-none d-md-block">
-              <h5>Segundo Slide</h5>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img src="img/project-2.jpg" alt="Terceiro slide" style="width: 100%; height: 350px;">
-            <div class="carousel-caption d-none d-md-block">
-              <h5>Terceiro Slide</h5>
-            </div>
-          </div>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-          data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Anterior</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
-          data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Próximo</span>
-        </button>
-      </div>
-    </div>
-  </div> -->
-</div>
-<br>
-<div class="container-xxl py-5">
-  <div class="container">
-    <div class="row g-5">
-      <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+            <h2 class="mb-4">Aumente seu conhecimento</h2>
 
-        <h1>No que eu creio</h1>
+            <section class="noticias bg-light py-5">
+              <div class="container">
+                <!-- <h2 class="mb-4">Notícias</h2> -->
+                <div class="row g-4">
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 1</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a>
+                        </p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
 
-        <!-- <p>This part is inside a .container class.</p> -->
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 2</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
 
-        <p>Cremos na inspiração divina verbal e plenária da Bíblia sagrada, única regra infalível de fé e prática
-          para a
-          vida e o caráter cristão (II Tm 3:14-17);</p>
-
-        <p>Em um só Deus, eternamente subsistente em três pessoas distintas que, embora distintas, são iguais em
-          poder,
-          glória e majestade: o Pai, o Filho e o Espírito Santo; Criador do Universo, de todas as coisas que há nos
-          céus e
-          na terra, visíveis e invisíveis, e, de maneira especial, os seres humanos, por um ato sobrenatural e
-          imediato, e
-          não por um processo evolutivo (Dt.6:4; Mt.28:19; Mc.12:29; Gn1:1; 2:7; Hb.11:3 e Ap.4:11);
-        </p>
-
-        <p> No Senhor Jesus Cristo, o Filho Unigênito de Deus, plenamente Deus, plenamente Homem, na concepção e no
-          seu
-          nascimento virginal, em sua morte vicária e expiatória, em sua ressurreição corporal dentre os mortos e em
-          sua
-          ascensão vitoriosa aos céus como Salvador do mundo (Jo.3:16-18; Rm.1:3,4; Is.7:14; Mt.1:23; Hb.10:12;
-          Rm.8:34 e
-          At.1:9);</p>
-
-        <p>No Espírito Santo, a terceira pessoa da Santíssima Trindade, consubstancial com o Pai e o Filho, Senhor e
-          Vivificador; que convence o mundo do pecado, da justiça e do juízo; que regenera o pecador; que falou por
-          meio
-          dos profetas e continua guiando o seu povo (II Cor.13:13; II Cor.3:6,17; Rm.8:2; Jo.16:11; Tt.3:5; II Pe
-          1:21 e
-          Jo.16:13);</p>
-
-        <p>Na pecaminosidade do homem, que o destituiu da glória de Deus e que somente o arrependimento e a fé na
-          obra
-          expiatória e redentora de Jesus Cristo podem restaurá-lo a Deus (Rm.3:23; At.3:19);</p>
-
-        <p>Na necessidade absoluta do novo nascimento pela graça de Deus mediante a fé em Jesus Cristo e pelo poder
-          atuante
-          do Espírito santo para tornar o homem aceito no Reino dos Céus (Jo.3:3-8; Ef.2:8,9);
-
-        <p>No perdão dos pecados, na salvação plena e na justificação pela fé no sacrifício efetuado por Jesus
-          Cristo em
-          nosso favor (At.10:43; Rm.10:13; 3:24-26; Hb.7:25; 5:9);</p>
-
-        <p> Na Igreja, que é o corpo de Cristo, coluna e firmeza da verdade, una, santa e universal assembleia dos
-          fiéis
-          remidos de todas as eras e de todos os lugares, chamados do mundo pelo Espírito Santo para seguir a
-          Cristo e
-          adorar a Deus (I Cor.12:27; Jo.4:23; I Tim.3:15; Hb.12:23 e Ap.22:17);</p>
-
-        <p>No batismo bíblico efetuado por imersão em águas, uma só vez, em nome do Pai, e do Filho, e do Espírito
-          Santo,
-          conforme determinou o Senhor Jesus Cristo (Mt.28:19; Rm.6:1-6; Cl. 2:12);</p>
-
-        <p>Na necessidade e na possibilidade de termos vida santa e irrepreensível por obra do Espírito Santo, que
-          nos
-          capacita a viver como fiéis testemunhas de Jesus Cristo (Hb.9:14; I Pe 1:15);</p>
-
-        <p>No batismo no Espírito Santo, conforme as Escrituras, que nos é dado por Jesus Cristo, demonstrado pela
-          evidência física do falar em outras línguas, conforme a sua vontade (At.1:5; 2:4; 10:44-46; 19:1-7);</p>
-
-        <p> Na atualidade dos dons espirituais distribuídos pelo Espírito Santo à Igreja para sua edificação,
-          conforme
-          sua
-          soberana vontade para o que for útil (I Co.12:1-12);</p>
-
-        <p>Na segunda vinda de Cristo, em duas fases distintas: a primeira – invisível ao mundo, para arrebatar a
-          sua
-          Igreja antes da Grande Tribulação; a segunda – visível e corporal, com a sua Igreja glorificada, para
-          reinar
-          sobre o mundo durante mil anos (I Ts.4:16,17; I Co.15:51-54; Ap.20:4; Zc.14:5 e Jd.1:14);</p>
-
-        <p>No comparecimento ante o Tribunal de Cristo de todos os cristãos arrebatados, para receberem a recompensa
-          pelos
-          seus feitos em favor da causa de Cristo na Terra (II Co.5:10);</p>
-
-        <p> No Juízo Final, onde comparecerão todos os ímpios; desde a Criação até o fim do Milênio, os que morrerem
-          durante
-          o período milenial e os que, ao final desta época, estiverem vivos. E na Eternidade de tristeza e
-          tormento
-          para
-          os infiéis e vida eterna de gozo e felicidade para os fiéis de todos os tempos (Mt.25:46; Is.65:20;
-          Ap.20:11-15;
-          21:1-4);</p>
-
-        <p>Cremos, também, que o casamento foi instituído por Deus e retificado por nosso Senhor Jesus Cristo como
-          união
-          entre um homem e uma mulher, nascidos macho e fêmea, respectivamente, em conformidade com o definido
-          pelo
-          sexo
-          de criação geneticamente determinado (Gn.2:18; Jo.2:1,2; Gn.2:24; 1:27).</p>
-
-      </div>
-      <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-        <h2 class="mb-4">Aumente seu conhecimento</h2>
-
-        <section class="noticias bg-light py-5">
-          <div class="container">
-            <!-- <h2 class="mb-4">Notícias</h2> -->
-            <div class="row g-4">
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 1</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a>
-                    </p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 3</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 3</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 3</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 3</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 3</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 3</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card h-100">
+                      <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
+                      <div class="card-body">
+                        <!-- <h3 class="card-title">Notícia 3</h3> -->
+                        <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
+                            diam amet</a></p>
+                        <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 2</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card h-100">
-                  <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
-                  <div class="card-body">
-                    <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                        diam amet</a></p>
-                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-        </section>
-      </div>
-    </div>
-  </div>
-
-  <!-- Features Start -->
-  <div class="container-xxl py-5">
-    <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-      <!-- <p class="fs-5 fw-medium text-primary">Features</p> -->
-      <h1 class="display-5 mb-5">Isto pode lhe interessar</h1>
-    </div>
-    <div class="container">
-      <div class="row g-0 feature-row">
-        <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
-          <div class="feature-item border h-100 p-5">
-            <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-              <img class="img-fluid" src="img/icon/icon-1.png" alt="Icon">
-            </div>
-            <h5 class="mb-3">Award Winning</h5>
-            <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
-          <div class="feature-item border h-100 p-5">
-            <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-              <img class="img-fluid" src="img/icon/icon-2.png" alt="Icon">
-            </div>
-            <h5 class="mb-3">Professional Staff</h5>
-            <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
-          <div class="feature-item border h-100 p-5">
-            <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-              <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
-            </div>
-            <h5 class="mb-3">Fair Prices</h5>
-            <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
-          <div class="feature-item border h-100 p-5">
-            <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
-              <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
-            </div>
-            <h5 class="mb-3">24/7 Support</h5>
-            <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+            </section>
           </div>
         </div>
       </div>
+
+      <!-- Features Start -->
+      <!-- <div class="container-xxl py-5"> -->
+      <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+        <p class="fs-5 fw-medium text-primary">Features</p>
+        <h1 class="display-5 mb-5">Confissão de Fé</h1>
+      </div>
+      <div class="container">
+        <div class="row g-0 feature-row">
+          <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
+            <div class="feature-item border h-100 p-5">
+              <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                <img class="img-fluid" src="img/icon/icon-1.png" alt="Icon">
+              </div>
+              <h5 class="mb-3">Award Winning</h5>
+              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
+            <div class="feature-item border h-100 p-5">
+              <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                <img class="img-fluid" src="img/icon/icon-2.png" alt="Icon">
+              </div>
+              <h5 class="mb-3">Professional Staff</h5>
+              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
+            <div class="feature-item border h-100 p-5">
+              <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
+              </div>
+              <h5 class="mb-3">Fair Prices</h5>
+              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
+            <div class="feature-item border h-100 p-5">
+              <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
+                <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
+              </div>
+              <h5 class="mb-3">24/7 Support</h5>
+              <p class="mb-0">Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-  <!-- Features End -->
+    <!-- Features End -->
