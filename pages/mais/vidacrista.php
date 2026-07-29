@@ -112,7 +112,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 1</h3> -->
-                    <p class="card-text"><a href="">Você Sabia que...</a>
+                    <p class="card-text"><a href="">O que é nascer de novo?</a>
                     </p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
@@ -124,7 +124,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class=" card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 2</h3> -->
-                    <p class="card-text"><a href="">Entenda a Bíblia</a></p>
+                    <p class="card-text"><a href="">O verdadeiro arrependimento segundo a Bíblia</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -135,7 +135,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
+                    <p class="card-text"><a href="">A santificação: um processo diário</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -145,7 +145,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
+                    <p class="card-text"><a href="">O temor do Senhor</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -155,7 +155,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
+                    <p class="card-text"><a href="">Como discernir a vontade de Deus</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -165,7 +165,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Estudos Rápidos</a></p>
+                    <p class="card-text"><a href="">O silêncio de Deus: quando Ele parece não responder</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -185,7 +185,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Promessas de Deus</a></p>
+                    <p class="card-text"><a href="">A importância da perseverança na fé</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
@@ -195,7 +195,67 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
-                    <p class="card-text"><a href="">Erros Comuns na Fé</a></p>
+                    <p class="card-text"><a href="">O preço de seguir a Cristo</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">A cruz que cada cristão deve carregar</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">O que significa viver pela fé</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">A diferença entre religião e relacionamento com Deus</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">O cristão e a batalha contra o pecado</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">Como permanecer firme em tempos difíceis</a></p>
+                    <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
+                  <div class="card-body">
+                    <!-- <h3 class="card-title">Notícia 3</h3> -->
+                    <p class="card-text"><a href="">A esperança da vida eterna</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
