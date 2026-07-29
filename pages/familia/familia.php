@@ -52,7 +52,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 1</h3> -->
-                  <p class="card-text"><a href="">Você Sabia que...</a>
+                  <p class="card-text"><a href="">O propósito do casamento.</a>
                   </p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
@@ -64,7 +64,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class=" card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 2</h3> -->
-                  <p class="card-text"><a href="">Entenda a Bíblia</a></p>
+                  <p class="card-text"><a href="">O amor entre marido e esposa</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -75,7 +75,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
+                  <p class="card-text"><a href="">O papel do marido segundo Efésios 5</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -85,7 +85,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
+                  <p class="card-text"><a href="">A submissão bíblica explicada corretamente</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -95,7 +95,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
+                  <p class="card-text"><a href="">Como criar filhos segundo a Palavra</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -105,7 +105,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Estudos Rápidos</a></p>
+                  <p class="card-text"><a href="">Honra aos pais</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -115,7 +115,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
+                  <p class="card-text"><a href="">Perdão dentro da família</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -125,7 +125,17 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Promessas de Deus</a></p>
+                  <p class="card-text"><a href="">Restaurando relacionamentos</a></p>
+                  <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+              </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class="card-img-top">
+                <div class="card-body">
+                  <!-- <h3 class="card-title">Notícia 3</h3> -->
+                  <p class="card-text"><a href="">A família como projeto de Deus</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -135,7 +145,7 @@
                 <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Erros Comuns na Fé</a></p>
+                  <p class="card-text"><a href="">Culto doméstico</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>

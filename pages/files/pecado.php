@@ -1,7 +1,7 @@
-<!-- <div class="container-xxl py-5"> -->
 <div class="container">
+  <title>Pecado - Bits de Fé</title>
   <div class="right d-flex justify-content-end mb-3">
-    <button type="button" onclick="likePage('palavra')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+    <button type="button" onclick="likePage('pecado')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
     <span id="like-count">
       <button type="button" class="btn btn-outline-primary">0</button>
     </span>
@@ -51,10 +51,10 @@
           <div class="row g-4">
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 1</h3> -->
-                  <p class="card-text"><a href="">Você Sabia que...</a>
+                  <p class="card-text"><a href="">O caráter cristão e o fruto do Espírito</a>
                   </p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
@@ -63,10 +63,10 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card2.jpg" alt="" class=" card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class=" card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 2</h3> -->
-                  <p class="card-text"><a href="">Entenda a Bíblia</a></p>
+                  <p class="card-text"><a href="">O adultério começa no coração</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -74,70 +74,100 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
+                  <p class="card-text"><a href="">As pequenas brechas que destroem um casamento</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card4.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
+                  <p class="card-text"><a href="">A responsabilidade de quem exerce um ministério</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card5.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
+                  <p class="card-text"><a href="">Como a disciplina bíblica deve ser aplicada na igreja</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4" heigth="150">
               <div class="card h-100">
-                <img src="./public/assets/cards/card6.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Estudos Rápidos</a></p>
+                  <p class="card-text"><a href="">Arrependimento verdadeiro ou apenas remorso?</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card7.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
+                  <p class="card-text"><a href="">É possível restaurar um casamento após uma traição?</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card8.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Promessas de Deus</a></p>
+                  <p class="card-text"><a href="">Como proteger o casamento antes que o pecado aconteça</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card9.jpg" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Erros Comuns na Fé</a></p>
+                  <p class="card-text"><a href="">O papel do homem como sacerdote do lar</a></p>
+                  <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" class="card-img-top">
+                <div class="card-body">
+                  <!-- <h3 class="card-title">Notícia 3</h3> -->
+                  <p class="card-text"><a href="">O papel da mulher na edificação da família</a></p>
+                  <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" class="card-img-top">
+                <div class="card-body">
+                  <!-- <h3 class="card-title">Notícia 3</h3> -->
+                  <p class="card-text"><a href="">O perigo das redes sociais e das conversas privadas no contexto do casamento</a></p>
+                  <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" class="card-img-top">
+                <div class="card-body">
+                  <!-- <h3 class="card-title">Notícia 3</h3> -->
+                  <p class="card-text"><a href="">A pureza sexual como expressão de santidade</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>

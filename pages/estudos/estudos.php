@@ -69,10 +69,10 @@
           <div class="row g-4">
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 1</h3> -->
-                  <p class="card-text"><a href="">Você Sabia que...</a>
+                  <p class="card-text"><a href="">Como estudar a Bíblia corretamente</a>
                   </p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
@@ -81,10 +81,10 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card2.jpg" alt="" class=" card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class=" card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 2</h3> -->
-                  <p class="card-text"><a href="">Entenda a Bíblia</a></p>
+                  <p class="card-text"><a href="">Contexto histórico das Escrituras</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
@@ -92,70 +92,70 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
+                  <p class="card-text"><a href="">Como interpretar um texto bíblico</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card4.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
+                  <p class="card-text"><a href="">Erros comuns de interpretação</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card5.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
+                  <p class="card-text"><a href="">Diferença entre Antigo e Novo Testamento</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4" heigth="150">
               <div class="card h-100">
-                <img src="./public/assets/cards/card6.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Estudos Rápidos</a></p>
+                  <p class="card-text"><a href="">A Bíblia explica a própria Bíblia</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card7.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
+                  <p class="card-text"><a href="">Tipos e figuras do Antigo Testamento</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card8.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Promessas de Deus</a></p>
+                  <p class="card-text"><a href="">As alianças de Deus</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card9.jpg" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
-                  <p class="card-text"><a href="">Erros Comuns na Fé</a></p>
+                  <p class="card-text"><a href="">A Bíblia e a Ciência</a></p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
               </div>

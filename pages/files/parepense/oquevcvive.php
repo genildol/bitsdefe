@@ -1,7 +1,7 @@
 <div class="container my-5">
 
   <head>
-    <title>Bits de Fé - O que você tem vivido reflete o que você crê</title>
+    <title>O que você tem vivido reflete o que você crê - Bits de Fé</title>
   </head>
   <div class="right d-flex justify-content-end mb-3">
     <button type="button" onclick="likePage('oquevcvive')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
@@ -89,7 +89,7 @@
             <div class="row g-4">
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 1</h3> -->
                     <p class="card-text"><a href="">Você Sabia que...</a>
@@ -101,7 +101,7 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card2.jpg" alt="" class=" card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class=" card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 2</h3> -->
                     <p class="card-text"><a href="">Entenda a Bíblia</a></p>
@@ -112,7 +112,7 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
@@ -122,7 +122,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card4.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
@@ -132,7 +132,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card5.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
@@ -142,7 +142,7 @@
               </div>
               <div class="col-md-4" heigth="150">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card6.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Estudos Rápidos</a></p>
@@ -152,7 +152,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card7.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
@@ -162,7 +162,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card8.jpg" alt="" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Promessas de Deus</a></p>
@@ -172,7 +172,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="./public/assets/cards/card9.jpg" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Erros Comuns na Fé</a></p>

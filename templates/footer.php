@@ -39,23 +39,23 @@
         <h4 class="text-white mb-4">Links Úteis</h4>
         <a class="btn btn-link" href="index.php?page=home">Home</a>
         <a class="btn btn-link" href="index.php?page=igreja/igreja">Igreja</a>
-        <a class="btn btn-link" href="index.php?page=estudos/estudos">Estudos</a>
+        <a class="btn btn-link" href="index.php?page=estudos/estudos">Artigos</a>
         <a class="btn btn-link" href="index.php?page=familia/familia">Família</a>
         <a class="btn btn-link" href="index.php?page=ministerio/ministerio">Ministério</a>
       </div>
       <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-4">Temas</h4>
         <a class="btn btn-link" href="index.php?page=familia/familia">Jesus Cristo</a>
-        <a class="btn btn-link" href="index.php?page=home">Casamento</a>
+        <a class="btn btn-link" href="index.php?page=home">Família</a>
         <a class="btn btn-link" href="index.php?page=igreja/igreja">Salvação</a>
-        <a class="btn btn-link" href="index.php?page=estudos/estudos">Pecado</a>
+        <a class="btn btn-link" href="index.php?page=estudos/estudos">Ministério</a>
         <a class="btn btn-link" href="index.php?page=ministerio/ministerio">Trabalho</a>
       </div>
       <div class="col-lg-3 col-md-6">
         <h4 class="text-white mb-4">Sobre</h4>
         <a class="btn btn-link" href="index.php?page=sobre/credo">Credo</a>
         <a class="btn btn-link" href="index.php?page=sobre/sobre">Quem sou</a>
-        <a class="btn btn-link" href="index.php?page=sobre/contato">Objetivo</a>
+        <a class="btn btn-link" href="index.php?page=sobre/confissao">Confissão de Fé</a>
         <a class="btn btn-link" href="index.php?page=sobre/atualizacoes">Últimas Atualizações</a>
         <a class="btn btn-link" href="index.php?page=sobre/politica">Política de Privacidade</a>
       </div>

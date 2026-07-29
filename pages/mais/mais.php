@@ -1,11 +1,11 @@
   <div class="container">
     <title>Bits de Fé - Mais Conhecimentos Bíblicos</title>
     <div class="right d-flex justify-content-end mb-3">
-          <button type="button" onclick="likePage('mais')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
-            <span id="like-count">
-              <button type="button" class="btn btn-outline-primary">0</button>
-              </span>
-        </div>
+      <button type="button" onclick="likePage('mais')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+      <span id="like-count">
+        <button type="button" class="btn btn-outline-primary">0</button>
+      </span>
+    </div>
     <div class="row g-5">
       <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
         <h2 class="display-8 mb-4">Veja aqui muitos assuntos importantes</h2>
@@ -108,7 +108,7 @@
             <div class="row g-4">
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="Notícia 1" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 1</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -121,7 +121,7 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="Notícia 2" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 2</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -133,7 +133,7 @@
 
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="Notícia 3" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -144,7 +144,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="Notícia 3" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -155,7 +155,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="Notícia 3" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -166,7 +166,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="Notícia 3" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -177,7 +177,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="Notícia 3" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -188,7 +188,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="Notícia 3" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -199,7 +199,7 @@
               </div>
               <div class="col-md-4">
                 <div class="card h-100">
-                  <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
+                  <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="Notícia 3" class="card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 3</h3> -->
                     <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
