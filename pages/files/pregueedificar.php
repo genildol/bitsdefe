@@ -1,4 +1,5 @@
 <div class="container">
+
   <head>
     <title>Bits de Fé - Estudos Bíblicos</title>
   </head>
@@ -11,7 +12,7 @@
   <div class="row g-5">
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
       <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-      <h2 class="display-8 mb-4">Estudo da Palavra de Deus</h2>
+      <h2 class="display-8 mb-4">Pregue para edificar, exortar e corrigir</h2>
       <p>Where does it come from?
         Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
         literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
@@ -50,7 +51,7 @@
           <div class="row g-4">
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card1.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 1</h3> -->
                   <p class="card-text"><a href="">Você Sabia que...</a>
@@ -62,7 +63,7 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card2.jpg" alt="" class=" card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class=" card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 2</h3> -->
                   <p class="card-text"><a href="">Entenda a Bíblia</a></p>
@@ -73,7 +74,7 @@
 
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card3.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
                   <p class="card-text"><a href="">Perguntas Difíceis da Fé</a></p>
@@ -83,7 +84,7 @@
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card4.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
                   <p class="card-text"><a href="">Temas Atuais à Luz da Bíblia</a></p>
@@ -93,7 +94,7 @@
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card5.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
                   <p class="card-text"><a href="">Doutrinas Bíblicas</a></p>
@@ -103,7 +104,7 @@
             </div>
             <div class="col-md-4" heigth="150">
               <div class="card h-100">
-                <img src="./public/assets/cards/card6.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
                   <p class="card-text"><a href="">Estudos Rápidos</a></p>
@@ -113,7 +114,7 @@
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card7.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
                   <p class="card-text"><a href="">Vida Cristã na Prática</a></p>
@@ -123,7 +124,7 @@
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card8.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
                   <p class="card-text"><a href="">Promessas de Deus</a></p>
@@ -133,7 +134,7 @@
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="./public/assets/cards/card9.jpg" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 3</h3> -->
                   <p class="card-text"><a href="">Erros Comuns na Fé</a></p>

@@ -49,7 +49,7 @@
           <img src="./public/assets/bits.png" width="50" height="50" alt="Logo do Site Bits de Fé">
         </a>
         <h2 class="text-white fw-bold m-0">Bits de Fé</h2>
-        <span class="ms-auto fw-bold text-warning"> Em Desenvolvimento</span>
+        <span class="ms-auto fw-bold text-warning">Site em Desenvolvimento</span>
       </div>
     </div>
   </div>

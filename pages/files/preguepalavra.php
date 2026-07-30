@@ -13,6 +13,7 @@
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
       <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
       <h2 class="display-8 mb-4">Pregue a Palavra: A autoridade da pregação está na Escritura, não na experiência pessoal</h2>
+      
       <p>A pregação cristã verdadeira tem sua base exclusiva na Palavra de Deus, e não em opiniões humanas, sentimentos ou experiências pessoais. A Escritura é a revelação final e suficiente da vontade de Deus para a fé e a prática. O apóstolo Paulo exorta claramente: “Prega a Palavra, insta a tempo e fora de tempo” (2 Timóteo 4:2). Isso deixa evidente que o conteúdo da pregação deve ser a Palavra revelada, e não ideias pessoais adaptadas ao gosto do público.</p>
 
       <p>A autoridade do pregador não está em sua história de vida, em seus testemunhos ou em sua eloquência, mas no texto bíblico corretamente interpretado. A Bíblia afirma que “toda a Escritura é divinamente inspirada e proveitosa para ensinar, repreender, corrigir e instruir em justiça” (2 Timóteo 3:16). Quando a pregação se afasta da Escritura, ela perde sua autoridade espiritual, tornando-se apenas discurso humano.</p>

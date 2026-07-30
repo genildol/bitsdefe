@@ -224,9 +224,9 @@
               <h5 class="mb-3">Salvar o ser humano do pecado</h4>
                 <p class="mb-0">Essa é a missão central de Jesus. Ele veio para oferecer salvação e reconciliação com Deus. Tudo o que Jesus ensina</p>
             </div>
-            <div class="service-btn rounded-0 rounded-bottom">
+            <!-- <div class="service-btn rounded-0 rounded-bottom">
               <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -238,9 +238,9 @@
               <h5 class="mb-3">Fazer discípulos e “pescadores de homens”</h4>
                 <p class="mb-0">Jesus não veio agir sozinho, mas formar pessoas que continuariam Sua obra. Ao chamar os discípulos, Ele os </p>
             </div>
-            <div class="service-btn rounded-0 rounded-bottom">
+            <!-- <div class="service-btn rounded-0 rounded-bottom">
               <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -250,11 +250,11 @@
                 <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/icon/icon-7.png" alt="Icon">
               </div>
               <h5 class="mb-3">Unir pessoas, povos e nações</h4>
-                <p class="mb-0">Jesus revela que o Reino de Deus não está limitado a um povo, língua ou cultura. Ele quebra barreiras religiosas e</p>
+                <p class="mb-0">Jesus revela que o Reino de Deus não está limitado a um povo, língua ou cultura. Ele quebra barreiras religiosas </p>
             </div>
-            <div class="service-btn rounded-0 rounded-bottom">
+            <!-- <div class="service-btn rounded-0 rounded-bottom">
               <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -266,9 +266,9 @@
               <h5 class="mb-3">Cuidar dos pobres, marginalizados e presos</h4>
                 <p class="mb-0">Jesus demonstra que o Reino de Deus se manifesta por meio da misericórdia prática. Ele se identifica com os que sofrem</p>
             </div>
-            <div class="service-btn rounded-0 rounded-bottom">
+            <!-- <div class="service-btn rounded-0 rounded-bottom">
               <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -280,9 +280,9 @@
               <h5 class="mb-3">Mostrar quem é Deus</h4>
                 <p class="mb-0">Jesus veio revelar o caráter do Pai por meio de Suas palavras e atitudes. Por meio de Jesus, Deus se revela como amor, graça, justiça e verdade</p>
             </div>
-            <div class="service-btn rounded-0 rounded-bottom">
+            <!-- <div class="service-btn rounded-0 rounded-bottom">
               <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -294,9 +294,9 @@
               <h5 class="mb-3">Transformar vidas e a criação</h4>
                 <p class="mb-0">Jesus não veio apenas para perdoar pecados, mas para restaurar a dignidade humana e trazer vida plena. Jesus veio transformar vidas e a criação inteira.</p>
             </div>
-            <div class="service-btn rounded-0 rounded-bottom">
+            <!-- <div class="service-btn rounded-0 rounded-bottom">
               <a class="text-primary fw-medium" href="">busque aqui<i class="bi bi-chevron-double-right ms-2"></i></a>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
@@ -403,7 +403,7 @@
           <div class="team-item rounded overflow-hidden pb-4">
             <img class="img-fluid mb-4" src="img/team-2.jpg" alt="">
             <h5>Pregue com fidelidade e verdade</h5>
-            <span class="text-primary"><a href="index.php?page=/files/oreguefidelidade">Não adapte a mensagem para agradar pessoas. Pregue o que Deus diz, como Ele diz</a></span>
+            <span class="text-primary"><a href="index.php?page=/files/preguefidelidade">Não adapte a mensagem para agradar pessoas. Pregue o que Deus diz, como Ele diz</a></span>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">

@@ -18,50 +18,7 @@
 					<p>O dicionário bíblico online é uma ferramenta valiosa para o estudo das Escrituras, oferecendo acesso fácil a informações sobre a Bíblia a qualquer hora e em qualquer lugar. Nela você encontrará recursos que facilitam a compreensão e a aplicação dos ensinamentos bíblicos em sua vida.</p>
 
 				</div>
-				<!-- Card 1 -->
-				<div class="col-lg-4 col-md-6">
-					<div class="card h-100">
-						<img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/home/antigotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 1 Image">
-						<div class="card-body">
-							<h5 class="card-title">Antigo Testamento</h5>
-							<p class="card-text">
-								O Antigo Testamento é a primeira parte da Bíblia cristã, composta por 39 livros (no cânon protestante)...
-							</p>
-							<a href="index.php?page=estudos/antigotestamento" class="btn btn-primary">Saiba mais</a>
-						</div>
-					</div>
-				</div>
-				<!-- Card 2 -->
-				<div class="col-lg-4 col-md-6">
-					<div class="card h-100">
-						<img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/home/novotestamento.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 2 Image">
-						<div class="card-body">
-							<h5 class="card-title">Novo Testamento</h5>
-							<p class="card-text">
-								O Novo Testamento é a segunda parte da Bíblia cristã, composta por 27 livros que narram a vida,
-								ensinamentos, morte e...
-							</p>
-							<a href="index.php?page=estudos/novotestamento" class="btn btn-primary">Saiba mais</a>
-						</div>
-					</div>
-				</div>
-				<!-- Card 3 -->
-				<div class="col-lg-4 col-md-6">
-					<div class="card h-100">
-						<img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/home/graca.jpg" width="150px" height="200px" alt="Image" class="card-img-top" alt="Card 3 Image">
-						<div class="card-body">
-							<h5 class="card-title">A graça de Deus</h5>
-							<p class="card-text">
-								A graça de Deus é amor e misericórdia que salva e transforma, independentemente de obras ou merecimentos
-							</p>
-							<a href="index.php?page=estudos/graca" class="btn btn-primary">Saiba mais</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		</div>
-		<!-- BOTÕES DO ALFABETO -->
+				<!-- BOTÕES DO ALFABETO -->
 		<div class="container-xxl py-5">
 			<div class="container">
 				<a href="index.php?page=files/dicionario/a" class="btn btn-primary">A</a>

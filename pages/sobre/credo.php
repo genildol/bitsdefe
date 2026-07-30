@@ -169,7 +169,7 @@
                 <div class="row g-4">
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/gal_1.jpg" alt="Notícia 1" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="Notícia 1" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 1</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -182,7 +182,7 @@
 
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/gal_2.jpg" alt="Notícia 2" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="Notícia 2" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 2</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -194,7 +194,7 @@
 
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/gal_3.jpg" alt="Notícia 3" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-3.jpg" alt="Notícia 3" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 3</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -205,7 +205,7 @@
                   </div>
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/gal_4.jpg" alt="Notícia 3" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-4.jpg" alt="Notícia 3" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 3</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -216,7 +216,7 @@
                   </div>
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/gal_5.jpg" alt="Notícia 3" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-5.jpg" alt="Notícia 3" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 3</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -227,7 +227,7 @@
                   </div>
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/gal_6.jpg" alt="Notícia 3" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-6.jpg" alt="Notícia 3" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 3</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -238,7 +238,7 @@
                   </div>
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/hero_1.jpg" alt="Notícia 3" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-7.jpg" alt="Notícia 3" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 3</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -249,7 +249,7 @@
                   </div>
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/hero_2.jpg" alt="Notícia 3" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="Notícia 3" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 3</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
@@ -260,7 +260,7 @@
                   </div>
                   <div class="col-md-4">
                     <div class="card h-100">
-                      <img src="images/hero_3.jpg" alt="Notícia 3" class="card-img-top">
+                      <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="Notícia 3" class="card-img-top">
                       <div class="card-body">
                         <!-- <h3 class="card-title">Notícia 3</h3> -->
                         <p class="card-text"><a href="">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
