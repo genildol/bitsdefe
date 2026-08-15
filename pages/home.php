@@ -385,8 +385,7 @@
         <!-- SÉTIMO CARROUSEL -->
         <div class="project-item mb-5">
           <div class="position-relative">
-            <!-- <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/duvida.webp" alt=""> -->
-            <img class="img-fluid" src="./public/assets/img/duvida.webp" alt="">
+            <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/duvida.webp" alt="">
           </div>
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/cuidado">Cuidado, não se acostume a está vazio</a>

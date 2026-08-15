@@ -1,10 +1,10 @@
 <div class="container">
 
   <head>
-    <title>Bits de Fé - Estudos Bíblicos</title>
+    <title>Escolhas invisíveis, consequências eternas - Bits de Fé</title>
   </head>
   <div class="right d-flex justify-content-end mb-3">
-    <button type="button" onclick="likePage('estudos')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
+    <button type="button" onclick="likePage('cuidado')" id="like-section" class="btn btn-success">Curta nosso Site👍 </button>
     <span id="like-count">
       <button type="button" class="btn btn-outline-primary">0</button>
     </span>
@@ -12,38 +12,57 @@
   <div class="row g-5">
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
       <!-- <p class="fs-5 fw-medium text-primary">Get A Quote</p> -->
-      <h2 class="display-8 mb-4">Pregue para edificar, exortar e corrigir</h2>
-      <p>Where does it come from?
-        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-        literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-        College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-        and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-        Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-        Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-        Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-        1.10.32.</p>
+      <h2 class="display-8 mb-4">Cuidado, não se acosteume a está vazio</h2>
 
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-        dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-        nobis assumenda suscipit.</p>
+      <h5 class="display-8 mb-4">Quando a falta de conhecimento da Palavra se torna um modo de vida</h5>
 
-      <p>Where does it come from?
-        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
-        literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney
-        College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
-        and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem
-        Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and
-        Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the
-        Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
-        1.10.32.</p>
+      <p></p>
 
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo quasi praesentium velit, repellendus
-        dolore omnis maiores ad asperiores ratione illum eveniet aut aliquid adipisci, quae expedita reprehenderit,
-        nobis assumenda suscipit.</p>
+      <p><i></i></p>
+
+      <p> </p>
+      <p><i></i></p>
+
+      <p>.</p>
+      <p><i>()</i></p>
+
+      <p>.</p>
+
+      <p><i></i></p>
+      <h5 class="display-8 mb-4"></h5>
+      <p></p>
+
+      <p><i></i></p>
+
+      <p></p>
+      <h5 class="display-8 mb-4"></h5>
+
+      <p><i></i></p>
+
+      <p></p>
+
+      <p><i></i></p>
+
+      <p>.</p>
+      <h5 class="display-8 mb-4"></h5>
+
+      <p><i></i></p>
+
+      <p></p>
+
+      <p><i></i></p>
+
+      <p></p>
+      <h5 class="display-8 mb-4"></h5>
+      <p><i></i></p>
+
+      <p>.</p>
+
+      <p><i></i></p>
 
     </div>
     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-      <h2 class="mb-4">Aumente seu conhecimento</h2>
+      <h2 class="mb-4">Estes arquivos são importantes</h2>
 
       <section class="noticias bg-light py-5">
         <div class="container">
@@ -149,5 +168,3 @@
     </div>
   </div>
 </div>
-</div>
-<!-- Quote Start -->
