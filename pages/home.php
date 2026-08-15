@@ -312,6 +312,7 @@
         <h2 class="fs-5 fw-medium text-primary">Pare e pense:</h2>
         <h2 class="display-5 mb-5">O que realmente você quer de sua vida?</h2>
       </div>
+      <!-- PRIMEIRO CARROUSEL -->
       <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.1s">
         <div class="project-item mb-5">
           <div class="position-relative" height="400px">
@@ -322,7 +323,7 @@
             <span>Em meio ao barulho do mundo, das cobranças, das expectativas alheias e até...</span>
           </div>
         </div>
-
+        <!-- SEGUNDO CARROUSEL -->
         <div class="project-item mb-5">
           <div class="position-relative">
             <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/prova1.jpg" alt="">
@@ -332,6 +333,7 @@
             <span>Grande parte da nossa vida é construída por escolhas que ninguém vê. Pensamentos...</span>
           </div>
         </div>
+        <!-- TERCEIRO CARROUSEL -->
         <div class="project-item mb-5">
           <div class="position-relative">
             <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/casalidoso.jpg" alt="">
@@ -350,8 +352,7 @@
             <span>Algumas pessoas pensam que sua vida está baseada em imaginação ou ficção...</span>
           </div>
         </div>
-
-
+        <!-- QUARTO CARROUSEL -->
         <div class="project-item mb-5">
           <div class="position-relative">
             <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/seducao.jpg" alt="">
@@ -361,6 +362,7 @@
             <span>A vida que levamos revela aquilo em que realmente acreditamos. Não no discurso</span>
           </div>
         </div>
+        <!-- QUINTO CARROUSEL -->
         <div class="project-item mb-5">
           <div class="position-relative">
             <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/perdido.jpg" alt="">
@@ -370,6 +372,7 @@
             <span>Dúvidas fazem parte da caminhada humana. Até grandes homens de Deus...</span>
           </div>
         </div>
+        <!-- SEXTO CARROUSEL -->
         <div class="project-item mb-5">
           <div class="position-relative">
             <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/idosopensando.jpg" alt="">
@@ -377,6 +380,17 @@
           <div class="p-4">
             <a class="d-block h5" href="index.php?page=files/parepense/quandoterminar">Quando tudo terminar, o que terá valido a pena?</a>
             <span>No final da vida, nenhuma pessoa pergunta quanto dinheiro ganhou, mas se viveu com</span>
+          </div>
+        </div>
+        <!-- SÉTIMO CARROUSEL -->
+        <div class="project-item mb-5">
+          <div class="position-relative">
+            <!-- <img class="img-fluid" src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/duvida.webp" alt=""> -->
+            <img class="img-fluid" src="./public/assets/img/duvida.webp" alt="">
+          </div>
+          <div class="p-4">
+            <a class="d-block h5" href="index.php?page=files/parepense/cuidado">Cuidado, não se acostume a está vazio</a>
+            <span>Quando a falta de conhecimento da Palavra se torna um modo de vida </span>
           </div>
         </div>
       </div>

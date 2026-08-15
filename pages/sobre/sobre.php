@@ -100,7 +100,7 @@
                   <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-2.jpg" alt="" class=" card-img-top">
                   <div class="card-body">
                     <!-- <h3 class="card-title">Notícia 2</h3> -->
-                    <p class="card-text"><a href="">Confissão de Fé</a></p>
+                    <p class="card-text"><a href="index.php?page=sobre/confissao">Confissão de Fé</a></p>
                     <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                   </div>
                 </div>
