@@ -35,10 +35,10 @@
           <div class="row g-4">
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/images/img-1.jpg" alt="" class="card-img-top">
+                <img src="https://raw.githubusercontent.com/genildol/bitsdefe/main/public/assets/img/ibe.jpg" alt="" class="card-img-top">
                 <div class="card-body">
                   <!-- <h3 class="card-title">Notícia 1</h3> -->
-                  <p class="card-text"><a href="">Por que congregar?</a>
+                  <p class="card-text"><a href="index.php?page=igreja/qualigreja">Qual igreja Jesus fundou?</a>
                   </p>
                   <!-- <a href="#" class="btn btn-primary">Ler mais</a> -->
                 </div>
