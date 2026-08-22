@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/ogalpa81/bitsdefe.com.br/
+    - export DEPLOYPATH=/home1/ogalpa81/bitsdefe/
     - /bin/cp -R * $DEPLOYPATH
